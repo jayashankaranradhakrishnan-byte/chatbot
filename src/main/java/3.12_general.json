@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "What is the maximum indoor storage protection time for parts coated with Axxatec™ DA-40AL when used without VCI packaging?"
+  },
+  {
+    "id": 2,
+    "question": "Which specific water types are recommended for bath makeup and rinsing when using Axxatec™ DA-40AL to improve bath life?"
+  },
+  {
+    "id": 3,
+    "question": "What is the typical titrant volume (mLs) of 0.1 N acid needed to indicate a 5% concentration of Axxatec™ DA-40AL in a bath solution?"
+  },
+  {
+    "id": 4,
+    "question": "For which specific metal type is Axxatec™ HST-20L NOT compatible, according to its technical data sheet?"
+  },
+  {
+    "id": 5,
+    "question": "What additive should be used in conjunction with Axxatec™ HST-20L when the hydrostatic test application involves copper or brass?"
+  },
+  {
+    "id": 6,
+    "question": "What is the recommended add rate per liter of water for Axxatec™ HST-20L when treating water with 90 ppm Chloride and 450 ppm CaCO3?"
+  },
+  {
+    "id": 7,
+    "question": "According to the technical data sheet, what is the optimal storage temperature for Axxatec™ HST-20L?"
+  },
+  {
+    "id": 8,
+    "question": "What is the primary substrate compatibility focus for Axxatec™ HST-M100 that distinguishes it from AxxaVis™ HST-10?"
+  },
+  {
+    "id": 9,
+    "question": "What is the recommended dilution percentage in water for Axxatec™ HST-M100 when protecting aluminum or yellow metals with water containing less than 250 ppm Chloride?"
+  },
+  {
+    "id": 10,
+    "question": "What is the freeze point temperature for Axxatec™ HST-M100 concentrate?"
+  },
+  {
+    "id": 11,
+    "question": "What is the physical form of AxxaVis™ HST-10 (powder or liquid) and what is its primary application technology?"
+  },
+  {
+    "id": 12,
+    "question": "What is the recommended add rate in pounds for AxxaVis™ HST-10 to treat 55 gallons of water with 120 ppm Chloride and 600 ppm CaCO3?"
+  },
+  {
+    "id": 13,
+    "question": "Which two regulatory or environmental compliances are common across all four products (DA-40AL, HST-20L, HST-M100, and HST-10)?"
+  },
+  {
+    "id": 14,
+    "question": "For which product does the technical data sheet specifically state that it is 'not recommended' for outdoor use?"
+  },
+  {
+    "id": 15,
+    "question": "What is the specific personal protective equipment (PPE) recommendation regarding gloves for handling dried parts coated with Axxatec™ DA-40AL?"
+  },
+  {
+    "id": 16,
+    "question": "What is the VOC content (lb/gal) of Axxatec™ DA-40AL concentrate according to EPA Method 24?"
+  },
+  {
+    "id": 17,
+    "question": "What is the proper disposal method for spent Axxatec™ HST-20L working fluid according to the technical data sheet?"
+  },
+  {
+    "id": 18,
+    "question": "What is the recommended dilution percentage range for Axxatec™ DA-40AL in water for typical operation?"
+  },
+  {
+    "id": 19,
+    "question": "What is the specific warning regarding nitrites for AxxaVis™ HST-10 and Axxatec™ HST-20L?"
+  },
+  {
+    "id": 20,
+    "question": "What is the specified typical operating temperature range for spray applications of Axxatec™ DA-40AL?"
+  },
+  {
+    "id": 21,
+    "question": "What is the part number for the 55-gallon drum of Axxatec™ HST-M100?"
+  },
+  {
+    "id": 22,
+    "question": "Which product is described as a 'hard water compatible, water-based, low-foaming liquid concentrate rust preventative and light-duty cleaner'?"
+  },
+  {
+    "id": 23,
+    "question": "What is the maximum recommended concentration of Axxatec™ HST-M100 for ferrous substrates in water with 100 ppm Chloride?"
+  },
+  {
+    "id": 24,
+    "question": "What does the disposal section for Axxatec™ DA-40AL state about the product in an unopened original container regarding hazardous waste criteria?"
+  },
+  {
+    "id": 25,
+    "question": "For which product is it explicitly stated that it may leave a white residue when pooled in high concentration?"
+  }
+]

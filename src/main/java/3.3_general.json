@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "What does the abbreviation VCI stand for according to the ZERUST® documentation?"
+  },
+  {
+    "id": 2,
+    "question": "What is the name of the closed-loop recycling program introduced by ZERUST® in partnership with RecycleMax®?"
+  },
+  {
+    "id": 3,
+    "question": "What specific ZERUST® VCI packaging product uses post-consumer recycled (PCR) materials to close the loop in the ZeCycle program?"
+  },
+  {
+    "id": 4,
+    "question": "According to the ZeCycle program overview, what are the on-site steps Company B must take with used ZERUST® VCI packaging before collection?"
+  },
+  {
+    "id": 5,
+    "question": "What is the estimated greenhouse gas (GHG) emission offset for recycling 1,000 lbs of polyethylene film through ZeCycle compared to using virgin LDPE?"
+  },
+  {
+    "id": 6,
+    "question": "According to the ActivCapsule™ technical data sheet, which metals does the FAC1-1(S) capsule protect, and what special instruction applies to copper and brass?"
+  },
+  {
+    "id": 7,
+    "question": "What is the maximum protection duration for ferrous metals when using the ActivCapsule™ FAC1-1(S) in a sealed enclosure?"
+  },
+  {
+    "id": 8,
+    "question": "According to the ActivCapsule™ technical data sheet, what should be done to the enclosure to ensure the protective vapor barrier remains effective?"
+  },
+  {
+    "id": 9,
+    "question": "What does the ActivPak®(LS) technical data sheet state about the change in sachet material color and its impact on product performance?"
+  },
+  {
+    "id": 10,
+    "question": "According to the ActivPak®(LS) technical data sheet, what is the maximum protection volume for an ActivPak®(LS)-35 in a normal environment?"
+  },
+  {
+    "id": 11,
+    "question": "What is the recommended storage temperature and relative humidity for ActivPak®(LS) products as per the technical data sheet?"
+  },
+  {
+    "id": 12,
+    "question": "What is the maximum protection duration for the standard ActivaPak® in a sealed enclosure according to its technical data sheet?"
+  },
+  {
+    "id": 13,
+    "question": "What does the abbreviation FCI™ stand for in the context of ZERUST® VCI technology?"
+  },
+  {
+    "id": 14,
+    "question": "What is the primary function of the RecycleMax® platform within the ZeCycle program?"
+  },
+  {
+    "id": 15,
+    "question": "According to the ZeCycle document, what are three benefits of recycling ZERUST® VCI packaging?"
+  },
+  {
+    "id": 16,
+    "question": "What is the recommended placement principle for an ActivCapsule™ in a deeper enclosure to ensure complete protection?"
+  },
+  {
+    "id": 17,
+    "question": "How long does it take for ZERUST® protective molecules to dissipate from metal surfaces after the enclosure is opened, according to the ActivCapsule™ and ActivaPak® data sheets?"
+  },
+  {
+    "id": 18,
+    "question": "According to the ActivPak®(LS) technical data sheet, what is the protection volume for the ActivPak®(LS)-T330 model in an aggressive environment?"
+  },
+  {
+    "id": 19,
+    "question": "What is the typical appearance of the ActivaPak® sachet as described in its technical data sheet?"
+  },
+  {
+    "id": 20,
+    "question": "Which specific test method is cited in the technical data sheets to verify the Vapor Inhibiting Ability (VIA) of ZERUST® products?"
+  },
+  {
+    "id": 21,
+    "question": "What is the maximum protection volume for an ActivPak®(LS)-T350 in a normal environment?"
+  },
+  {
+    "id": 22,
+    "question": "According to the ActivPak®(LS) technical data sheet, what precaution should be taken regarding metal surfaces in direct contact with wood or cardboard?"
+  },
+  {
+    "id": 23,
+    "question": "What does the ZeCycle program do with the collected and processed VCI packaging at the recycling facility?"
+  },
+  {
+    "id": 24,
+    "question": "What is the stated purpose of the ZERUST® ActivCapsule™ FAC1-1(S) regarding hard-to-reach areas?"
+  },
+  {
+    "id": 25,
+    "question": "According to the ActivaPak® technical data sheet, what is the recommended action if the enclosure has regular air replacement, such as in cooling systems?"
+  },
+  {
+    "id": 26,
+    "question": "What is the disposal recommendation for unused or used ActivPak®(LS) packets according to its technical data sheet?"
+  },
+  {
+    "id": 27,
+    "question": "What is the primary benefit of using ZERUST® ICT®510-PCR30 VCI packaging in the ZeCycle program?"
+  },
+  {
+    "id": 28,
+    "question": "How does the ZeCycle program contribute to reducing landfill use, according to the document?"
+  },
+  {
+    "id": 29,
+    "question": "What is the ideal location to place an ActivCapsule™ or ActivaPak® to obtain maximum coverage of protection?"
+  },
+  {
+    "id": 30,
+    "question": "According to the technical data sheets, what does the term \"up to\" signify regarding protection duration and volume?"
+  },
+  {
+    "id": 31,
+    "question": "What is the warranty limitation stated in the declaration section of the ActivPak®(LS) and ActivaPak® technical data sheets?"
+  },
+  {
+    "id": 32,
+    "question": "What type of materials are used to manufacture new ZERUST® ICT®510-PCR30 VCI packaging in the ZeCycle process?"
+  },
+  {
+    "id": 33,
+    "question": "According to the ActivPak®(LS) technical data sheet, what is the maximum protection duration for the ActivPak®(LS)-35 in an aggressive environment?"
+  },
+  {
+    "id": 34,
+    "question": "What is the primary difference between the standard ActivaPak® and the ActivPak®(LS) in terms of environmental application?"
+  },
+  {
+    "id": 35,
+    "question": "What is the purpose of marking or noting the installation date on an ActivCapsule™ or ActivaPak®?"
+  },
+  {
+    "id": 36,
+    "question": "According to the ZeCycle document, what broader service does RecycleMax® offer beyond poly recycling?"
+  },
+  {
+    "id": 37,
+    "question": "What is the recommended action when applying an ActivCapsule™ near a sensitive metal surface for added protection?"
+  },
+  {
+    "id": 38,
+    "question": "What are the model numbers for the ActivPak®(LS)-35 available in quantities of 50 per case?"
+  },
+  {
+    "id": 39,
+    "question": "What is the maximum shelf life of ActivPak®(LS) products when stored under optimal conditions?"
+  },
+  {
+    "id": 40,
+    "question": "What is the effect on metal surfaces when the ZERUST® protective molecules dissipate after opening the enclosure?"
+  },
+  {
+    "id": 41,
+    "question": "What type of waste management solution does the ZeCycle program provide according to its description?"
+  },
+  {
+    "id": 42,
+    "question": "What is the typical property listed for the ActivaPak® regarding substrate protection?"
+  },
+  {
+    "id": 43,
+    "question": "According to the ActivCapsule™ technical data sheet, what is the recommended placement for the capsule when the center of the enclosure is occupied?"
+  },
+  {
+    "id": 44,
+    "question": "What is the significance of the term \"zero waste\" in the context of the RecycleMax® partnership?"
+  },
+  {
+    "id": 45,
+    "question": "What is the physical appearance of the ActivCapsule™ FAC1-1(S) as described in its typical properties?"
+  },
+  {
+    "id": 46,
+    "question": "According to the ActivPak®(LS) technical data sheet, what is the protection volume for the ActivPak®(LS)-33 model in a normal environment?"
+  },
+  {
+    "id": 47,
+    "question": "What does the ZeCycle document state about the ability of metal surfaces to be painted or welded after removing the VCI packaging?"
+  },
+  {
+    "id": 48,
+    "question": "What is the product part number for the ActivaPak®-35 available in quantities of 100 per case?"
+  },
+  {
+    "id": 49,
+    "question": "What does the ActivCapsule™ technical data sheet indicate about its safety profile?"
+  },
+  {
+    "id": 50,
+    "question": "What is the recommended placement for ActivaPak® sachets in longer boxes or divided spaces?"
+  },
+  {
+    "id": 51,
+    "question": "What is the role of ZERUST®'s global network of joint venture partnerships as mentioned in the technical data sheets?"
+  },
+  {
+    "id": 52,
+    "question": "According to the ZeCycle document, what is the environmental benefit of using post-consumer recycled (PCR) materials instead of virgin LDPE?"
+  },
+  {
+    "id": 53,
+    "question": "What is the specific ammonia-related precaution mentioned for users with higher sensitivity when handling ActivPak®(LS)?"
+  },
+  {
+    "id": 54,
+    "question": "What is the model number for the ActivPak®(LS)-T330 available in quantities of 50 per case?"
+  },
+  {
+    "id": 55,
+    "question": "What is the definition of an \"aggressive environment\" according to the ActivPak®(LS) technical data sheet?"
+  },
+  {
+    "id": 56,
+    "question": "What is the stated purpose of the ZERUST® VCI technology in the context of industries such as automotive, aerospace, and mining?"
+  },
+  {
+    "id": 57,
+    "question": "What is the maximum protection volume for the ActivPak®(LS)-T350 model in an aggressive environment?"
+  },
+  {
+    "id": 58,
+    "question": "What is the disposal classification of the contents of ActivPak®(LS) according to 40 CFR 261?"
+  },
+  {
+    "id": 59,
+    "question": "What is the function of the adhesive tape on the ActivCapsule™ FAC1-1(S) during installation?"
+  },
+  {
+    "id": 60,
+    "question": "According to the ZeCycle document, how does the program help businesses quantify their sustainability progress?"
+  },
+  {
+    "id": 61,
+    "question": "What is the maximum protection duration for the ActivaPak® in an aggressive environment, as implied by its protection info?"
+  },
+  {
+    "id": 62,
+    "question": "What is the specific recommendation regarding the placement of ActivCapsules™ when airflow cannot be fully restricted?"
+  },
+  {
+    "id": 63,
+    "question": "What are the dimensions of the ActivPak®(LS)-35 model?"
+  },
+  {
+    "id": 64,
+    "question": "What is the legal entity that owns the trademarks ZERUST®, EXCOR®, and ActivaPak® as stated in the technical data sheets?"
+  },
+  {
+    "id": 65,
+    "question": "According to the ZeCycle document, what is the first step for Company A in the closed-loop process?"
+  },
+  {
+    "id": 66,
+    "question": "What is the recommended action if a large volume of unused ActivPak®(LS) needs to be disposed of?"
+  },
+  {
+    "id": 67,
+    "question": "What is the protection volume for the ActivaPak®-T350 in a normal environment?"
+  },
+  {
+    "id": 68,
+    "question": "What is the significance of the NACE TM0208 test result mentioned in the technical data sheets?"
+  },
+  {
+    "id": 69,
+    "question": "What is the primary function of the RecycleMax® collection and transportation service within the ZeCycle program?"
+  },
+  {
+    "id": 70,
+    "question": "According to the technical data sheets, what is the contact method to obtain a comprehensive corrosion management solution for specific metal assets?"
+  }
+]

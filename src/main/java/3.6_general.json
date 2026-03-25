@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "Which Axxanol product forms a dry-to-touch film after the solvent evaporates?"
+  },
+  {
+    "id": 2,
+    "question": "What is the maximum indoor unpackaged protection duration for Axxanol 33CD?"
+  },
+  {
+    "id": 3,
+    "question": "Which Axxanol product is described as an oil-based rust preventative that leaves a light oily film?"
+  },
+  {
+    "id": 4,
+    "question": "What is the typical kinematic viscosity at 104°F (40°C) for Axxanol 33?"
+  },
+  {
+    "id": 5,
+    "question": "Which Axxanol product is a bio-based rust preventative made from renewable vegetable oil?"
+  },
+  {
+    "id": 6,
+    "question": "What is the flashpoint of Axxanol 46-BIO according to ASTM D93?"
+  },
+  {
+    "id": 7,
+    "question": "Which Axxanol product is a vapor-phase-only corrosion inhibitor concentrate for use with lubricating oils?"
+  },
+  {
+    "id": 8,
+    "question": "What is the recommended dilution range for Axxanol 707C when mixing with oil?"
+  },
+  {
+    "id": 9,
+    "question": "What is the VOC content of Axxanol 33CD using EPA Method 24?"
+  },
+  {
+    "id": 10,
+    "question": "Which Axxanol product has the highest flashpoint?"
+  },
+  {
+    "id": 11,
+    "question": "What is the typical coverage per gallon for Axxanol 33?"
+  },
+  {
+    "id": 12,
+    "question": "What is the maximum salt spray hours (ASTM B117) protection for Axxanol 33CD?"
+  },
+  {
+    "id": 13,
+    "question": "Which Axxanol product is NOT recommended for outdoor use according to its protection info?"
+  },
+  {
+    "id": 14,
+    "question": "What is the optimal storage temperature range for all Axxanol products listed?"
+  },
+  {
+    "id": 15,
+    "question": "What is the maximum humidity protection (ASTM D1748) for Axxanol 33?"
+  },
+  {
+    "id": 16,
+    "question": "Which Axxanol product can provide corrosion protection in closed systems for up to 2 years?"
+  },
+  {
+    "id": 17,
+    "question": "What is the wet film thickness (WFT) for Axxanol 46-BIO?"
+  },
+  {
+    "id": 18,
+    "question": "Which Axxanol product is explicitly stated to be compatible with engine oil up to ≤10% v/v?"
+  },
+  {
+    "id": 19,
+    "question": "What is the TBN (Total Base Number) value for Axxanol 707C?"
+  },
+  {
+    "id": 20,
+    "question": "What precaution is listed for Axxanol 33 regarding potential staining?"
+  },
+  {
+    "id": 21,
+    "question": "Which Axxanol product has the lowest VOC content?"
+  },
+  {
+    "id": 22,
+    "question": "What is the part number for a 55-gallon drum of Axxanol 33CD?"
+  },
+  {
+    "id": 23,
+    "question": "What type of brush is recommended for brush-on application of Axxanol 33 and Axxanol 46-BIO?"
+  },
+  {
+    "id": 24,
+    "question": "What is the recommended action to optimize corrosion inhibitor protection when using Axxanol 707C during storage?"
+  },
+  {
+    "id": 25,
+    "question": "Which Axxanol product is described as having a light yellow appearance and dries to a dry-to-touch film?"
+  },
+  {
+    "id": 26,
+    "question": "What is the maximum indoor unpackaged protection duration for Axxanol 33?"
+  },
+  {
+    "id": 27,
+    "question": "Which Axxanol product is formulated to match the performance of MIL-PRF-3150 medium preservative oils?"
+  },
+  {
+    "id": 28,
+    "question": "What is the kinematic viscosity of Axxanol 46-BIO at 104°F (40°C)?"
+  },
+  {
+    "id": 29,
+    "question": "Which Axxanol product is NOT compatible with PAG-based oil?"
+  },
+  {
+    "id": 30,
+    "question": "What is the typical appearance of Axxanol 707C?"
+  },
+  {
+    "id": 31,
+    "question": "What is the coverage per gallon for Axxanol 33CD?"
+  },
+  {
+    "id": 32,
+    "question": "Which Axxanol product is recommended for use with ZERUST VCI packaging for years of protection?"
+  },
+  {
+    "id": 33,
+    "question": "What is the flashpoint of Axxanol 33 according to ASTM D93?"
+  },
+  {
+    "id": 34,
+    "question": "What removal method is common for Axxanol 33, Axxanol 33CD, and Axxanol 46-BIO?"
+  },
+  {
+    "id": 35,
+    "question": "Which Axxanol product has a wet film thickness of approximately 0.39 mil?"
+  },
+  {
+    "id": 36,
+    "question": "What is the VOC content of Axxanol 33?"
+  },
+  {
+    "id": 37,
+    "question": "What is the maximum salt spray protection (ASTM B117) for Axxanol 33?"
+  },
+  {
+    "id": 38,
+    "question": "Which Axxanol product states it contains no VOC according to CARB?"
+  },
+  {
+    "id": 39,
+    "question": "What is the typical application temperature range for Axxanol 46-BIO?"
+  },
+  {
+    "id": 40,
+    "question": "What is the part number for a 5-gallon pail of Axxanol 707C?"
+  },
+  {
+    "id": 41,
+    "question": "Which Axxanol product is not intended for use on galvanized metals without testing?"
+  },
+  {
+    "id": 42,
+    "question": "What is the kinematic viscosity of Axxanol 33CD at 104°F (40°C)?"
+  },
+  {
+    "id": 43,
+    "question": "What is the recommended action for spray application to avoid reusing collected product?"
+  },
+  {
+    "id": 44,
+    "question": "Which Axxanol product provides up to 600 hours of humidity protection according to ASTM D1748?"
+  },
+  {
+    "id": 45,
+    "question": "What is the typical coverage per gallon for Axxanol 46-BIO?"
+  },
+  {
+    "id": 46,
+    "question": "Which Axxanol product is explicitly stated to be safe to handle without a respirator or mask after drying?"
+  },
+  {
+    "id": 47,
+    "question": "What is the maximum storage duration for all Axxanol products when stored in optimal conditions?"
+  },
+  {
+    "id": 48,
+    "question": "What is the flashpoint of Axxanol 46-BIO?"
+  },
+  {
+    "id": 49,
+    "question": "Which Axxanol product is described as a light lubricant oil in addition to being a rust preventative?"
+  },
+  {
+    "id": 50,
+    "question": "What is the part number for a 5-gallon pail of Axxanol 33?"
+  },
+  {
+    "id": 51,
+    "question": "Which Axxanol product requires turning the engine over periodically to optimize protection?"
+  },
+  {
+    "id": 52,
+    "question": "What is the wet film thickness for Axxanol 33?"
+  },
+  {
+    "id": 53,
+    "question": "What type of substrates does Axxanol 707C provide protection for?"
+  },
+  {
+    "id": 54,
+    "question": "What is the VOC content of Axxanol 707C according to EPA Method 24?"
+  },
+  {
+    "id": 55,
+    "question": "Which Axxanol product has the highest kinematic viscosity?"
+  },
+  {
+    "id": 56,
+    "question": "What precaution is common for all Axxanol products regarding storage surfaces?"
+  },
+  {
+    "id": 57,
+    "question": "What is the recommended concentration of Axxanol 707C for typical use?"
+  },
+  {
+    "id": 58,
+    "question": "Which Axxanol product provides up to 20 hours of salt spray protection?"
+  },
+  {
+    "id": 59,
+    "question": "What is the appearance of Axxanol 46-BIO?"
+  },
+  {
+    "id": 60,
+    "question": "What is the part number for a 55-gallon drum of Axxanol 46-BIO?"
+  },
+  {
+    "id": 61,
+    "question": "Which Axxanol product is a ready-to-use solvent-based rust preventative?"
+  },
+  {
+    "id": 62,
+    "question": "What is the minimum humidity protection (ASTM D1748) for Axxanol 33?"
+  },
+  {
+    "id": 63,
+    "question": "Which Axxanol product is stated to be less flammable than conventional mineral-oil-based CPCs?"
+  },
+  {
+    "id": 64,
+    "question": "What is the typical application temperature for Axxanol 33CD?"
+  },
+  {
+    "id": 65,
+    "question": "What removal recommendation is specified for Axxanol 707C before placing an asset back into service?"
+  },
+  {
+    "id": 66,
+    "question": "What is the flashpoint of Axxanol 707C?"
+  },
+  {
+    "id": 67,
+    "question": "Which Axxanol product has the highest coverage per gallon?"
+  },
+  {
+    "id": 68,
+    "question": "What is the part number for a 1-gallon jug of Axxanol 707C?"
+  },
+  {
+    "id": 69,
+    "question": "Which Axxanol product is not intended for electronics use?"
+  },
+  {
+    "id": 70,
+    "question": "What is the stated engine oil compatibility of Axxanol 33?"
+  }
+]

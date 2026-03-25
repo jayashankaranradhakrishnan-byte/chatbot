@@ -1,0 +1,129 @@
+[
+  {
+    "question": "How can I fall in love?",
+    "expectedLinks": ["https://happierme.app/teenagers/love"]
+  },
+  {
+    "question": "My teachers don’t like me.",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~177.mp3/177/T/My%20teacher%20doesn%E2%80%99t%20like%20me",
+      "https://happierme.app/teenagers/relationships"
+    ]
+  },
+  {
+    "question": "They always think they’re right — how can I make them listen to me?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/videopage/teenagers-teen_talk-videos-38.mp4/T/Managing%20conflict%20with%20parents",
+      "https://happierme.app/teenagers/communication"
+    ]
+  },
+  {
+    "question": "What should I do if my parents argue a lot?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~175.mp3/175/T/My%20parents%20argue%20a%20lot"
+    ]
+  },
+  {
+    "question": "Why do I hold a grudge?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~174.mp3/174/T/Holding%20a%20grudge"
+    ]
+  },
+  {
+    "question": "Why is it hard to say sorry?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~167.mp3/167/T/Saying%20sorry"
+    ]
+  },
+  {
+    "question": "I am feeling neglected",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~176.mp3/176/T/I%E2%80%99m%20feeling%20neglected.%20I%20need%20attention."
+    ]
+  },
+  {
+    "question": "I am worried about my test results",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/breathing",
+      "https://happierme.app/teenagers/soundscapes",
+      "https://happierme.app/teenagers/fear-anxiet"
+    ]
+  },
+  {
+    "question": "How can I connect with my own silence",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~64.mp3/64/T/Exploring%20our%20inner%20silence",
+      "https://happierme.app/teenagers/meditation"
+    ]
+  },
+  {
+    "question": "I can’t sleep because I am worrying about my health",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/soundscapes",
+      "https://happierme.app/teenagers/breathing",
+      "https://happierme.app/teenagers/journal"
+    ]
+  },
+
+  {
+    "question": "I don’t like my family",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/journal",
+      "https://happierme.app/teenagers/communication",
+      "https://happierme.app/teenagers/wisdom-shorts/1.149.mp4/T/Top%20tips%20to%20communicate%20with%20parents"
+    ]
+  },
+  {
+    "question": "Why do I feel defensive or insecure?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/wisdom-shorts/1.100.mp4/T/How%20can%20Emotional%20Intelligence%20help%20you%20live%20your%20best%20life%3F",
+      "https://happierme.app/teenagers/criticis"
+    ]
+  },
+  {
+    "question": "How can I listen to my own voice and not follow others",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/blog-article?sId=26",
+      "https://happierme.app/teenagers/wisdom-stories/view-stories?sId=82"
+    ]
+  },
+  {
+    "question": "Why do some emotions feel easier to accept than others?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/wisdom-shorts/1.100.mp4/T/How%20can%20Emotional%20Intelligence%20help%20you%20live%20your%20best%20life%3F",
+      "https://happierme.app/teenagers/emotional-needs"
+    ]
+  },
+  {
+    "question": "How can I understand the difference between emotional reactions and genuine feelings?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/wisdom-shorts/1.100.mp4/T/How%20can%20Emotional%20Intelligence%20help%20you%20live%20your%20best%20life%3F",
+      "https://happierme.app/teenagers/reactive-mind"
+    ]
+  },
+
+  {
+    "question": "What is gaslighting?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~181.mp3/181/T/Understanding%20Gaslighting"
+    ]
+  },
+  {
+    "question": "What is ghosting?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~180.mp3/180/T/Understanding%20Ghosting"
+    ]
+  },
+  {
+    "question": "How can I deal with a panic attack?",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~184.mp3/184/T/Dealing%20with%20a%20panic%20attack."
+    ]
+  },
+  {
+    "question": "Performance anxiety in sport",
+    "expectedLinks": [
+      "https://happierme.app/teenagers/audiopage/~podcasts~185.mp3/185/T/Performance%20anxiety%20in%20spor"
+    ]
+  }
+]

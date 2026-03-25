@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "What does the abbreviation VCI stand for according to the ZERUST® documentation?"
+  },
+  {
+    "id": 2,
+    "question": "How do VCI molecules protect metal surfaces within an enclosed space?"
+  },
+  {
+    "id": 3,
+    "question": "Do VCI molecules need to be removed from the metal surface once the enclosure is opened?"
+  },
+  {
+    "id": 4,
+    "question": "What is the ideal location to place a diffuser within an enclosure for optimum protection?"
+  },
+  {
+    "id": 5,
+    "question": "In large enclosures, where should two capsules be placed to fully protect the space?"
+  },
+  {
+    "id": 6,
+    "question": "What is the volume of protection and radius of protection for the VC1-1 Vapor Capsule?"
+  },
+  {
+    "id": 7,
+    "question": "What is the duration of protection provided by the VC2-2 Vapor Capsule?"
+  },
+  {
+    "id": 8,
+    "question": "Which specific Vapor Capsule models do NOT come with adhesive backing?"
+  },
+  {
+    "id": 9,
+    "question": "What is the maximum volume of protection offered by the ZAK-M22 diffuser?"
+  },
+  {
+    "id": 10,
+    "question": "What two technologies are combined in the ZERUST® Activ™ series?"
+  },
+  {
+    "id": 11,
+    "question": "How long does an ActivCapsule™ FAC1-1s provide protection in an 'Aggressive Environment'?"
+  },
+  {
+    "id": 12,
+    "question": "How is a 'Normal Environment' defined compared to an 'Aggressive Environment' in the Activ™ series specs?"
+  },
+  {
+    "id": 13,
+    "question": "What is the primary dual-action function of the ActivDri™ PWA Packets?"
+  },
+  {
+    "id": 14,
+    "question": "What is the moisture adsorption capacity of the ActivDri™ CAP-50A compared to silica gel?"
+  },
+  {
+    "id": 15,
+    "question": "What is the maximum pipe diameter that the Tube Strip Pro can protect?"
+  },
+  {
+    "id": 16,
+    "question": "For how many years can ZERUST® Tube Strip protect the interior of a pipe?"
+  },
+  {
+    "id": 17,
+    "question": "What is the maximum pipe diameter protected by the PS2-10 Pipe Strip?"
+  },
+  {
+    "id": 18,
+    "question": "How are Pipe Strips installed for long-term corrosion protection?"
+  },
+  {
+    "id": 19,
+    "question": "What is the volume of protection for one ICT®870-OC VCI Foam Pad?"
+  },
+  {
+    "id": 20,
+    "question": "What is the duration of protection for a Z-PAK®-01 used in domestic shipments or storage?"
+  },
+  {
+    "id": 21,
+    "question": "What is the volume of protection for a 1x3 inch ZERUST® Plastab®?"
+  },
+  {
+    "id": 22,
+    "question": "How long do ZERUST® Cor Tab® tablets provide corrosion protection?"
+  },
+  {
+    "id": 23,
+    "question": "Why is it essential to restrict airflow in a container when using VCI diffusers?"
+  },
+  {
+    "id": 24,
+    "question": "When is it recommended to double the number of diffusers used in an enclosure?"
+  },
+  {
+    "id": 25,
+    "question": "What are the 5 phases of the Z-CIS® methodology?"
+  },
+  {
+    "id": 26,
+    "question": "What occurs during Phase 01: Identifying Stakeholders of the Z-CIS® process?"
+  },
+  {
+    "id": 27,
+    "question": "What percentage of post-consumer recycled polyethylene is used in the ICT®510-PCR30 VCI Film?"
+  },
+  {
+    "id": 28,
+    "question": "What are the environmental benefits of the Natur-VCI® film?"
+  },
+  {
+    "id": 29,
+    "question": "Which ICT®400 series product is described as 'Poly-Coated Kraft Paper'?"
+  },
+  {
+    "id": 30,
+    "question": "Does the ZERUST® ICT420 VCI Kraft Paper protect ferrous or non-ferrous metals?"
+  },
+  {
+    "id": 31,
+    "question": "What types of metals does the ICT®510-C Stock Classic VCI Film protect?"
+  },
+  {
+    "id": 32,
+    "question": "What is the specific use case for the ICT®510-OPS VCI film?"
+  },
+  {
+    "id": 33,
+    "question": "What is the difference between ZERUST® Tube Strip and Tube Strip Pro?"
+  },
+  {
+    "id": 34,
+    "question": "What is the purpose of the ZERUST® Weapon Protection Kits?"
+  },
+  {
+    "id": 35,
+    "question": "Which ISO certification is held by the ZERUST® management system?"
+  },
+  {
+    "id": 36,
+    "question": "In how many countries does ZERUST® provide on-site technical support?"
+  },
+  {
+    "id": 37,
+    "question": "What does the Z-CIS® system address in a global supply chain?"
+  },
+  {
+    "id": 38,
+    "question": "What is the typical cost reduction achieved after implementing the Z-CIS® method?"
+  },
+  {
+    "id": 39,
+    "question": "What are ZERUST® Plastabs® made of?"
+  },
+  {
+    "id": 40,
+    "question": "What is the duration of protection for ActivPowder™ in a normal environment?"
+  },
+  {
+    "id": 41,
+    "question": "Which ZERUST® series is designed to protect against 'Flash Rust'?"
+  },
+  {
+    "id": 42,
+    "question": "Are ZERUST® Vapor Capsules safe for use with electronic components?"
+  },
+  {
+    "id": 43,
+    "question": "What does the REACH Regulation (EC No 1907/2006) compliance indicate about the products?"
+  },
+  {
+    "id": 44,
+    "question": "What happens to VCI molecules when a ZERUST® protected enclosure is opened?"
+  },
+  {
+    "id": 45,
+    "question": "Which product is recommended for protecting interior surfaces of gun barrels?"
+  },
+  {
+    "id": 46,
+    "question": "What are ZERUST® Tote Covers used for?"
+  },
+  {
+    "id": 47,
+    "question": "What is the protection radius of a VC2-1 Vapor Capsule?"
+  },
+  {
+    "id": 48,
+    "question": "Which VCI paper is 'High Load' and named ICT®427-35?"
+  },
+  {
+    "id": 49,
+    "question": "What is the physical size of the CT-25 Cor Tab® tablet?"
+  },
+  {
+    "id": 50,
+    "question": "How is 'Up to' defined in the ZERUST® document disclaimer regarding protection duration?"
+  },
+  {
+    "id": 51,
+    "question": "What is the full name of the Z-CIS® methodology?"
+  },
+  {
+    "id": 52,
+    "question": "What are the three main outcomes the Z-CIS® method aims to achieve for a customer's production and shipping?"
+  },
+  {
+    "id": 53,
+    "question": "How many phases are in the Z-CIS® process for managing and solving corrosion issues?"
+  },
+  {
+    "id": 54,
+    "question": "What is the typical percentage of total cost savings realized by clients after implementing a Z-CIS® system?"
+  },
+  {
+    "id": 55,
+    "question": "According to the 'Our Customers' section, to what percentage can Z-CIS® reduce scrap and corrosion incidents?"
+  },
+  {
+    "id": 56,
+    "question": "What occurs during Phase 01: Identifying Stakeholders of the Z-CIS® process?"
+  },
+  {
+    "id": 57,
+    "question": "What is the focus of Phase 02: Planning in the Z-CIS® approach?"
+  },
+  {
+    "id": 58,
+    "question": "In Phase 03: Deployment Recommendations, what types of samples does the ZERUST® team collect from the manufacturing site?"
+  },
+  {
+    "id": 59,
+    "question": "What is required in Phase 04: Deployment to decide on the corrosion protection system?"
+  },
+  {
+    "id": 60,
+    "question": "What is the purpose of the regular audits conducted in Phase 05: Continuous Improvement?"
+  },
+  {
+    "id": 61,
+    "question": "How many years of experience does the ZERUST®/EXCOR® Corrosion Engineering Team have in helping organizations?"
+  },
+  {
+    "id": 62,
+    "question": "In how many countries does ZERUST® provide point-to-point customer service and support?"
+  },
+  {
+    "id": 13,
+    "question": "What document functions as a 'road map' to keep Z-CIS® projects on track and inform stakeholders?"
+  },
+  {
+    "id": 64,
+    "question": "What specific information must a customer provide to Northern Technologies International Corporation (NTIC) to receive a service fee refund?"
+  },
+  {
+    "id": 65,
+    "question": "Under what condition regarding 'cost savings' would a customer be eligible to receive a refund for service fees?"
+  },
+  {
+    "id": 66,
+    "question": "Which specific items are explicitly listed as non-refundable in the ZERUST® service fee policy?"
+  },
+  {
+    "id": 67,
+    "question": "Where is the corporate office of Northern Technologies International Corporation located?"
+  },
+  {
+    "id": 68,
+    "question": "What does Z-CIS® eliminate during the Production Part Approval Process (PPAP)?"
+  },
+  {
+    "id": 69,
+    "question": "Which internal department contact must a customer provide to set up a service and product supply account?"
+  },
+  {
+    "id": 70,
+    "question": "According to the global support list, name five countries where ZERUST® offers support."
+  }
+]

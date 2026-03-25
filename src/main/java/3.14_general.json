@@ -1,0 +1,51 @@
+[
+  {"id": 1, "question": "What type of cleaner is AxxaWash KF-123 and what key performance feature does it provide?"},
+
+  {"id": 2, "question": "What substrates are compatible with AxxaWash KF-123 and what limitation is mentioned?"},
+
+  {"id": 3, "question": "What is the pH range of AxxaWash KF-123 in concentrate and at 5% dilution?"},
+
+  {"id": 4, "question": "What is the recommended operating temperature range for AxxaWash KF-123?"},
+
+  {"id": 5, "question": "What type of soils is AxxaWash KF-123 designed to remove?"},
+
+  {"id": 6, "question": "What are the key chemical exclusions in AxxaWash KF-123 formulation?"},
+
+  {"id": 7, "question": "What indicator is used in titration for AxxaWash KF-123 and what color change occurs?"},
+
+  {"id": 8, "question": "What makes AxxaWash KF-124 suitable for lower temperature operations compared to KF-123?"},
+
+  {"id": 9, "question": "What substrates can AxxaWash KF-124 be used on and which material is specifically restricted?"},
+
+  {"id": 10, "question": "What is the pH range of AxxaWash KF-124 in concentrate and at 5% dilution?"},
+
+  {"id": 11, "question": "What titration indicator is used for AxxaWash KF-124 and what is the endpoint color change?"},
+
+  {"id": 12, "question": "How does the operating temperature range of KF-124 compare to KF-123?"},
+
+  {"id": 13, "question": "What is the primary functional advantage of AxxaWash KMS-220?"},
+
+  {"id": 14, "question": "What type of cleaning processes is AxxaWash KMS-220 NOT suitable for?"},
+
+  {"id": 15, "question": "What is the pH range of AxxaWash KMS-220 in concentrate and diluted form?"},
+
+  {"id": 16, "question": "What indicator is used in titration for AxxaWash KMS-220 and what color transition is observed?"},
+
+  {"id": 17, "question": "What types of soils and contaminants is AxxaWash KMS-220 designed to remove?"},
+
+  {"id": 18, "question": "What differentiates AxxaWash KMS-305AL from the other AxxaWash products in terms of substrate compatibility?"},
+
+  {"id": 19, "question": "Which metals are not compatible with AxxaWash KMS-305AL?"},
+
+  {"id": 20, "question": "What is the pH range of AxxaWash KMS-305AL in concentrate and at 5% dilution?"},
+
+  {"id": 21, "question": "What type of application process is recommended for AxxaWash KMS-305AL?"},
+
+  {"id": 22, "question": "What is the key formulation difference of AxxaWash KMS-305AL regarding chelating agents and silicates?"},
+
+  {"id": 23, "question": "What are the common dilution ratios recommended across all AxxaWash products?"},
+
+  {"id": 24, "question": "Why is deionized or reverse osmosis water recommended for bath makeup and rinsing?"},
+
+  {"id": 25, "question": "What is the purpose of leaving certain AxxaWash products on metal surfaces as dry-in-place cleaners?"}
+]

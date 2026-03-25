@@ -1,0 +1,459 @@
+[
+  {
+    "question": "How can I deal with exams?",
+    "expected_answer": "Exams can be stressful. It’s okay if exams make your chest feel tight and your thoughts race. You’re not the only one feeling this pressure. Exams can shrink life down to grades and pressure but you're more than a test. Explore this Guided program on the Pressure of Exams for practical tips on how you can deal with them with less stress. Explore the breathing exercises for relief from your anxiety."
+  },
+  {
+    "question": "How can I deal with exam stress?",
+    "expected_answer": "Exams can be stressful. It’s okay if exams make your chest feel tight and your thoughts race. You’re not the only one feeling this pressure. Exams can shrink life down to grades and pressure but you're more than a test. Explore this Guided program on the Pressure of Exams for practical tips on how you can deal with them with less stress. Explore the breathing exercises for relief from your anxiety."
+  },
+  {
+    "question": "cope with exams?",
+    "expected_answer": "Exams can be stressful. It’s okay if exams make your chest feel tight and your thoughts race. You’re not the only one feeling this pressure. Exams can shrink life down to grades and pressure but you're more than a test. Explore this Guided program on the Pressure of Exams for practical tips on how you can deal with them with less stress. Explore the breathing exercises for relief from your anxiety."
+  },
+   {
+    "question": "I get scared of public speaking",
+    "expected_answer": "The fear of speaking in public or in class is common. That fear can feel intense and embarrassing, but it’s one of the most common fears. You’re not alone. Start with this short video on Understanding and Overcoming Fear. You can also explore this Guided program on Self Image to overcome your fear of what others think."
+  },
+  {
+    "question": "I get scared of speaking in class",
+    "expected_answer": "The fear of speaking in public or in class is common. That fear can feel intense and embarrassing, but it’s one of the most common fears. You’re not alone. Start with this short video on Understanding and Overcoming Fear. You can also explore this Guided program on Self Image to overcome your fear of what others think."
+  },
+    {
+    "question": "I’m scared about my future",
+    "expected_answer": "That fear of the unknown can feel overwhelming. You're not alone in this; it's something almost everyone wrestles with quietly. Watch this short video on Dealing with uncertainty about the future. Then explore the podcast on Dealing with uncertainty to find fresh ways of dealing with this uncertainty."
+  },
+  {
+    "question": "I’m worried about my future",
+    "expected_answer": "That fear of the unknown can feel overwhelming. You're not alone in this; it's something almost everyone wrestles with quietly. Watch this short video on Dealing with uncertainty about the future. Then explore the podcast on Dealing with uncertainty to find fresh ways of dealing with this uncertainty."
+  },
+   {
+    "question": "I’m scared everything is changing too fast",
+    "expected_answer": "Change can feel scary because it pulls you out of what’s familiar and safe. It’s okay to feel uneasy. Take one step at a time. Focus on what you can control, like your mindset and actions. Talk about your feelings, stay grounded in routines, and remind yourself, you’ve faced change before and grown. Watch this short video on feeling overwhelmed by our life coach Martha Van Dam. Then listen to this short podcast on the Power of Acceptance."
+  },
+  {
+    "question": "I am scared of change",
+    "expected_answer": "Change can feel scary because it pulls you out of what’s familiar and safe. It’s okay to feel uneasy. Take one step at a time. Focus on what you can control, like your mindset and actions. Talk about your feelings, stay grounded in routines, and remind yourself, you’ve faced change before and grown. Watch this short video on feeling overwhelmed by our life coach Martha Van Dam. Then listen to this short podcast on the Power of Acceptance."
+  },
+  {
+    "question": "What can I do to deal with change?",
+    "expected_answer": "Change can feel scary because it pulls you out of what’s familiar and safe. It’s okay to feel uneasy. Take one step at a time. Focus on what you can control, like your mindset and actions. Talk about your feelings, stay grounded in routines, and remind yourself, you’ve faced change before and grown. Watch this short video on feeling overwhelmed by our life coach Martha Van Dam. Then listen to this short podcast on the Power of Acceptance."
+  },
+  {
+    "question": "Why do I always say yes, even when I don’t want to?",
+    "expected_answer": "People-pleasing can feel draining. Saying yes all the time can feel like safety but it often comes at your own cost. Sometimes it leaves you unheard in your own life. Watch this short video on Why do I feel the pressure to conform. Then explore this Guided program on The need for external approval."
+  },
+  {
+    "question": "Why do I feel a pressure to conform?",
+    "expected_answer": "People-pleasing can feel draining. Saying yes all the time can feel like safety but it often comes at your own cost. Sometimes it leaves you unheard in your own life. Watch this short video on Why do I feel the pressure to conform. Then explore this Guided program on The need for external approval."
+  },
+  {
+    "question": "Why am I a people pleaser?",
+    "expected_answer": "People-pleasing can feel draining. Saying yes all the time can feel like safety but it often comes at your own cost. Sometimes it leaves you unheard in your own life. Watch this short video on Why do I feel the pressure to conform. Then explore this Guided program on The need for external approval."
+  },
+  {
+    "question": "I can’t stop thinking about embarrassing moments",
+    "expected_answer": "That spiral of replaying and judging yourself is so draining. You deserve a break from your inner critic. It is exhausting and unfair to yourself. You’re not the only one stuck there. Head to the Find Answers section for Why do I worry what others think. Explore these breathing exercises to feel more in control of your emotions."
+  },
+  {
+    "question": "Why do I worry about what others think?",
+    "expected_answer": "That spiral of replaying and judging yourself is so draining. You deserve a break from your inner critic. It is exhausting and unfair to yourself. You’re not the only one stuck there. Head to the Find Answers section for Why do I worry what others think. Explore these breathing exercises to feel more in control of your emotions."
+  },
+   {
+    "question": "I feel really bad when I don’t get good grades in the exams",
+    "expected_answer": "That disappointment can cut deep. When you work hard, it's natural to tie your worth to results. It's important to realise that you are much more than your grades, and in the long run they matter less than you think. Explore this Guided program on dealing with disappointing exam results and then listen to this mini podcast on Dealing with expectations."
+  },
+  {
+    "question": " I Feeling unsure about yourself doesn’t mean you’re weak! It justfeel terrible when I don’t do well in exams",
+    "expected_answer": "That disappointment can cut deep. When you work hard, it's natural to tie your worth to results. It's important to realise that you are much more than your grades, and in the long run they matter less than you think. Explore this Guided program on dealing with disappointing exam results and then listen to this mini podcast on Dealing with expectations."
+  },
+  {
+    "question": "I feel bad when others get better grades than me",
+    "expected_answer": "That disappointment can cut deep. When you work hard, it's natural to tie your worth to results. It's important to realise that you are much more than your grades, and in the long run they matter less than you think. Explore this Guided program on dealing with disappointing exam results and then listen to this mini podcast on Dealing with expectations."
+  },
+   {
+    "question": "I don’t know how to say what I feel",
+    "expected_answer": "It’s okay to feel tongue-tied when you have strong emotions. You’re not alone in this. Explore this mood tracker in the app to help you identify a feeling. Then explore this Guided Program on Speaking with intelligence."
+  },
+  {
+    "question": "I don’t know how to express myself",
+    "expected_answer": "It’s okay to feel tongue-tied when you have strong emotions. You’re not alone in this. Explore this mood tracker in the app to help you identify a feeling. Then explore this Guided Program on Speaking with intelligence."
+  },
+  {
+    "question": "I feel lost for words",
+    "expected_answer": "It’s okay to feel tongue-tied when you have strong emotions. You’re not alone in this. Explore this mood tracker in the app to help you identify a feeling. Then explore this Guided Program on Speaking with intelligence."
+  },
+   {
+    "question": "I feel like I’m too sensitive",
+    "expected_answer": "Sensitivity isn’t weakness, it’s awareness. Feeling deeply means you care deeply. You’re allowed to feel without apology. Watch this short video on Accepting yourself as you are. Then read this blog on Why do we feel hurt for more ideas on how to manage your emotions."
+  },
+  {
+    "question": "I feel easily hurt",
+    "expected_answer": "Sensitivity isn’t weakness, it’s awareness. Feeling deeply means you care deeply. You’re allowed to feel without apology. Watch this short video on Accepting yourself as you are. Then read this blog on Why do we feel hurt for more ideas on how to manage your emotions."
+  },
+   {
+    "question": "My boyfriend doesn’t make me happy anymore.",
+    "expected_answer": "It may mean your needs or connection have shifted. Relationships go through seasons. Try open, honest conversations about how you both feel. Also, ask yourself: what makes you feel fulfilled outside the relationship? Here is a short video on building healthy relationships. Explore this Guided program on Emotional needs to understand why you feel this way."
+  },
+  {
+    "question": "My girlfriend doesn’t make me happy anymore.",
+    "expected_answer": "It may mean your needs or connection have shifted. Relationships go through seasons. Try open, honest conversations about how you both feel. Also, ask yourself: what makes you feel fulfilled outside the relationship? Here is a short video on building healthy relationships. Explore this Guided program on Emotional needs to understand why you feel this way."
+  },
+   {
+    "question": "I don’t know why I feel a certain way.",
+    "expected_answer": "You feel what you feel because emotions are your brain’s way of making sense of the world and protecting you. They’re shaped by your past experiences, beliefs, current situation, and even your body’s signals, like hunger or tiredness. Here’s a blog to help you understand your mind. Explore these Guided journaling exercises to understand your feelings."
+  },
+  {
+    "question": "Why do I feel what I feel?",
+    "expected_answer": "You feel what you feel because emotions are your brain’s way of making sense of the world and protecting you. They’re shaped by your past experiences, beliefs, current situation, and even your body’s signals, like hunger or tiredness. Here’s a blog to help you understand your mind. Explore these Guided journaling exercises to understand your feelings."
+  },
+   {
+    "question": "I don’t know what to do in the future. What if I choose wrong?",
+    "expected_answer": "Feeling unsure about the future is completely normal. You’re not expected to have all the answers yet. Many people feel this way. Begin with the guided program Choosing your future to explore your thoughts and values. Then try the Explore Different Perspectives meditation to open up new possibilities."
+  },
+  {
+    "question": "I don’t know what to do after leaving school",
+    "expected_answer": "Feeling unsure about the future is completely normal. You’re not expected to have all the answers yet. Many people feel this way. Begin with the guided program Choosing your future to explore your thoughts and values. Then try the Explore Different Perspectives meditation to open up new possibilities."
+  },
+  {
+    "question": "I don’t know what to do with my life",
+    "expected_answer": "Feeling unsure about the future is completely normal. You’re not expected to have all the answers yet. Many people feel this way. Begin with the guided program Choosing your future to explore your thoughts and values. Then try the Explore Different Perspectives meditation to open up new possibilities."
+  },
+  {
+    "question": "How can I feel happier in my daily life?",
+    "expected_answer": "A simple way to boost happiness today is to spend just 5 minutes doing something you genuinely enjoy. It could be listening to a favorite song, stepping outside to watch the sky, calling someone you care about, or savoring a quiet cup of tea. These small, mindful moments can shift your mood and bring calm and joy. Here are 3 tips to be happy. Listen to this Teen Talk conversation On Happiness."
+  },
+  {
+    "question": "What habits can boost my happiness?",
+    "expected_answer": "A simple way to boost happiness today is to spend just 5 minutes doing something you genuinely enjoy. It could be listening to a favorite song, stepping outside to watch the sky, calling someone you care about, or savoring a quiet cup of tea. These small, mindful moments can shift your mood and bring calm and joy. Here are 3 tips to be happy. Listen to this Teen Talk conversation On Happiness."
+  },
+  {
+    "question": "What’s a simple happiness tip for today?",
+    "expected_answer": "A simple way to boost happiness today is to spend just 5 minutes doing something you genuinely enjoy. It could be listening to a favorite song, stepping outside to watch the sky, calling someone you care about, or savoring a quiet cup of tea. These small, mindful moments can shift your mood and bring calm and joy. Here are 3 tips to be happy. Listen to this Teen Talk conversation On Happiness."
+  },
+  {
+    "question": "Why am I so scared of dying?",
+    "expected_answer": "Fear of death is natural; your brain is wired to protect you. But often, this fear is really about the unknown or unfinished parts of life. Gently bring yourself to the present. What can you do today that brings peace, meaning, or connection? That’s where calm begins. This video on overcoming anxiety can help calm your anxiety. Listen to this podcast to help overcome the fear of death."
+  },
+  {
+    "question": "Why does the thought of death make me anxious?",
+    "expected_answer": "Fear of death is natural; your brain is wired to protect you. But often, this fear is really about the unknown or unfinished parts of life. Gently bring yourself to the present. What can you do today that brings peace, meaning, or connection? That’s where calm begins. This video on overcoming anxiety can help calm your anxiety. Listen to this podcast to help overcome the fear of death."
+  },
+   {
+    "question": "Is it okay to be scared of losing someone I love?",
+    "expected_answer": "It’s natural to feel this way, & yes, deeply caring makes the idea of loss painful. It shows how much someone means to you. Try to channel that love into the moments you share now. Presence can ease fear. Watch this short video on how to deal with anxiety. Listen to this meditation on releasing anxiety. Explore this guided program on how to deal with the fear of death."
+  },
+  {
+    "question": "I fear losing my loved one.",
+    "expected_answer": "It’s natural to feel this way, & yes, deeply caring makes the idea of loss painful. It shows how much someone means to you. Try to channel that love into the moments you share now. Presence can ease fear. Watch this short video on how to deal with anxiety. Listen to this meditation on releasing anxiety. Explore this guided program on how to deal with the fear of death."
+  },
+   {
+    "question": "What does it mean to be mentally healthy?",
+    "expected_answer": "Being mentally healthy means having emotional awareness, handling stress with resilience, and nurturing healthy thoughts and relationships. Everyone's journey looks different, but exploring your own mind is a powerful first step. You can learn more in the Introduction to Mental Health podcast. Listen to these beautiful soundscapes to feel more calm and gain clarity."
+  },
+  {
+    "question": "How can I look after my mental health?",
+    "expected_answer": "Being mentally healthy means having emotional awareness, handling stress with resilience, and nurturing healthy thoughts and relationships. Everyone's journey looks different, but exploring your own mind is a powerful first step. You can learn more in the Introduction to Mental Health podcast. Listen to these beautiful soundscapes to feel more calm and gain clarity."
+  },
+   {
+    "question": "What if I’m afraid to feel better, like I’m betraying them?",
+    "expected_answer": "This is a quiet fear many people carry. Healing can feel confusing, like you're letting go of the person you lost. But the truth is, love doesn’t fade when you begin to feel lighter. This video on Dealing with Grief explores how healing doesn’t mean forgetting, it means learning to carry love differently. Explore this Guided program on Fear to understand what is going on and to help you deal with these fears."
+  },
+  {
+    "question": "How do I move on without feeling like I’m leaving them behind?",
+    "expected_answer": "This is a quiet fear many people carry. Healing can feel confusing, like you're letting go of the person you lost. But the truth is, love doesn’t fade when you begin to feel lighter. This video on Dealing with Grief explores how healing doesn’t mean forgetting, it means learning to carry love differently. Explore this Guided program on Fear to understand what is going on and to help you deal with these fears."
+  },
+   {
+    "question": "Why do I feel hurt?",
+    "expected_answer": "We all get hurt by what people say or don’t say, or what people do, or don’t do. Words not said, promises broken, or moments missed can leave deep emotional marks. This podcast explores Why we feel hurt, and offers insights on what we can do about this. You can also read this story on Why I won’t let you see my hurt. Explore these Soundscapes to find one that helps you feel more grounded and present."
+  },
+  {
+    "question": "Why do I get hurt?",
+    "expected_answer": "We all get hurt by what people say or don’t say, or what people do, or don’t do. Words not said, promises broken, or moments missed can leave deep emotional marks. This podcast explores Why we feel hurt, and offers insights on what we can do about this. You can also read this story on Why I won’t let you see my hurt. Explore these Soundscapes to find one that helps you feel more grounded and present."
+  },
+  {
+    "question": "I feel ashamed of my body — where do I even begin to heal that?",
+    "expected_answer": "Body shame is painful but not permanent. Watch 5 Ways You Can Practice Self-Love to take your first steps toward healing. Read the Life Story: Insecurity Drives the Need for Botox to see how others deal with body shame. Try the journaling prompt on insecurity to uncover where the shame began and how to gently let it go."
+  },
+  {
+    "question": "I hate the way I look in pictures — how can I be less critical of myself?",
+    "expected_answer": "Body shame is painful but not permanent. Watch 5 Ways You Can Practice Self-Love to take your first steps toward healing. Read the Life Story: Insecurity Drives the Need for Botox to see how others deal with body shame. Try the journaling prompt on insecurity to uncover where the shame began and how to gently let it go."
+  },
+   {
+    "question": "They always think they’re right — how can I make them listen to me?",
+    "expected_answer": "Feeling like your voice doesn’t matter at home can be incredibly frustrating. It’s normal to want to be understood without it turning into an argument. Watch the Teen Talk on Managing conflict with parents for ideas on how to talk so they actually listen. You can also explore the more detailed Guided program on Communication to learn some valuable tips."
+  },
+  {
+    "question": "How can I get more freedom without upsetting the parents?",
+    "expected_answer": "Feeling like your voice doesn’t matter at home can be incredibly frustrating. It’s normal to want to be understood without it turning into an argument. Watch the Teen Talk on Managing conflict with parents for ideas on how to talk so they actually listen. You can also explore the more detailed Guided program on Communication to learn some valuable tips."
+  },
+  {
+    "question": "My parents never listen to my side of things. How do I get them to hear me?",
+    "expected_answer": "Feeling like your voice doesn’t matter at home can be incredibly frustrating. It’s normal to want to be understood without it turning into an argument. Watch the Teen Talk on Managing conflict with parents for ideas on how to talk so they actually listen. You can also explore the more detailed Guided program on Communication to learn some valuable tips."
+  },
+  {
+    "question": "What should I do if my parents argue a lot?",
+    "expected_answer": "It's quite normal to feel stressed or anxious if your parents are arguing. It's not your fault. Arguments among adults and in families are normal and they need to work through their differences. You need to look after yourself and find someone you can talk to. Journaling also helps. Listen to this mini podcast My parents argue a lot, for more insights."
+  },
+  {
+    "question": "How can I handle it if my parents don’t get along with each other?",
+    "expected_answer": "It's quite normal to feel stressed or anxious if your parents are arguing. It's not your fault. Arguments among adults and in families are normal and they need to work through their differences. You need to look after yourself and find someone you can talk to. Journaling also helps. Listen to this mini podcast My parents argue a lot, for more insights."
+  },
+  {
+    "question": "Why do I hold a grudge?",
+    "expected_answer": "When we get hurt, our mind remembers that. It’s trying to protect us. This is why we remember all our past hurts, so they do not repeat. But this process can also damage our relationships if we are not aware of it, and many of the hurts we feel come from our own unmet expectations. Listen to this mini podcast on Holding a grudge."
+  },
+  {
+    "question": "Why do people hold a grudge?",
+    "expected_answer": "When we get hurt, our mind remembers that. It’s trying to protect us. This is why we remember all our past hurts, so they do not repeat. But this process can also damage our relationships if we are not aware of it, and many of the hurts we feel come from our own unmet expectations. Listen to this mini podcast on Holding a grudge."
+  },
+  {
+    "question": "Why is it hard to say sorry?",
+    "expected_answer": "Saying sorry is not easy, and we can feel it's a sign of weakness. We feel defensive and justify our opinion, or what we have done. Learning to say sorry easily, quickly, and in the right way is a great skill to learn and can defuse situations, make people respect us more and make it easier for others to say sorry. It can strengthen our relationships at home and at work. Listen to this mini podcast on how to say sorry."
+  },
+  {
+    "question": "How can I learn to say sorry?",
+    "expected_answer": "Saying sorry is not easy, and we can feel it's a sign of weakness. We feel defensive and justify our opinion, or what we have done. Learning to say sorry easily, quickly, and in the right way is a great skill to learn and can defuse situations, make people respect us more and make it easier for others to say sorry. It can strengthen our relationships at home and at work. Listen to this mini podcast on how to say sorry."
+  },
+  {
+    "question": "What is the best way to say sorry?",
+    "expected_answer": "Saying sorry is not easy, and we can feel it's a sign of weakness. We feel defensive and justify our opinion, or what we have done. Learning to say sorry easily, quickly, and in the right way is a great skill to learn and can defuse situations, make people respect us more and make it easier for others to say sorry. It can strengthen our relationships at home and at work. Listen to this mini podcast on how to say sorry."
+  },
+  {
+    "question": "Why is it important to say sorry?",
+    "expected_answer": "Saying sorry is not easy, and we can feel it's a sign of weakness. We feel defensive and justify our opinion, or what we have done. Learning to say sorry easily, quickly, and in the right way is a great skill to learn and can defuse situations, make people respect us more and make it easier for others to say sorry. It can strengthen our relationships at home and at work. Listen to this mini podcast on how to say sorry."
+  },
+  {
+    "question": "I am feeling neglected",
+    "expected_answer": "It is normal to need to feel seen, valued and loved. What you are missing is a sense of connection. That is just human. Sometimes people around us are too busy, or stressed to give us the attention we need. Begin by giving yourself the care and attention and self-love you need. Journaling, being outdoors, rest, music and calming breathing exercises from the app can all help. Listen to this mini-podcast on Feeling neglected. Needing attention."
+  },
+  {
+    "question": "I don’t feel loved",
+    "expected_answer": "It is normal to need to feel seen, valued and loved. What you are missing is a sense of connection. That is just human. Sometimes people around us are too busy, or stressed to give us the attention we need. Begin by giving yourself the care and attention and self-love you need. Journaling, being outdoors, rest, music and calming breathing exercises from the app can all help. Listen to this mini-podcast on Feeling neglected. Needing attention."
+  },
+  {
+    "question": "Why do I want attention all the time",
+    "expected_answer": "It is normal to need to feel seen, valued and loved. What you are missing is a sense of connection. That is just human. Sometimes people around us are too busy, or stressed to give us the attention we need. Begin by giving yourself the care and attention and self-love you need. Journaling, being outdoors, rest, music and calming breathing exercises from the app can all help. Listen to this mini-podcast on Feeling neglected. Needing attention."
+  },
+  {
+    "question": "I am worried about my test results",
+    "expected_answer": "It is normal to worry about something in the future that may impact us negatively. It is our mind's way of trying to protect us. It is worth asking if we can do anything now to influence the outcome. If we can’t, then worrying about it isn’t going to change anything - but that doesn’t stop the worry. Try one of these Breathing exercises or listen to these Soundscapes to feel more calm. Talk to someone. Explore this Guided program on Dealing with Fear."
+  },
+  {
+    "question": "I am worried about my driving test",
+    "expected_answer": "It is normal to worry about something in the future that may impact us negatively. It is our mind's way of trying to protect us. It is worth asking if we can do anything now to influence the outcome. If we can’t, then worrying about it isn’t going to change anything - but that doesn’t stop the worry. Try one of these Breathing exercises or listen to these Soundscapes to feel more calm. Talk to someone. Explore this Guided program on Dealing with Fear."
+  },
+  {
+    "question": "I am worried about my interview",
+    "expected_answer": "It is normal to worry about something in the future that may impact us negatively. It is our mind's way of trying to protect us. It is worth asking if we can do anything now to influence the outcome. If we can’t, then worrying about it isn’t going to change anything - but that doesn’t stop the worry. Try one of these Breathing exercises or listen to these Soundscapes to feel more calm. Talk to someone. Explore this Guided program on Dealing with Fear."
+  },
+  {
+    "question": "I am worried about the future",
+    "expected_answer": "It is normal to worry about something in the future that may impact us negatively. It is our mind's way of trying to protect us. It is worth asking if we can do anything now to influence the outcome. If we can’t, then worrying about it isn’t going to change anything - but that doesn’t stop the worry. Try one of these Breathing exercises or listen to these Soundscapes to feel more calm. Talk to someone. Explore this Guided program on Dealing with Fear."
+  },
+  {
+    "question": "I am worried that I won’t get a good job",
+    "expected_answer": "It is normal to worry about something in the future that may impact us negatively. It is our mind's way of trying to protect us. It is worth asking if we can do anything now to influence the outcome. If we can’t, then worrying about it isn’t going to change anything - but that doesn’t stop the worry. Try one of these Breathing exercises or listen to these Soundscapes to feel more calm. Talk to someone. Explore this Guided program on Dealing with Fear."
+  },
+  {
+    "question": "I am worried that I won’t get into the university of my choice",
+    "expected_answer": "It is normal to worry about something in the future that may impact us negatively. It is our mind's way of trying to protect us. It is worth asking if we can do anything now to influence the outcome. If we can’t, then worrying about it isn’t going to change anything - but that doesn’t stop the worry. Try one of these Breathing exercises or listen to these Soundscapes to feel more calm. Talk to someone. Explore this Guided program on Dealing with Fear."
+  },
+  {
+    "question": "How can I connect with my own silence",
+    "expected_answer": "You have asked a great question. We all have this inner silence we can connect with when our mind goes quiet. It can help us deal with the challenges of life with a calm mind. Listen to this podcast on Discovering our inner silence. You can also explore this Guided program on Meditation to learn how to develop a quiet mind."
+  },
+  {
+    "question": "Does silence bring peace",
+    "expected_answer": "You have asked a great question. We all have this inner silence we can connect with when our mind goes quiet. It can help us deal with the challenges of life with a calm mind. Listen to this podcast on Discovering our inner silence. You can also explore this Guided program on Meditation to learn how to develop a quiet mind."
+  },
+  {
+    "question": "What would happen if I just sat in silence",
+    "expected_answer": "You have asked a great question. We all have this inner silence we can connect with when our mind goes quiet. It can help us deal with the challenges of life with a calm mind. Listen to this podcast on Discovering our inner silence. You can also explore this Guided program on Meditation to learn how to develop a quiet mind."
+  },
+  {
+    "question": "I can’t sleep because I am worrying about my health",
+    "expected_answer": "It is normal for our worries to interfere with our sleep. The thoughts can go round and round in a loop fueling the worry, and stop us from sleeping. Listen to one of these Soundscapes to help you relax. You can also do one of these Breathing exercises which are great to help you relax and sleep. Writing down everything in your Online journal can help get the worries out of your head and help you sleep."
+  },
+  {
+    "question": "I can’t sleep because I am worrying about my school",
+    "expected_answer": "It is normal for our worries to interfere with our sleep. The thoughts can go round and round in a loop fueling the worry, and stop us from sleeping. Listen to one of these Soundscapes to help you relax. You can also do one of these Breathing exercises which are great to help you relax and sleep. Writing down everything in your Online journal can help get the worries out of your head and help you sleep."
+  },
+  {
+    "question": "I can’t sleep because I am worrying about my friends",
+    "expected_answer": "It is normal for our worries to interfere with our sleep. The thoughts can go round and round in a loop fueling the worry, and stop us from sleeping. Listen to one of these Soundscapes to help you relax. You can also do one of these Breathing exercises which are great to help you relax and sleep. Writing down everything in your Online journal can help get the worries out of your head and help you sleep."
+  },
+  {
+    "question": "I can’t sleep because I am worrying about my exams",
+    "expected_answer": "It is normal for our worries to interfere with our sleep. The thoughts can go round and round in a loop fueling the worry, and stop us from sleeping. Listen to one of these Soundscapes to help you relax. You can also do one of these Breathing exercises which are great to help you relax and sleep. Writing down everything in your Online journal can help get the worries out of your head and help you sleep."
+  },
+  {
+    "question": "I can’t sleep because I am worrying about my future",
+    "expected_answer": "It is normal for our worries to interfere with our sleep. The thoughts can go round and round in a loop fueling the worry, and stop us from sleeping. Listen to one of these Soundscapes to help you relax. You can also do one of these Breathing exercises which are great to help you relax and sleep. Writing down everything in your Online journal can help get the worries out of your head and help you sleep."
+  },
+   {
+    "question": "How does substance use affect mental illness?",
+    "expected_answer": "Substance use can deepen emotional struggles and make it harder to cope. Watch the short videos Overcome a habit and Overcome unhelpful habits to reflect on your patterns. The podcast Social Media Addiction explores how our phone habits affect the brain and behavior. You can also explore the Addiction Guided program for lasting solutions."
+  },
+  {
+    "question": "How does alcohol affect mental illness?",
+    "expected_answer": "Substance use can deepen emotional struggles and make it harder to cope. Watch the short videos Overcome a habit and Overcome unhelpful habits to reflect on your patterns. The podcast Social Media Addiction explores how our phone habits affect the brain and behavior. You can also explore the Addiction Guided program for lasting solutions."
+  },
+  {
+    "question": "How do drugs affect mental illness?",
+    "expected_answer": "Substance use can deepen emotional struggles and make it harder to cope. Watch the short videos Overcome a habit and Overcome unhelpful habits to reflect on your patterns. The podcast Social Media Addiction explores how our phone habits affect the brain and behavior. You can also explore the Addiction Guided program for lasting solutions."
+  },
+  {
+    "question": "How does vaping affect mental illness?",
+    "expected_answer": "Substance use can deepen emotional struggles and make it harder to cope. Watch the short videos Overcome a habit and Overcome unhelpful habits to reflect on your patterns. The podcast Social Media Addiction explores how our phone habits affect the brain and behavior. You can also explore the Addiction Guided program for lasting solutions."
+  },
+  {
+    "question": "What are the risks of mixing alcohol with other substances?",
+    "expected_answer": "Mixing alcohol or vaping with other substances can confuse your body and mind—making the effects stronger, unpredictable, or even dangerous. The event Understanding and overcoming addiction explores how combinations can lead to serious health risks and faster dependence. The video Overcome unhelpful habits helps you spot when casual use starts crossing a line. You can also reflect with the blog Self-awareness can help prevent addiction to stay in control and make safer choices."
+  },
+  {
+    "question": "What are the risks of mixing vaping with other substances?",
+    "expected_answer": "Mixing alcohol or vaping with other substances can confuse your body and mind—making the effects stronger, unpredictable, or even dangerous. The event Understanding and overcoming addiction explores how combinations can lead to serious health risks and faster dependence. The video Overcome unhelpful habits helps you spot when casual use starts crossing a line. You can also reflect with the blog Self-awareness can help prevent addiction to stay in control and make safer choices."
+  },
+   {
+    "question": "What is gaslighting?",
+    "expected_answer": "Gaslighting happens when someone makes you doubt your own reality or feelings. It’s a form of emotional manipulation that creates confusion and self-doubt. Healing means reconnecting to your truth, trusting your perception again, and surrounding yourself with people who respect your experiences and validate your emotions. Listen to this Mini-podcast on Gaslighting. Use the online journal to write down what you are thinking and feeling."
+  },
+  {
+    "question": "I’ve been gaslighted",
+    "expected_answer": "Gaslighting happens when someone makes you doubt your own reality or feelings. It’s a form of emotional manipulation that creates confusion and self-doubt. Healing means reconnecting to your truth, trusting your perception again, and surrounding yourself with people who respect your experiences and validate your emotions. Listen to this Mini-podcast on Gaslighting. Use the online journal to write down what you are thinking and feeling."
+  },
+  {
+    "question": "What is ghosting?",
+    "expected_answer": "Ghosting is when someone suddenly ends communication without explanation. It can leave you feeling rejected or confused, but it often reflects the other person’s discomfort, not your worth. Healing starts with self-compassion and remembering you deserve honest, caring communication in your relationships. Let people go with grace. Move on and write your next chapter. Listen to this Mini-podcast on Ghosting."
+  },
+  {
+    "question": "I’ve been ghosted.",
+    "expected_answer": "Ghosting is when someone suddenly ends communication without explanation. It can leave you feeling rejected or confused, but it often reflects the other person’s discomfort, not your worth. Healing starts with self-compassion and remembering you deserve honest, caring communication in your relationships. Let people go with grace. Move on and write your next chapter. Listen to this Mini-podcast on Ghosting."
+  },
+  {
+    "question": "How can I bounce back when everything feels too hard?",
+    "expected_answer": "When things get tough, it’s normal to feel stuck or drained. But resilience doesn’t mean pretending you’re fine—it means taking one small step forward, even when you don’t feel ready. Every time you keep going, you grow stronger. Listen to the podcast Building Resilience to learn how to rebuild strength and stay steady during difficult times."
+  },
+  {
+    "question": "How do I stop feeling like I can’t handle things anymore?",
+    "expected_answer": "When things get tough, it’s normal to feel stuck or drained. But resilience doesn’t mean pretending you’re fine—it means taking one small step forward, even when you don’t feel ready. Every time you keep going, you grow stronger. Listen to the podcast Building Resilience to learn how to rebuild strength and stay steady during difficult times."
+  },
+  {
+    "question": "What can I do to become emotionally stronger?",
+    "expected_answer": "When things get tough, it’s normal to feel stuck or drained. But resilience doesn’t mean pretending you’re fine—it means taking one small step forward, even when you don’t feel ready. Every time you keep going, you grow stronger. Listen to the podcast Building Resilience to learn how to rebuild strength and stay steady during difficult times."
+  },
+  {
+    "question": "How do I keep going when life gets tough?",
+    "expected_answer": "When things get tough, it’s normal to feel stuck or drained. But resilience doesn’t mean pretending you’re fine—it means taking one small step forward, even when you don’t feel ready. Every time you keep going, you grow stronger. Listen to the podcast Building Resilience to learn how to rebuild strength and stay steady during difficult times."
+  },
+  {
+    "question": "Why can’t I stop checking my phone all the time?",
+    "expected_answer": "Social media is built to keep your attention—it’s not a lack of willpower. But constant scrolling can make you anxious or disconnected. Try setting small boundaries like screen-free mornings or using apps that track your time. Listen to the podcast Social Media Addiction to understand what really drives these habits and how to take back control."
+  },
+  {
+    "question": "How can I stop scrolling so much?",
+    "expected_answer": "Social media is built to keep your attention—it’s not a lack of willpower. But constant scrolling can make you anxious or disconnected. Try setting small boundaries like screen-free mornings or using apps that track your time. Listen to the podcast Social Media Addiction to understand what really drives these habits and how to take back control."
+  },
+  {
+    "question": "Why do I feel anxious when I’m not on my phone?",
+    "expected_answer": "Social media is built to keep your attention—it’s not a lack of willpower. But constant scrolling can make you anxious or disconnected. Try setting small boundaries like screen-free mornings or using apps that track your time. Listen to the podcast Social Media Addiction to understand what really drives these habits and how to take back control."
+  },
+  {
+    "question": "How can I balance social media with real life?",
+    "expected_answer": "Social media is built to keep your attention—it’s not a lack of willpower. But constant scrolling can make you anxious or disconnected. Try setting small boundaries like screen-free mornings or using apps that track your time. Listen to the podcast Social Media Addiction to understand what really drives these habits and how to take back control."
+  },
+  {
+    "question": "How can I spend less time on my phone without feeling bored?",
+    "expected_answer": "Phones fill every spare moment, so boredom feels uncomfortable at first. But real calm comes from letting yourself unplug. Try replacing screen time with things that make you feel alive—music, walking, journaling, or art. Listen to the podcast Dealing with Phone Addiction to explore why phones hook us and how to find balance again."
+  },
+  {
+    "question": "Why do I feel restless when I put my phone down?",
+    "expected_answer": "Phones fill every spare moment, so boredom feels uncomfortable at first. But real calm comes from letting yourself unplug. Try replacing screen time with things that make you feel alive—music, walking, journaling, or art. Listen to the podcast Dealing with Phone Addiction to explore why phones hook us and how to find balance again."
+  },
+  {
+    "question": "How do I stop stress from taking over my life?",
+    "expected_answer": "Stress builds when you ignore small signs—like tension, headaches, or irritability. Start by naming what’s bothering you and taking breaks before burnout hits. You can’t eliminate stress, but you can manage how it affects you. Listen to the podcast Manage Your Stress. Live Longer for science-backed ways to stay calm and centered."
+  },
+  {
+    "question": "What are small ways to reduce daily stress?",
+    "expected_answer": "Stress builds when you ignore small signs—like tension, headaches, or irritability. Start by naming what’s bothering you and taking breaks before burnout hits. You can’t eliminate stress, but you can manage how it affects you. Listen to the podcast Manage Your Stress. Live Longer for science-backed ways to stay calm and centered."
+  },
+  {
+    "question": "Why do I feel tired and overwhelmed all the time?",
+    "expected_answer": "Stress builds when you ignore small signs—like tension, headaches, or irritability. Start by naming what’s bothering you and taking breaks before burnout hits. You can’t eliminate stress, but you can manage how it affects you. Listen to the podcast Manage Your Stress. Live Longer for science-backed ways to stay calm and centered."
+  },
+  {
+    "question": "How can I calm myself when everything feels too much?",
+    "expected_answer": "Stress builds when you ignore small signs—like tension, headaches, or irritability. Start by naming what’s bothering you and taking breaks before burnout hits. You can’t eliminate stress, but you can manage how it affects you. Listen to the podcast Manage Your Stress. Live Longer for science-backed ways to stay calm and centered."
+  },
+  {
+    "question": "Why is saying sorry so hard for me?",
+    "expected_answer": "Apologies can feel uncomfortable because they make us vulnerable. But saying sorry doesn’t mean losing power—it means showing care and maturity. It helps rebuild trust and brings peace inside you too. Listen to the podcast Saying Sorry to understand how to apologize with honesty and self-respect."
+  },
+  {
+    "question": "How can I say sorry without feeling weak?",
+    "expected_answer": "Apologies can feel uncomfortable because they make us vulnerable. But saying sorry doesn’t mean losing power—it means showing care and maturity. It helps rebuild trust and brings peace inside you too. Listen to the podcast Saying Sorry to understand how to apologize with honesty and self-respect."
+  },
+  {
+    "question": "Why do I avoid admitting when I’m wrong?",
+    "expected_answer": "Apologies can feel uncomfortable because they make us vulnerable. But saying sorry doesn’t mean losing power—it means showing care and maturity. It helps rebuild trust and brings peace inside you too. Listen to the podcast Saying Sorry to understand how to apologize with honesty and self-respect."
+  },
+  {
+    "question": "How can I fix things when I’ve hurt someone?",
+    "expected_answer": "Apologies can feel uncomfortable because they make us vulnerable. But saying sorry doesn’t mean losing power—it means showing care and maturity. It helps rebuild trust and brings peace inside you too. Listen to the podcast Saying Sorry to understand how to apologize with honesty and self-respect."
+  },
+   {
+    "question": "Mental health problems in sport",
+    "expected_answer": "If you play any sport, you will face a variety of mental health challenges including performance anxiety, feeling others are better than you, and sadness when you don’t reach your goals. Listen to this TeenTalk on Mental Health Challenges Facing Young Athletes. It's a conversation with a young man who is both an athlete and a coach, and studying psychology himself."
+  },
+  {
+    "question": "Mental health problems in athletes",
+    "expected_answer": "If you play any sport, you will face a variety of mental health challenges including performance anxiety, feeling others are better than you, and sadness when you don’t reach your goals. Listen to this TeenTalk on Mental Health Challenges Facing Young Athletes. It's a conversation with a young man who is both an athlete and a coach, and studying psychology himself."
+  },
+   {
+    "question": "I am Gay and am struggling with my identity.",
+    "expected_answer": "It can be a challenging time. You may be confused about your sexual identity, or it's different from what you think others will easily accept - family, friends and society as a whole. For specific questions, ask on the community forum and a coach will answer. Begin with accepting yourself as you are - Listen to this podcast on Acceptance. Explore this Guided Program on Identity to understand how our identities form. Then explore the program on Having difficult conversations, to find the best way of sharing how you feel with others. It’s so important to do this."
+  },
+  {
+    "question": "I am struggling with my sexual identity.",
+    "expected_answer": "It can be a challenging time. You may be confused about your sexual identity, or it's different from what you think others will easily accept - family, friends and society as a whole. For specific questions, ask on the community forum and a coach will answer. Begin with accepting yourself as you are - Listen to this podcast on Acceptance. Explore this Guided Program on Identity to understand how our identities form. Then explore the program on Having difficult conversations, to find the best way of sharing how you feel with others. It’s so important to do this."
+  },
+  {
+    "question": "I have a commitment problem in relationships.",
+    "expected_answer": "Relationships can be confusing - and we may struggle to make a commitment, because we do not want to be tied down, or feel we may meet someone ‘better’ - who fulfills all our emotional needs. There is no ‘perfect person’ - all relationships need communication, kindness and work. Only when we feel emotionally safe with a person can we be vulnerable and have space to love, and grow. Watch this short video on How to have better relationships. Read this blog Looking for love. Explore this Guided program on Love."
+  },
+  {
+    "question": "My partner does not want to commit. What can I do?",
+    "expected_answer": "Relationships can be confusing - and we may struggle to make a commitment, because we do not want to be tied down, or feel we may meet someone ‘better’ - who fulfills all our emotional needs. There is no ‘perfect person’ - all relationships need communication, kindness and work. Only when we feel emotionally safe with a person can we be vulnerable and have space to love, and grow. Watch this short video on How to have better relationships. Read this blog Looking for love. Explore this Guided program on Love."
+  },
+  {
+    "question": "How can I deal with a fear of the unknown?",
+    "expected_answer": "Fear wants to keep us safe, and the unknown presents risks it does not know how to handle, so we can get anxious. We cannot solve a problem that has not yet occurred, so fear does not go away. The key lies in understanding the nature of fear - that it is a product of our thinking process, may not always be real and exaggerates the risk of bad things happening in the future. Watch this short video - Dealing with uncertainty. Explore this Guided program on The Nature of Fear. Listen to this meditation Releasing Fear."
+  },
+  {
+    "question": "I have a fear of the unknown.",
+    "expected_answer": "Fear wants to keep us safe, and the unknown presents risks it does not know how to handle, so we can get anxious. We cannot solve a problem that has not yet occurred, so fear does not go away. The key lies in understanding the nature of fear - that it is a product of our thinking process, may not always be real and exaggerates the risk of bad things happening in the future. Watch this short video - Dealing with uncertainty. Explore this Guided program on The Nature of Fear. Listen to this meditation Releasing Fear."
+  },
+  {
+    "question": "How to deal with procrastination?",
+    "expected_answer": "We have many things we should be doing: to improve our lives, or a new project, or doing our tax return - and we struggle to get started. There could be many reasons behind this. Maybe we haven’t allocated the time needed, or are afraid of failure, or find the task boring. Understanding the underlying reason can help us deal with it better. Take a tiny step - that is most important. Listen to this mini-podcast on Dealing with Change. Explore this guided program on Dealing with Fear."
+  },
+  {
+    "question": "How to move from thinking, to actually doing something",
+    "expected_answer": "We have many things we should be doing: to improve our lives, or a new project, or doing our tax return - and we struggle to get started. There could be many reasons behind this. Maybe we haven’t allocated the time needed, or are afraid of failure, or find the task boring. Understanding the underlying reason can help us deal with it better. Take a tiny step - that is most important. Listen to this mini-podcast on Dealing with Change. Explore this guided program on Dealing with Fear."
+  },
+  {
+    "question": "How can I fall in love?",
+    "expected_answer": "Finding someone to fall in love with and develop a close relationship with is one of our deepest needs. It is as much about being the right person, as it is finding the right person. Explore the Guided program on Love for more information."
+  },
+  {
+    "question": "How can I find love?",
+    "expected_answer": "Finding someone to fall in love with and develop a close relationship with is one of our deepest needs. It is as much about being the right person, as it is finding the right person. Explore the Guided program on Love for more information."
+  },
+  {
+    "question": "What is love?",
+    "expected_answer": "Finding someone to fall in love with and develop a close relationship with is one of our deepest needs. It is as much about being the right person, as it is finding the right person. Explore the Guided program on Love for more information."
+  }
+   
+]
