@@ -5,12 +5,12 @@ import java.util.List;
 
 public class Zerosbot {
 
-    private static final String BASE_URL = "http://192.168.0.28:5000/ask";
+    private static final String BASE_URL = "https://poc.chatbot.dci.in/ask";  //https://poc.chatbot.dci.in/ask   http://192.168.0.28:5000/ask
 
     public static void main(String[] args) throws Exception {
 
         List<BotData> testData = JsonUtils.readBotData(
-                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\3.15_general.json"
+                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\topfinal2_question.json"
         );
 
         System.out.println("🚀 Chatbot Execution Started...\n");
