@@ -172,7 +172,7 @@ public class BotTest {
 
     public static void main(String[] args) throws Exception {
 
-        String baseUrl = "http://192.168.0.28:5015/chat";
+        String baseUrl = "http://13.134.43.106:5010/chat";
 
         List<BotData> testData = JsonUtils.readBotData(
                 "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\teennewall.json"

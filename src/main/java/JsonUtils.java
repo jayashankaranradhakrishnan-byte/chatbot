@@ -5,11 +5,36 @@ import java.util.List;
 
 public class JsonUtils {
 
+//    public static List<BotData> readBotData(String filePath) throws Exception {
+//        ObjectMapper mapper = new ObjectMapper();
+//        return mapper.readValue(
+//                new File(filePath),
+//                new TypeReference<List<BotData>>() {}
+//        );
+//    }
+
+//    public static List<latestBotdata> readBotData(String filePath) throws Exception {
+//        ObjectMapper mapper = new ObjectMapper();
+//        return mapper.readValue(
+//                new File(filePath),
+//                new TypeReference<List<latestBotdata>>() {}
+//        );
+//    }
+
+
     public static List<BotData> readBotData(String filePath) throws Exception {
         ObjectMapper mapper = new ObjectMapper();
         return mapper.readValue(
                 new File(filePath),
                 new TypeReference<List<BotData>>() {}
+        );
+    }
+
+    public static List<latestBotdata> readLatestBotData(String filePath) throws Exception {
+        ObjectMapper mapper = new ObjectMapper();
+        return mapper.readValue(
+                new File(filePath),
+                new TypeReference<List<latestBotdata>>() {}
         );
     }
 }
