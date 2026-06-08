@@ -12,7 +12,7 @@ public class updated_bot {
         String baseUrl = "http://13.134.43.106:5010/chat";
 
         List<latestBotdata> testData = utils_update.readBotdata(
-                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\adult1.json"
+                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\adulterror.json"
         );
 
         System.out.println("Total Questions : " + testData.size());
@@ -55,6 +55,8 @@ public class updated_bot {
             System.out.println(finalResponse);
 
             System.out.println("=".repeat(120) + "\n");
+
+            Thread.sleep(8000);
         }
     }
 

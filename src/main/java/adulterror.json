@@ -1,447 +1,11 @@
 [
   {
-    "id": 251,
-    "question": "How do I stay consistent with meditation?"
-  },
-  {
-    "id": 252,
-    "question": "Can meditation help me understand myself better?"
-  },
-  {
-    "id": 253,
-    "question": "How do I address unconscious bias at work?"
-  },
-  {
-    "id": 254,
-    "question": "I feel uncomfortable talking about diversity. Why?"
-  },
-  {
-    "id": 255,
-    "question": "Why does inclusion feel like an obligation?"
-  },
-  {
-    "id": 256,
-    "question": "How do I respond when colleagues make prejudiced remarks?"
-  },
-  {
-    "id": 257,
-    "question": "Why do I get defensive in conversations about racism?"
-  },
-  {
-    "id": 258,
-    "question": "How do I know if I have unconscious bias?"
-  },
-  {
-    "id": 259,
-    "question": "I feel judged because of my background at work. What should I do?"
-  },
-  {
-    "id": 260,
-    "question": "I’ve started to feel excluded in team conversations. Why does it hurt so much?"
-  },
-  {
-    "id": 261,
-    "question": "I struggle to manage my money wisely. Where do I start?"
-  },
-  {
-    "id": 262,
-    "question": "I feel anxious even when I have enough money. Why?"
-  },
-  {
-    "id": 263,
-    "question": "I feel ashamed that I care so much about money."
-  },
-  {
-    "id": 264,
-    "question": "Why do I feel envious of people who earn more than me?"
-  },
-  {
-    "id": 265,
-    "question": "I avoid conversations about money. Is that bad?"
-  },
-  {
-    "id": 266,
-    "question": "What is Happiness?"
-  },
-  {
-    "id": 267,
-    "question": "How do I know if I’m happy?"
-  },
-  {
-    "id": 268,
-    "question": "Is it normal to feel happy and sad at the same time?"
-  },
-  {
-    "id": 269,
-    "question": "Why don’t I feel happy even when things are going well?"
-  },
-  {
-    "id": 270,
-    "question": "How can I feel happier in my daily life?/ What habits can boost my happiness?"
-  },
-  {
-    "id": 271,
-    "question": "Can gratitude make me happier? How do I start?"
-  },
-  {
-    "id": 272,
-    "question": "I’m feeling really low today. What should I do?"
-  },
-  {
-    "id": 273,
-    "question": "How can I handle negative thoughts?"
-  },
-  {
-    "id": 274,
-    "question": "My partner doesn’t make me happy anymore. What does that mean?"
-  },
-  {
-    "id": 275,
-    "question": "How do I find my purpose?"
-  },
-  {
-    "id": 276,
-    "question": "What’s a simple happiness tip for today?"
-  },
-  {
-    "id": 277,
-    "question": "Can I be happy even with anxiety?"
-  },
-  {
-    "id": 278,
-    "question": "What will make me happy?"
-  },
-  {
-    "id": 279,
-    "question": "How can I be more confident in myself?"
-  },
-  {
-    "id": 280,
-    "question": "Why do they say, ‘Happiness is fleeting’?"
-  },
-  {
-    "id": 281,
-    "question": "I used to be happy and cheerful. I don’t know where my older self has disappeared."
-  },
-  {
-    "id": 282,
-    "question": "How can I make my family happy?"
-  },
-  {
-    "id": 283,
-    "question": "How can I make my husband happy?"
-  },
-  {
-    "id": 284,
-    "question": "How can I make my children happy?"
-  },
-  {
-    "id": 285,
-    "question": "How can I make my inlaws happy?"
-  },
-  {
-    "id": 286,
-    "question": "How can I be happy?"
-  },
-  {
-    "id": 287,
-    "question": "How can I feel good about myself?"
-  },
-  {
-    "id": 288,
-    "question": "How can I be happier at work"
-  },
-  {
-    "id": 289,
-    "question": "I am unhappy at work"
-  },
-  {
-    "id": 290,
-    "question": "How can I find fulfillment at work"
-  },
-  {
-    "id": 291,
-    "question": "How can I stop overthinking everything?"
-  },
-  {
-    "id": 292,
-    "question": "What’s a quick way to calm down when I’m upset?"
-  },
-  {
-    "id": 293,
-    "question": "Why do I get affected by small things?"
-  },
-  {
-    "id": 294,
-    "question": "Why do I get upset by small things?"
-  },
-  {
-    "id": 295,
-    "question": "Why do I get triggered so easily?"
-  },
-  {
-    "id": 296,
-    "question": "How do I deal with constant mood swings?"
-  },
-  {
-    "id": 297,
-    "question": "I don’t know why I feel a certain way."
-  },
-  {
-    "id": 298,
-    "question": "Why do I feel what I feel?"
-  },
-  {
-    "id": 299,
-    "question": "How do I control my anger? How can I manage my anger?"
-  },
-  {
-    "id": 300,
-    "question": "How can I deal with loneliness?"
-  },
-  {
-    "id": 301,
-    "question": "What should I do when I feel like crying but can’t explain why?"
-  },
-  {
-    "id": 302,
-    "question": "What’s a healthy way to express sadness?"
-  },
-  {
-    "id": 303,
-    "question": "How can I stop snapping at people I care about?"
-  },
-  {
-    "id": 304,
-    "question": "Why do I feel nothing sometimes?"
-  },
-  {
-    "id": 305,
-    "question": "How do I manage emotional triggers?"
-  },
-  {
-    "id": 306,
-    "question": "Can emotions affect my physical health?"
-  },
-  {
-    "id": 307,
-    "question": "How can I explain my emotions to others?"
-  },
-  {
-    "id": 308,
-    "question": "How can I calm my mind quickly?"
-  },
-  {
-    "id": 309,
-    "question": "Why is my mind always busy?"
-  },
-  {
-    "id": 310,
-    "question": "Why is my mind always preoccupied?"
-  },
-  {
-    "id": 311,
-    "question": "What’s the best way to start my day calmly?"
-  },
-  {
-    "id": 312,
-    "question": "Why does my mind race at night?"
-  },
-  {
-    "id": 313,
-    "question": "Can music calm my mind? And how?"
-  },
-  {
-    "id": 314,
-    "question": "Why do I feel calm one moment and overwhelmed the next?"
-  },
-  {
-    "id": 315,
-    "question": "How do I stop my mind from jumping to the worst-case scenario?"
-  },
-  {
-    "id": 316,
-    "question": "How can I stay calm around difficult people?"
-  },
-  {
-    "id": 317,
-    "question": "Is it okay if I can’t calm down right away?"
-  },
-  {
-    "id": 318,
-    "question": "Why am I so scared of dying?! Why does the thought of death make me anxious?"
-  },
-  {
-    "id": 319,
-    "question": "Is it normal to fear death even when I’m young?"
-  },
-  {
-    "id": 320,
-    "question": "How can I stop obsessing over dying?"
-  },
-  {
-    "id": 321,
-    "question": "What’s a healthy way to think about death?"
-  },
-  {
-    "id": 322,
-    "question": "How can I think about death without feeling anxious?"
-  },
-  {
-    "id": 323,
-    "question": "Is it okay to be scared of losing someone I love?"
-  },
-  {
-    "id": 324,
-    "question": "I fear losing my loved one."
-  },
-  {
-    "id": 325,
-    "question": "How can I support a friend who is scared of losing someone?"
-  },
-  {
-    "id": 326,
-    "question": "Why do I feel anxious after someone else’s death, even if I wasn’t close?"
-  },
-  {
-    "id": 327,
-    "question": "Can I be a good parent even when I feel anxious or unsure?"
-  },
-  {
-    "id": 328,
-    "question": "Why do small things hurt so much in my relationship with my child?"
-  },
-  {
-    "id": 329,
-    "question": "How do I build stronger communication with my kids—especially when they shut down?"
-  },
-  {
-    "id": 330,
-    "question": "Why does it feel so hard to talk to my teenager sometimes?"
-  },
-  {
-    "id": 331,
-    "question": "What are some simple tips to be a better parent today?"
-  },
-  {
-    "id": 332,
-    "question": "How do I stay patient when parenting feels overwhelming?"
-  },
-  {
-    "id": 333,
-    "question": "What do I need to understand about parenting teens right now?"
-  },
-  {
-    "id": 334,
-    "question": "How do I know if I’m being too strict or too lenient with my teenager?"
-  },
-  {
-    "id": 335,
-    "question": "How do I know I’m growing as a parent, even when it feels hard?"
-  },
-  {
-    "id": 336,
-    "question": "What can help me feel more confident as a parent?"
-  },
-  {
-    "id": 337,
-    "question": "What is HappierMe?"
-  },
-  {
-    "id": 338,
-    "question": "How do I start my free trial?"
-  },
-  {
-    "id": 339,
-    "question": "How do I get started with HappierMe?"
-  },
-  {
-    "id": 340,
-    "question": "How much time do I need to spend every day on the app?"
-  },
-  {
-    "id": 341,
-    "question": "What is self-awareness?"
-  },
-  {
-    "id": 342,
-    "question": "How can the app help me with my mental health?"
-  },
-  {
-    "id": 343,
-    "question": "How can the app help me to have happier relationships?"
-  },
-  {
-    "id": 344,
-    "question": "How can the app help me to avoid addiction and build better habits?"
-  },
-  {
-    "id": 345,
-    "question": "How can the app help me succeed at work?"
-  },
-  {
-    "id": 346,
-    "question": "Does HappierMe offer meditations?"
-  },
-  {
-    "id": 347,
-    "question": "I want to know more about your live events"
-  },
-  {
-    "id": 348,
-    "question": "What is your partnership program?"
-  },
-  {
     "id": 349,
     "question": "How can I contact a coach through the app?"
   },
   {
-    "id": 350,
-    "question": "Is there a community forum?"
-  },
-  {
-    "id": 351,
-    "question": "How can I track my progress?"
-  },
-  {
-    "id": 352,
-    "question": "I want to know more about your teenage program"
-  },
-  {
-    "id": 353,
-    "question": "How can I contact the support team?"
-  },
-  {
     "id": 354,
     "question": "How can I cancel a subscription?"
-  },
-  {
-    "id": 355,
-    "question": "How can I share this with others?"
-  },
-  {
-    "id": 356,
-    "question": "What is the HappierMe Mission?"
-  },
-  {
-    "id": 357,
-    "question": "I love my partner, but we argue all the time. How can we stop fighting so much?"
-  },
-  {
-    "id": 358,
-    "question": "How do I know if this relationship is actually good for me?"
-  },
-  {
-    "id": 359,
-    "question": "My partner shuts down when we talk about serious things. What should I do?"
-  },
-  {
-    "id": 360,
-    "question": "How can I rebuild trust after it’s been broken?"
-  },
-  {
-    "id": 361,
-    "question": "I feel like my partner doesn’t really listen to me — how can I get through to them?"
   },
   {
     "id": 362,
@@ -538,10 +102,6 @@
   {
     "id": 385,
     "question": "I feel lonely even though I’m surrounded by people. What’s going on?"
-  },
-  {
-    "id": 386,
-    "question": "I want to be more emotionally available, but it’s hard. Where do I start?"
   },
   {
     "id": 387,
@@ -688,10 +248,6 @@
     "question": "What if I never find a love like that again?"
   },
   {
-    "id": 423,
-    "question": "Why does being on Instagram make me feel like my life isn’t good enough?"
-  },
-  {
     "id": 424,
     "question": "I feel anxious after scrolling through social media — is that normal?"
   },
@@ -734,10 +290,6 @@
   {
     "id": 434,
     "question": "Someone left a nasty comment on my post — how should I deal with it?"
-  },
-  {
-    "id": 435,
-    "question": "How do I protect my mental health from negativity online?"
   },
   {
     "id": 436,
@@ -788,18 +340,6 @@
     "question": "I compare myself to everyone — how do I stop?"
   },
   {
-    "id": 448,
-    "question": "Why does criticism affect me so much?"
-  },
-  {
-    "id": 449,
-    "question": "How can I build self-esteem after years of negative self-talk?"
-  },
-  {
-    "id": 450,
-    "question": "I feel ashamed of my body"
-  },
-  {
     "id": 451,
     "question": "I hate the way I look"
   },
@@ -821,7 +361,7 @@
   },
   {
     "id": 456,
-    "question": "I feel insecure even when people compliment me — why is that?  "
+    "question": "I feel insecure even when people compliment me — why is that?"
   },
   {
     "id": 457,
@@ -930,10 +470,6 @@
   {
     "id": 483,
     "question": "What makes a true friend?"
-  },
-  {
-    "id": 484,
-    "question": "How do I handle conflict with my boss/ How do I deal with conflict at work/ How can I deal with conflict with colleagues / How do I deal with toxic relationships at work"
   },
   {
     "id": 484,
