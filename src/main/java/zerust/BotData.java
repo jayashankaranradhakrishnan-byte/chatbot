@@ -1,18 +1,4 @@
-//public class BotData {
-//    private String question;
-//    private String expected_answer;
-//
-//    public String getQuestion() {
-//        return question;
-//    }
-//
-//    public String getExpected_answer() {
-//        return expected_answer;
-//    }
-//}
-
-
-
+package zerust;
 
 import java.util.List;
 
@@ -23,7 +9,9 @@ public class BotData {
     private int id;
 
 
-    public int getId() { return id; }
+    public int getId() {
+        return id;
+    }
 
 
     // NEW: add this field for links

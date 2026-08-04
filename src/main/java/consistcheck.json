@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "Why am I always tired after work?"
+  },
+  {
+    "id": 2,
+    "question": "I dread Mondays. What does that mean?"
+  },
+  {
+    "id": 3,
+    "question": "How do I know if I'm burned out?"
+  },
+  {
+    "id": 4,
+    "question": "How can I calm my mind?"
+  },
+  {
+    "id": 5,
+    "question": "How do I stop feeling inferior?"
+  },
+  {
+    "id": 6,
+    "question": "How do I build self-confidence?"
+  },
+  {
+    "id": 7,
+    "question": "How can I move past hurt feelings?"
+  },
+  {
+    "id": 8,
+    "question": "How do I say sorry sincerely?"
+  },
+  {
+    "id": 9,
+    "question": "Why do I overthink everything?"
+  },
+  {
+    "id": 10,
+    "question": "How can I stop comparing myself to others?"
+  },
+  {
+    "id": 11,
+    "question": "Why do I feel lonely even around people?"
+  },
+  {
+    "id": 12,
+    "question": "How can I improve my self-esteem?"
+  },
+  {
+    "id": 13,
+    "question": "Why do I get anxious before important events?"
+  },
+  {
+    "id": 14,
+    "question": "How do I handle criticism better?"
+  },
+  {
+    "id": 15,
+    "question": "Why do I feel stuck in life?"
+  },
+  {
+    "id": 16,
+    "question": "How can I become more resilient?"
+  },
+  {
+    "id": 17,
+    "question": "Why do I procrastinate so much?"
+  },
+  {
+    "id": 18,
+    "question": "How do I deal with rejection?"
+  },
+  {
+    "id": 19,
+    "question": "What can I do when I feel overwhelmed?"
+  },
+  {
+    "id": 20,
+    "question": "How do I stop worrying about the future?"
+  },
+  {
+    "id": 21,
+    "question": "Why do I feel unmotivated lately?"
+  },
+  {
+    "id": 22,
+    "question": "How can I be kinder to myself?"
+  },
+  {
+    "id": 23,
+    "question": "How do I manage stress effectively?"
+  },
+  {
+    "id": 24,
+    "question": "Why do I feel guilty all the time?"
+  },
+  {
+    "id": 25,
+    "question": "How can I set healthy boundaries?"
+  },
+  {
+    "id": 26,
+    "question": "Why do I get irritated so easily?"
+  },
+  {
+    "id": 27,
+    "question": "How do I become more confident in social situations?"
+  },
+  {
+    "id": 28,
+    "question": "Why do I struggle to trust people?"
+  },
+  {
+    "id": 29,
+    "question": "How can I stay positive during difficult times?"
+  },
+  {
+    "id": 30,
+    "question": "How do I stop seeking validation from others?"
+  },
+  {
+    "id": 31,
+    "question": "Why do I feel like I'm not good enough?"
+  },
+  {
+    "id": 32,
+    "question": "How do I deal with disappointment?"
+  },
+  {
+    "id": 33,
+    "question": "Why do I avoid difficult conversations?"
+  },
+  {
+    "id": 34,
+    "question": "How can I improve my emotional intelligence?"
+  },
+  {
+    "id": 35,
+    "question": "Why do I have trouble making decisions?"
+  },
+  {
+    "id": 36,
+    "question": "How do I forgive someone who hurt me?"
+  },
+  {
+    "id": 37,
+    "question": "What should I do when I feel emotionally drained?"
+  },
+  {
+    "id": 38,
+    "question": "How can I become more patient?"
+  },
+  {
+    "id": 39,
+    "question": "Why do I fear failure?"
+  },
+  {
+    "id": 40,
+    "question": "How do I cope with change?"
+  },
+  {
+    "id": 41,
+    "question": "Why do I feel disconnected from others?"
+  },
+  {
+    "id": 42,
+    "question": "How can I improve my communication skills?"
+  },
+  {
+    "id": 43,
+    "question": "How do I stop dwelling on past mistakes?"
+  },
+  {
+    "id": 44,
+    "question": "Why do I feel nervous meeting new people?"
+  },
+  {
+    "id": 45,
+    "question": "How can I develop better habits?"
+  },
+  {
+    "id": 46,
+    "question": "What can I do when I feel emotionally numb?"
+  },
+  {
+    "id": 47,
+    "question": "How do I manage my anger in a healthy way?"
+  },
+  {
+    "id": 48,
+    "question": "Why do I feel jealous of other people's success?"
+  },
+  {
+    "id": 49,
+    "question": "How can I improve my focus and concentration?"
+  },
+  {
+    "id": 50,
+    "question": "How do I stop taking things personally?"
+  },
+  {
+    "id": 51,
+    "question": "Why do I feel nervous about the future?"
+  },
+  {
+    "id": 52,
+    "question": "How can I be more assertive?"
+  },
+  {
+    "id": 53,
+    "question": "What should I do when I feel misunderstood?"
+  },
+  {
+    "id": 54,
+    "question": "How do I rebuild confidence after a setback?"
+  },
+  {
+    "id": 55,
+    "question": "Why do I have trouble asking for help?"
+  },
+  {
+    "id": 56,
+    "question": "How can I improve my relationships?"
+  },
+  {
+    "id": 57,
+    "question": "Why do I feel emotionally exhausted?"
+  },
+  {
+    "id": 58,
+    "question": "How do I stop worrying about what others think of me?"
+  },
+  {
+    "id": 59,
+    "question": "How can I stay motivated to achieve my goals?"
+  },
+  {
+    "id": 60,
+    "question": "Why do I feel left out sometimes?"
+  },
+  {
+    "id": 61,
+    "question": "How do I handle conflict without getting upset?"
+  },
+  {
+    "id": 62,
+    "question": "What can I do when I feel lost?"
+  },
+  {
+    "id": 63,
+    "question": "How can I improve my work-life balance?"
+  },
+  {
+    "id": 64,
+    "question": "Why do I struggle to let go of the past?"
+  },
+  {
+    "id": 65,
+    "question": "How do I become more optimistic?"
+  },
+  {
+    "id": 66,
+    "question": "Why do I feel uncomfortable receiving compliments?"
+  },
+  {
+    "id": 67,
+    "question": "How can I cope with uncertainty?"
+  },
+  {
+    "id": 68,
+    "question": "What should I do when I feel discouraged?"
+  },
+  {
+    "id": 69,
+    "question": "How do I become more self-aware?"
+  },
+  {
+    "id": 70,
+    "question": "How can I find meaning and purpose in my life?"
+  }
+]

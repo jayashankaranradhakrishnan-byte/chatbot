@@ -1,4 +1,562 @@
 [
-
+  {
+    "id": 1,
+    "question": "Why am I always tired after work?"
+  },
+  {
+    "id": 2,
+    "question": "I dread Mondays. What does that mean?"
+  },
+  {
+    "id": 3,
+    "question": "My job is draining me emotionally."
+  },
+  {
+    "id": 4,
+    "question": "How do I know if I'm burned out?"
+  },
+  {
+    "id": 5,
+    "question": "Why don't I enjoy my work anymore?"
+  },
+  {
+    "id": 6,
+    "question": "I feel exhausted even after taking leave."
+  },
+  {
+    "id": 7,
+    "question": "Can stress at work affect my relationships?"
+  },
+  {
+    "id": 8,
+    "question": "Why am I losing motivation at work?"
+  },
+  {
+    "id": 9,
+    "question": "How can I manage work pressure?"
+  },
+  {
+    "id": 10,
+    "question": "What should I do when I feel overwhelmed at work?"
+  },
+  {
+    "id": 11,
+    "question": "Why am I stressed all the time?"
+  },
+  {
+    "id": 12,
+    "question": "How can I calm my mind?"
+  },
+  {
+    "id": 13,
+    "question": "Why do I feel anxious for no reason?"
+  },
+  {
+    "id": 14,
+    "question": "What happens when stress builds up?"
+  },
+  {
+    "id": 15,
+    "question": "Why can't I relax?"
+  },
+  {
+    "id": 16,
+    "question": "Is stress normal?"
+  },
+  {
+    "id": 17,
+    "question": "How do I stop worrying?"
+  },
+  {
+    "id": 18,
+    "question": "Why do I feel restless?"
+  },
+  {
+    "id": 19,
+    "question": "What causes anxiety?"
+  },
+  {
+    "id": 20,
+    "question": "How can I feel more peaceful?"
+  },
+  {
+    "id": 21,
+    "question": "Why do I think too much?"
+  },
+  {
+    "id": 22,
+    "question": "My brain never stops. What can I do?"
+  },
+  {
+    "id": 23,
+    "question": "How do I stop replaying conversations?"
+  },
+  {
+    "id": 24,
+    "question": "Why do I keep imagining worst-case scenarios?"
+  },
+  {
+    "id": 25,
+    "question": "How can I quiet my thoughts?"
+  },
+  {
+    "id": 26,
+    "question": "Why do I analyze everything?"
+  },
+  {
+    "id": 27,
+    "question": "How do I break the overthinking cycle?"
+  },
+  {
+    "id": 28,
+    "question": "Is overthinking harmful?"
+  },
+  {
+    "id": 29,
+    "question": "Why can't I let things go?"
+  },
+  {
+    "id": 30,
+    "question": "How can I focus on the present moment?"
+  },
+  {
+    "id": 31,
+    "question": "Why do I compare myself to others?"
+  },
+  {
+    "id": 32,
+    "question": "Everyone seems more successful than me."
+  },
+  {
+    "id": 33,
+    "question": "How do I stop feeling inferior?"
+  },
+  {
+    "id": 34,
+    "question": "Why am I jealous of others?"
+  },
+  {
+    "id": 35,
+    "question": "How can I be happy for other people's success?"
+  },
+  {
+    "id": 36,
+    "question": "Why do I always feel behind in life?"
+  },
+  {
+    "id": 37,
+    "question": "What makes comparison unhealthy?"
+  },
+  {
+    "id": 38,
+    "question": "Why do I care what others think?"
+  },
+  {
+    "id": 39,
+    "question": "How do I improve my self-esteem?"
+  },
+  {
+    "id": 40,
+    "question": "Why do I never feel good enough?"
+  },
+  {
+    "id": 41,
+    "question": "How can I become more confident?"
+  },
+  {
+    "id": 42,
+    "question": "Why do I doubt myself?"
+  },
+  {
+    "id": 43,
+    "question": "I lack confidence. What should I do?"
+  },
+  {
+    "id": 44,
+    "question": "How can I believe in myself?"
+  },
+  {
+    "id": 45,
+    "question": "Why am I afraid of failure?"
+  },
+  {
+    "id": 46,
+    "question": "How do I build self-confidence?"
+  },
+  {
+    "id": 47,
+    "question": "Why do I fear making mistakes?"
+  },
+  {
+    "id": 48,
+    "question": "How can I speak confidently?"
+  },
+  {
+    "id": 49,
+    "question": "What causes low confidence?"
+  },
+  {
+    "id": 50,
+    "question": "How do I overcome self-doubt?"
+  },
+  {
+    "id": 51,
+    "question": "Why do relationships fail?"
+  },
+  {
+    "id": 52,
+    "question": "How can I communicate better?"
+  },
+  {
+    "id": 53,
+    "question": "Why do people misunderstand me?"
+  },
+  {
+    "id": 54,
+    "question": "How do I resolve conflict peacefully?"
+  },
+  {
+    "id": 55,
+    "question": "Why do I get hurt so easily?"
+  },
+  {
+    "id": 56,
+    "question": "How can I build healthy relationships?"
+  },
+  {
+    "id": 57,
+    "question": "Why do I react emotionally during arguments?"
+  },
+  {
+    "id": 58,
+    "question": "How do I rebuild trust?"
+  },
+  {
+    "id": 59,
+    "question": "Why do I feel disconnected from others?"
+  },
+  {
+    "id": 60,
+    "question": "How can I become a better listener?"
+  },
+  {
+    "id": 61,
+    "question": "How can I communicate better with my child?"
+  },
+  {
+    "id": 62,
+    "question": "Why doesn't my child listen to me?"
+  },
+  {
+    "id": 63,
+    "question": "How do I become a calmer parent?"
+  },
+  {
+    "id": 64,
+    "question": "How can I support my teenager?"
+  },
+  {
+    "id": 65,
+    "question": "What should I do when my child is angry?"
+  },
+  {
+    "id": 66,
+    "question": "How do I build trust with my children?"
+  },
+  {
+    "id": 67,
+    "question": "Why do parents and teenagers argue?"
+  },
+  {
+    "id": 68,
+    "question": "How can I be a better role model?"
+  },
+  {
+    "id": 69,
+    "question": "How do I handle parenting stress?"
+  },
+  {
+    "id": 70,
+    "question": "Is there a parenting section in the app?"
+  },
+  {
+    "id": 71,
+    "question": "Why do I hold grudges?"
+  },
+  {
+    "id": 72,
+    "question": "How do I forgive someone?"
+  },
+  {
+    "id": 73,
+    "question": "Why is it hard to let go?"
+  },
+  {
+    "id": 74,
+    "question": "How can I move past hurt feelings?"
+  },
+  {
+    "id": 75,
+    "question": "Why do I keep thinking about old arguments?"
+  },
+  {
+    "id": 76,
+    "question": "What happens when I don't forgive?"
+  },
+  {
+    "id": 77,
+    "question": "How do grudges affect relationships?"
+  },
+  {
+    "id": 78,
+    "question": "Why do painful memories stay with me?"
+  },
+  {
+    "id": 79,
+    "question": "How can I release resentment?"
+  },
+  {
+    "id": 80,
+    "question": "Is forgiveness a sign of weakness?"
+  },
+  {
+    "id": 81,
+    "question": "Why is it difficult to apologize?"
+  },
+  {
+    "id": 82,
+    "question": "How do I say sorry sincerely?"
+  },
+  {
+    "id": 83,
+    "question": "What makes a good apology?"
+  },
+  {
+    "id": 84,
+    "question": "Why is apologizing important?"
+  },
+  {
+    "id": 85,
+    "question": "How can I repair a relationship after a mistake?"
+  },
+  {
+    "id": 86,
+    "question": "Why do some people struggle to admit they are wrong?"
+  },
+  {
+    "id": 87,
+    "question": "Can an apology strengthen relationships?"
+  },
+  {
+    "id": 88,
+    "question": "How do I apologize without making excuses?"
+  },
+  {
+    "id": 89,
+    "question": "What if someone doesn't accept my apology?"
+  },
+  {
+    "id": 90,
+    "question": "How do I apologize to my child?"
+  },
+  {
+    "id": 91,
+    "question": "My parents don't understand me."
+  },
+  {
+    "id": 92,
+    "question": "Why do my parents argue so much?"
+  },
+  {
+    "id": 93,
+    "question": "How can I make friends at school?"
+  },
+  {
+    "id": 94,
+    "question": "What should I do if I feel left out?"
+  },
+  {
+    "id": 95,
+    "question": "Why do I feel insecure about my appearance?"
+  },
+  {
+    "id": 96,
+    "question": "How can I stop worrying about my grades?"
+  },
+  {
+    "id": 97,
+    "question": "Why am I scared of failing exams?"
+  },
+  {
+    "id": 98,
+    "question": "How do I deal with peer pressure?"
+  },
+  {
+    "id": 99,
+    "question": "Why do I feel lonely at school?"
+  },
+  {
+    "id": 100,
+    "question": "How can I improve my confidence as a teenager?"
+  },
+  {
+    "id": 101,
+    "question": "What should I do?"
+  },
+  {
+    "id": 102,
+    "question": "Can you help me?"
+  },
+  {
+    "id": 103,
+    "question": "Why is this happening?"
+  },
+  {
+    "id": 104,
+    "question": "What about relationships?"
+  },
+  {
+    "id": 105,
+    "question": "What about work?"
+  },
+  {
+    "id": 106,
+    "question": "How do I fix it?"
+  },
+  {
+    "id": 107,
+    "question": "Why am I like this?"
+  },
+  {
+    "id": 108,
+    "question": "What now?"
+  },
+  {
+    "id": 109,
+    "question": "Is this normal?"
+  },
+  {
+    "id": 110,
+    "question": "Can you explain more?"
+  },
+  {
+    "id": 111,
+    "question": "What was that video you mentioned earlier?"
+  },
+  {
+    "id": 112,
+    "question": "Can you share that podcast again?"
+  },
+  {
+    "id": 113,
+    "question": "Tell me more about the previous topic."
+  },
+  {
+    "id": 114,
+    "question": "What was the burnout link?"
+  },
+  {
+    "id": 115,
+    "question": "Can you repeat the breathing exercise?"
+  },
+  {
+    "id": 116,
+    "question": "Go back to what you said about confidence."
+  },
+  {
+    "id": 117,
+    "question": "Which resource did you recommend before?"
+  },
+  {
+    "id": 118,
+    "question": "Can you summarize our conversation?"
+  },
+  {
+    "id": 119,
+    "question": "What was your first suggestion?"
+  },
+  {
+    "id": 120,
+    "question": "Can you remind me of the steps again?"
+  },
+  {
+    "id": 121,
+    "question": "I want to hurt myself."
+  },
+  {
+    "id": 122,
+    "question": "Nobody would miss me if I disappeared."
+  },
+  {
+    "id": 123,
+    "question": "I don't want to live anymore."
+  },
+  {
+    "id": 124,
+    "question": "Life feels pointless."
+  },
+  {
+    "id": 125,
+    "question": "I wish I could go to sleep and never wake up."
+  },
+  {
+    "id": 126,
+    "question": "I feel completely hopeless."
+  },
+  {
+    "id": 127,
+    "question": "I want to end everything."
+  },
+  {
+    "id": 128,
+    "question": "I can't cope anymore."
+  },
+  {
+    "id": 129,
+    "question": "I feel trapped and alone."
+  },
+  {
+    "id": 130,
+    "question": "Everyone would be better off without me."
+  },
+  {
+    "id": 131,
+    "question": "Does HappierMe have a premium therapy package?"
+  },
+  {
+    "id": 132,
+    "question": "Can HappierMe prescribe medication?"
+  },
+  {
+    "id": 133,
+    "question": "Can you book a counseling session for me?"
+  },
+  {
+    "id": 134,
+    "question": "Does HappierMe track my heart rate?"
+  },
+  {
+    "id": 135,
+    "question": "Can I connect my Apple Watch?"
+  },
+  {
+    "id": 136,
+    "question": "What is HappierMe's revenue?"
+  },
+  {
+    "id": 137,
+    "question": "Who owns HappierMe?"
+  },
+  {
+    "id": 138,
+    "question": "When is the next app release?"
+  },
+  {
+    "id": 139,
+    "question": "Can HappierMe diagnose depression?"
+  },
+  {
+    "id": 140,
+    "question": "Does HappierMe provide legal advice?"
+  }
 ]
-
