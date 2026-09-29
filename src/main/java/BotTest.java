@@ -251,7 +251,7 @@ public class BotTest {
         String baseUrl = "http://13.134.43.106:5010/chat";
 
         String jsonPath =
-                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\happierme_2\\adult_1.json";
+                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\happierme_2\\adult1.json";
 
         String logFilePath =
                 "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\happierme_2\\BotResponse.txt";
@@ -410,8 +410,8 @@ public class BotTest {
 
                 // Wait between requests, except after the last one
                 if (questionNumber < testData.size()) {
-                    System.out.println("Waiting " + (REQUEST_DELAY_MS / 1000)
-                            + " seconds before the next request...");
+//                    System.out.println("Waiting " + (REQUEST_DELAY_MS / 1000)
+//                            + " seconds before the next request...");
 
                     try {
                         Thread.sleep(REQUEST_DELAY_MS);
