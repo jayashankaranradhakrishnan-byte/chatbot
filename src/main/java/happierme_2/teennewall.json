@@ -1,0 +1,588 @@
+
+[
+  {
+    "id": 1,
+    "question": "My teachers don’t like me."
+  },
+  {
+    "id": 2,
+    "question": "They always think they’re right — how can I make them listen to me?"
+  },
+  {
+    "id": 3,
+    "question": "How can I get more freedom without upsetting the parents?"
+  },
+  {
+    "id": 4,
+    "question": "My parents never listen to my side of things. How do I get them to hear me?"
+  },
+  {
+    "id": 5,
+    "question": "What should I do if my parents argue a lot?"
+  },
+  {
+    "id": 6,
+    "question": "How can I handle it if my parents don’t get along with each other?"
+  },
+  {
+    "id": 7,
+    "question": "Why do I hold a grudge?"
+  },
+  {
+    "id": 8,
+    "question": "Why do people hold a grudge?"
+  },
+  {
+    "id": 9,
+    "question": "Why is it hard to say sorry?"
+  },
+  {
+    "id": 10,
+    "question": "How can I learn to say sorry?"
+  },
+  {
+    "id": 11,
+    "question": "What is the best way to say sorry?"
+  },
+  {
+    "id": 12,
+    "question": "Why is it important to say sorry?"
+  },
+  {
+    "id": 13,
+    "question": "I am feeling neglected"
+  },
+  {
+    "id": 14,
+    "question": "I don’t feel loved"
+  },
+  {
+    "id": 15,
+    "question": "Why do I want attention all the time"
+  },
+  {
+    "id": 16,
+    "question": "I am worried about my test results"
+  },
+  {
+    "id": 17,
+    "question": "I am worried about my driving test"
+  },
+  {
+    "id": 18,
+    "question": "I am worried about my interview"
+  },
+  {
+    "id": 19,
+    "question": "I am worried about the future"
+  },
+  {
+    "id": 20,
+    "question": "I am worried that I won’t get a good job"
+  },
+  {
+    "id": 21,
+    "question": "I am worried that I wont get into the university of my choice"
+  },
+  {
+    "id": 22,
+    "question": "How can I connect with my own silence"
+  },
+  {
+    "id": 23,
+    "question": "Does silence bring peace"
+  },
+  {
+    "id": 24,
+    "question": "What would happen if I just sat in silence."
+  },
+  {
+    "id": 25,
+    "question": "I can’t sleep because I am worrying about my health"
+  },
+  {
+    "id": 26,
+    "question": "I can’t sleep because I am worrying about my school"
+  },
+  {
+    "id": 27,
+    "question": "I can’t sleep because I am worrying about my friends"
+  },
+  {
+    "id": 28,
+    "question": "I can’t sleep because I am worrying about my exams"
+  },
+  {
+    "id": 29,
+    "question": "I can’t sleep because I am worrying about my future"
+  },
+  {
+    "id": 30,
+    "question": "I don’t like my family"
+  },
+  {
+    "id": 31,
+    "question": "Why do I feel defensive or insecure?"
+  },
+  {
+    "id": 32,
+    "question": "How can I listen to my own voice and not follow others"
+  },
+  {
+    "id": 33,
+    "question": "Why do some emotions feel easier to accept than others?"
+  },
+  {
+    "id": 34,
+    "question": "How can I understand the difference between emotional reactions and genuine feelings?"
+  },
+  {
+    "id": 35,
+    "question": "What would I discover if I stopped distracting myself and just sat in silence?"
+  },
+  {
+    "id": 36,
+    "question": "How can I tell the difference between intuition and overthinking?"
+  },
+  {
+    "id": 37,
+    "question": "What am I avoiding by staying “busy” all the time?"
+  },
+  {
+    "id": 38,
+    "question": "Why does self-awareness sometimes feel uncomfortable?"
+  },
+  {
+    "id": 39,
+    "question": "How can I embrace my flaws without using them as excuses?"
+  },
+  {
+    "id": 40,
+    "question": "How do I reconnect with parts of myself I’ve put aside for years?"
+  },
+  {
+    "id": 41,
+    "question": "How do I redefine myself when the life I imagined looks different from the one I have?"
+  },
+  {
+    "id": 42,
+    "question": "How can I find joy in my daily life?"
+  },
+  {
+    "id": 43,
+    "question": "How can I let go of the need to control everything and trust life more?"
+  },
+  {
+    "id": 44,
+    "question": "I don’t feel valued by others."
+  },
+  {
+    "id": 45,
+    "question": "How do I know if what I’m feeling is a mental health problem or just normal stress?"
+  },
+  {
+    "id": 46,
+    "question": "How can I tell if I have an anxiety disorder?"
+  },
+  {
+    "id": 47,
+    "question": "How do changes in sleep, appetite, or energy relate to mental health problems?"
+  },
+  {
+    "id": 48,
+    "question": "What are the warning signs of serious problems like psychosis or suicidal thoughts?"
+  },
+  {
+    "id": 49,
+    "question": "How does substance use affect mental illness?"
+  },
+  {
+    "id": 50,
+    "question": "How does alcohol affect mental illness?"
+  },
+  {
+    "id": 51,
+    "question": "How do drugs affect mental illness?"
+  },
+  {
+    "id": 52,
+    "question": "How does vaping affect mental illness?"
+  },
+  {
+    "id": 53,
+    "question": "What are myths or misconceptions about mental health disorders?"
+  },
+  {
+    "id": 54,
+    "question": "Where can I get help in a crisis or emergency?"
+  },
+  {
+    "id": 55,
+    "question": "What should I do if I think someone I know may have a mental health problem?"
+  },
+  {
+    "id": 56,
+    "question": "What are the signs or symptoms of a substance or behavioral addiction?"
+  },
+  {
+    "id": 57,
+    "question": "What triggers lead to my substance use or addictive behaviors?"
+  },
+  {
+    "id": 58,
+    "question": "What is withdrawal and how can I deal with it?"
+  },
+  {
+    "id": 59,
+    "question": "Is addiction a disease or a moral failing?"
+  },
+  {
+    "id": 60,
+    "question": "What treatments are available for addiction? Can it be cured?"
+  },
+  {
+    "id": 61,
+    "question": "Why do some people become addicted more easily than others?"
+  },
+  {
+    "id": 62,
+    "question": "Does family history or mental illness increase addiction risk?"
+  },
+  {
+    "id": 63,
+    "question": "Are some substances or behaviors more addictive than others?"
+  },
+  {
+    "id": 64,
+    "question": "Can mental health problems and addiction occur together?"
+  },
+  {
+    "id": 65,
+    "question": "How can I support someone with addiction?"
+  },
+  {
+    "id": 66,
+    "question": "What are the best ways to prevent relapse of my addiction?"
+  },
+  {
+    "id": 67,
+    "question": "Where can I find help, support groups, or therapy for addiction?"
+  },
+  {
+    "id": 68,
+    "question": "What should I do if my friend seems upset or is avoiding everyone?"
+  },
+  {
+    "id": 69,
+    "question": "What’s the difference between sadness and depression?"
+  },
+  {
+    "id": 70,
+    "question": "How do I tell the difference between normal mood swings and a real mental health problem?​"
+  },
+  {
+    "id": 71,
+    "question": "Are my worries about body image and food normal or a sign of an eating disorder?​"
+  },
+  {
+    "id": 72,
+    "question": "Is it okay to ask for professional help for anxiety or depression?​"
+  },
+  {
+    "id": 73,
+    "question": "How do I cope if someone close to me has a mental health problem?"
+  },
+  {
+    "id": 74,
+    "question": "Can stress from exams, parental expectations, or bullying cause mental illness?​"
+  },
+  {
+    "id": 75,
+    "question": "What are warning signs that I should share with an adult or counselor?​"
+  },
+  {
+    "id": 76,
+    "question": "What are the signs that my phone use is affecting my sleep or studies?​"
+  },
+  {
+    "id": 77,
+    "question": "How do I convince my parents my phone use is just normal—not a problem?"
+  },
+  {
+    "id": 78,
+    "question": "Why do so many teens vape or drink—is it really that dangerous?​"
+  },
+  {
+    "id": 79,
+    "question": "What are the risks of mixing alcohol"
+  },
+  {
+    "id": 80,
+    "question": "vaping with other substances?"
+  },
+  {
+    "id": 81,
+    "question": "How do I know if I’ve become dependent or addicted?"
+  },
+  {
+    "id": 82,
+    "question": "Are there safe ways to try alcohol or vapes?"
+  },
+  {
+    "id": 83,
+    "question": "What is gaslighting?"
+  },
+  {
+    "id": 84,
+    "question": "I’ve been gaslighted."
+  },
+  {
+    "id": 85,
+    "question": "What is ghosting?"
+  },
+  {
+    "id": 86,
+    "question": "I’ve been ghosted."
+  },
+  {
+    "id": 87,
+    "question": "Why does my mind overthink and create more stress?"
+  },
+  {
+    "id": 88,
+    "question": "How can I understand my own mind better?"
+  },
+  {
+    "id": 89,
+    "question": "How can I manage my stress better?"
+  },
+  {
+    "id": 90,
+    "question": "Why do I keep reacting in the same way, even when I try to change?"
+  },
+  {
+    "id": 91,
+    "question": "How can I find more peace in my daily life?"
+  },
+  {
+    "id": 92,
+    "question": "Why does stress affect me even when nothing big is wrong?"
+  },
+  {
+    "id": 93,
+    "question": "How do I know if I’ve become dependent or addicted?"
+  },
+  {
+    "id": 94,
+    "question": "Are there safe ways to try alcohol or vapes?"
+  },
+  {
+    "id": 95,
+    "question": "Why does my mind overthink and create more stress?"
+  },
+  {
+    "id": 96,
+    "question": "How can I understand my own mind better?"
+  },
+  {
+    "id": 97,
+    "question": "How can I manage my stress better?"
+  },
+  {
+    "id": 98,
+    "question": "Why do I keep reacting in the same way, even when I try to change?"
+  },
+  {
+    "id": 99,
+    "question": "How can I find more peace in my daily life?"
+  },
+  {
+    "id": 100,
+    "question": "Why does stress affect me even when nothing big is wrong?"
+  },
+  {
+    "id": 101,
+    "question": "How can I bounce back when everything feels too hard?"
+  },
+  {
+    "id": 102,
+    "question": "How do I stop feeling like I can’t handle things anymore?"
+  },
+  {
+    "id": 103,
+    "question": "What can I do to become emotionally stronger?"
+  },
+  {
+    "id": 104,
+    "question": "How do I keep going when life gets tough?"
+  },
+  {
+    "id": 105,
+    "question": "Why can’t I stop checking my phone all the time?"
+  },
+  {
+    "id": 106,
+    "question": "How can I stop scrolling so much?"
+  },
+  {
+    "id": 107,
+    "question": "Why do I feel anxious when I’m not on my phone?"
+  },
+  {
+    "id": 108,
+    "question": "How can I balance social media with real life?"
+  },
+  {
+    "id": 109,
+    "question": "How can I spend less time on my phone without feeling bored?"
+  },
+  {
+    "id": 110,
+    "question": "Why do I feel restless when I put my phone down?"
+  },
+  {
+    "id": 111,
+    "question": "How do I stop stress from taking over my life?"
+  },
+  {
+    "id": 112,
+    "question": "What are small ways to reduce daily stress?"
+  },
+  {
+    "id": 113,
+    "question": "Why do I feel tired and overwhelmed all the time?"
+  },
+  {
+    "id": 114,
+    "question": "How can I calm myself when everything feels too much?"
+  },
+  {
+    "id": 115,
+    "question": "Why is saying sorry so hard for me?"
+  },
+  {
+    "id": 116,
+    "question": "How can I say sorry without feeling weak?"
+  },
+  {
+    "id": 117,
+    "question": "Why do I avoid admitting when I’m wrong?"
+  },
+  {
+    "id": 118,
+    "question": "How can I fix things when I’ve hurt someone?"
+  },
+  {
+    "id": 119,
+    "question": "I often feel left out even when I’m around people. What’s wrong with me?"
+  },
+  {
+    "id": 120,
+    "question": "My friend and I are growing apart. How do I handle it?"
+  },
+  {
+    "id": 121,
+    "question": "Why do I always compare myself to people online?"
+  },
+  {
+    "id": 122,
+    "question": "I keep worrying about what others think of me. How can I stop?"
+  },
+  {
+    "id": 123,
+    "question": "I always feel a pressure to fit in. How do I deal with it?"
+  },
+  {
+    "id": 124,
+    "question": "How do I handle emotional pain without shutting down?"
+  },
+  {
+    "id": 125,
+    "question": "Why do I feel drained after getting emotional?"
+  },
+  {
+    "id": 126,
+    "question": "How can I speak my mind without hurting someone?"
+  },
+  {
+    "id": 127,
+    "question": "How do I clear my head when I feel mentally overloaded?"
+  },
+  {
+    "id": 128,
+    "question": "How do I know if I’m being self-aware or just self-conscious?"
+  },
+  {
+    "id": 129,
+    "question": "How can I deal with a panic attack?"
+  },
+  {
+    "id": 130,
+    "question": "How can I deal with performance anxiety in sport?"
+  },
+  {
+    "id": 131,
+    "question": "How can I deal with comparison in sport?"
+  },
+  {
+    "id": 132,
+    "question": "I often feel left out even when I’m around people. What’s wrong with me?"
+  },
+  {
+    "id": 133,
+    "question": "My friend and I are growing apart. How do I handle it?"
+  },
+  {
+    "id": 134,
+    "question": "Why do I always compare myself to people online?"
+  },
+  {
+    "id": 135,
+    "question": "I keep worrying about what others think of me. How can I stop?"
+  },
+  {
+    "id": 136,
+    "question": "I always feel a pressure to fit in. How do I deal with it?"
+  },
+  {
+    "id": 137,
+    "question": "How do I handle emotional pain without shutting down?"
+  },
+  {
+    "id": 138,
+    "question": "Why do I feel drained after getting emotional?"
+  },
+  {
+    "id": 139,
+    "question": "How can I speak my mind without hurting someone?"
+  },
+  {
+    "id": 140,
+    "question": "How do I clear my head when I feel mentally overloaded?"
+  },
+  {
+    "id": 141,
+    "question": "How do I know if I’m being self-aware or just self-conscious?"
+  },
+  {
+    "id": 142,
+    "question": "How can I deal with mental health problems in sport?"
+  },
+  {
+    "id": 143,
+    "question": "Mental health problems in athletes"
+  },
+  {
+    "id": 144,
+    "question": "How can I deal with a panic attack?"
+  },
+  {
+    "id": 145,
+    "question": "How can I deal with performance anxiety in sport?"
+  },
+  {
+    "id": 146,
+    "question": "How can I deal with comparison in sport?"
+  }
+
+]

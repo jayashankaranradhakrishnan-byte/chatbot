@@ -1,0 +1,1523 @@
+
+[
+  {
+    "id": 1,
+    "question": "If the BOT does not recognise the question, what can we do?"
+  },
+  {
+    "id": 2,
+    "question": "Why am I always stressed?"
+  },
+  {
+    "id": 3,
+    "question": "How do I manage everyone's expectations?"
+  },
+  {
+    "id": 4,
+    "question": "Why do I feel bored?"
+  },
+  {
+    "id": 5,
+    "question": "I feel anxious all the time. Why?"
+  },
+  {
+    "id": 6,
+    "question": "Is it normal to feel sad without reason?"
+  },
+  {
+    "id": 7,
+    "question": "I feel low most days. Am I okay?"
+  },
+  {
+    "id": 8,
+    "question": "Everyone smokes or drinks. Should I?"
+  },
+  {
+    "id": 9,
+    "question": "How do I handle toxic friends?"
+  },
+  {
+    "id": 10,
+    "question": "I don’t feel good enough."
+  },
+  {
+    "id": 11,
+    "question": "How can I build confidence?"
+  },
+  {
+    "id": 12,
+    "question": "Why don’t people accept me?"
+  },
+  {
+    "id": 13,
+    "question": "What’s the point of journaling?"
+  },
+  {
+    "id": 14,
+    "question": "How do I stay mentally healthy?"
+  },
+  {
+    "id": 15,
+    "question": "I feel lonely and just want to talk to someone."
+  },
+  {
+    "id": 16,
+    "question": "How can I deal with exams?"
+  },
+  {
+    "id": 17,
+    "question": "How can I deal with exam stress?"
+  },
+  {
+    "id": 18,
+    "question": "Cope with exams"
+  },
+  {
+    "id": 19,
+    "question": "Can I share what I’m going through?"
+  },
+  {
+    "id": 20,
+    "question": "I feel lonely even with friends."
+  },
+  {
+    "id": 21,
+    "question": "No one really gets me."
+  },
+  {
+    "id": 22,
+    "question": "I don’t like how I look."
+  },
+  {
+    "id": 23,
+    "question": "Everyone looks better than me."
+  },
+  {
+    "id": 24,
+    "question": "My parents don’t understand me."
+  },
+  {
+    "id": 25,
+    "question": "I feel stuck."
+  },
+  {
+    "id": 26,
+    "question": "I miss a friend who left."
+  },
+  {
+    "id": 27,
+    "question": "I don’t feel like doing anything."
+  },
+  {
+    "id": 28,
+    "question": "Why am I tired even after sleeping?"
+  },
+  {
+    "id": 29,
+    "question": "Why do I always feel nervous in social situations?"
+  },
+  {
+    "id": 30,
+    "question": "I get scared of public speaking"
+  },
+  {
+    "id": 31,
+    "question": "I get scared of speaking in class"
+  },
+  {
+    "id": 32,
+    "question": "Why do I feel like a failure?"
+  },
+  {
+    "id": 33,
+    "question": "How can I overcome feelings of failure?"
+  },
+  {
+    "id": 34,
+    "question": "I’m scared of disappointing people."
+  },
+  {
+    "id": 35,
+    "question": "How do I deal with exam pressure?"
+  },
+  {
+    "id": 36,
+    "question": "I freeze up during exams. What should I do?"
+  },
+  {
+    "id": 37,
+    "question": "I feel like I’m falling behind everyone."
+  },
+  {
+    "id": 38,
+    "question": "Why can’t I focus anymore?"
+  },
+  {
+    "id": 39,
+    "question": "I just keep scrolling for hours. Is that bad?"
+  },
+  {
+    "id": 40,
+    "question": "I feel ignored by friends in school."
+  },
+  {
+    "id": 41,
+    "question": "Why do I push people away?"
+  },
+  {
+    "id": 42,
+    "question": "How do I make real friends?"
+  },
+  {
+    "id": 43,
+    "question": "What if no one really likes me?"
+  },
+  {
+    "id": 44,
+    "question": "I don’t know who I really am."
+  },
+  {
+    "id": 45,
+    "question": "Who am I?"
+  },
+  {
+    "id": 46,
+    "question": "I’m scared about my future."
+  },
+  {
+    "id": 47,
+    "question": "I’m worried about my future"
+  },
+  {
+    "id": 48,
+    "question": "I feel like I’m not doing enough."
+  },
+  {
+    "id": 49,
+    "question": "Why do I feel guilty?"
+  },
+  {
+    "id": 50,
+    "question": "I get angry so easily. What’s wrong with me?"
+  },
+  {
+    "id": 51,
+    "question": "Why am I jealous of my friends?"
+  },
+  {
+    "id": 52,
+    "question": "I can’t forgive myself for past mistakes"
+  },
+  {
+    "id": 53,
+    "question": "How can I forgive myself"
+  },
+  {
+    "id": 54,
+    "question": "I find it hard to trust people."
+  },
+  {
+    "id": 55,
+    "question": "Why do I always feel judged online?"
+  },
+  {
+    "id": 56,
+    "question": "I feel invisible in my friend group."
+  },
+  {
+    "id": 57,
+    "question": "I’m scared everything is changing too fast"
+  },
+  {
+    "id": 58,
+    "question": "I am scared of change"
+  },
+  {
+    "id": 59,
+    "question": "What can I do to deal with change?"
+  },
+  {
+    "id": 60,
+    "question": "I get tired just thinking about school."
+  },
+  {
+    "id": 61,
+    "question": "How do I move on from a friendship breakup?"
+  },
+  {
+    "id": 62,
+    "question": "I keep overthinking things I said."
+  },
+  {
+    "id": 63,
+    "question": "I don’t know who to talk to anymore."
+  },
+  {
+    "id": 64,
+    "question": "Why do I always say yes, even when I don’t want to?"
+  },
+  {
+    "id": 65,
+    "question": "Why do I feel a pressure to conform"
+  },
+  {
+    "id": 66,
+    "question": "Why am I a people pleaser?"
+  },
+  {
+    "id": 67,
+    "question": "I feel like nothing excites me anymore."
+  },
+  {
+    "id": 68,
+    "question": "Why does everything feel meaningless sometimes?"
+  },
+  {
+    "id": 69,
+    "question": "I feel shy around new people."
+  },
+  {
+    "id": 70,
+    "question": "I’m scared of being rejected."
+  },
+  {
+    "id": 71,
+    "question": "I can’t stop thinking about embarrassing moments"
+  },
+  {
+    "id": 72,
+    "question": "Why do I worry about what others think?"
+  },
+  {
+    "id": 73,
+    "question": "I don’t trust people easily."
+  },
+  {
+    "id": 74,
+    "question": "I’m afraid people will hurt me."
+  },
+  {
+    "id": 75,
+    "question": "The world feels scary sometimes."
+  },
+  {
+    "id": 76,
+    "question": "What if I never feel better?"
+  },
+  {
+    "id": 77,
+    "question": "I’ve thought about hurting myself. What should I do?"
+  },
+  {
+    "id": 78,
+    "question": "I’m scared to talk about how I feel."
+  },
+  {
+    "id": 79,
+    "question": "I just want someone to understand me."
+  },
+  {
+    "id": 80,
+    "question": "I feel like I’m missing out on everything."
+  },
+  {
+    "id": 81,
+    "question": "Everyone’s life seems better than mine."
+  },
+  {
+    "id": 82,
+    "question": "I don’t know what I want to do in life."
+  },
+  {
+    "id": 83,
+    "question": "I don’t feel smart enough."
+  },
+  {
+    "id": 84,
+    "question": "School feels pointless sometimes."
+  },
+  {
+    "id": 85,
+    "question": "I’m scared I’ll fail in life."
+  },
+  {
+    "id": 86,
+    "question": "I feel stuck between being a kid and an adult."
+  },
+  {
+    "id": 87,
+    "question": "Why do relationships seem so confusing?"
+  },
+  {
+    "id": 88,
+    "question": "I feel pressured to be in a relationship."
+  },
+  {
+    "id": 89,
+    "question": "I’m scared of being judged."
+  },
+  {
+    "id": 90,
+    "question": "I feel confused about what decision to take"
+  },
+  {
+    "id": 91,
+    "question": "I don’t know what I’m passionate about."
+  },
+  {
+    "id": 92,
+    "question": "I keep comparing myself to my siblings."
+  },
+  {
+    "id": 93,
+    "question": "I feel really bad when I don’t get good grades in the exams"
+  },
+  {
+    "id": 94,
+    "question": "I feel terrible when I don’t do well in exams"
+  },
+  {
+    "id": 95,
+    "question": "I feel bad when others get better grades than me"
+  },
+  {
+    "id": 96,
+    "question": "People are spreading rumours about me."
+  },
+  {
+    "id": 97,
+    "question": "I don’t know how to say what I feel"
+  },
+  {
+    "id": 98,
+    "question": "I don’t know how to express myself"
+  },
+  {
+    "id": 99,
+    "question": "I feel lost for words"
+  },
+  {
+    "id": 100,
+    "question": "I feel like I’m too sensitive"
+  },
+  {
+    "id": 101,
+    "question": "I feel easily hurt"
+  },
+  {
+    "id": 102,
+    "question": "I’m scared of losing people I love."
+  },
+  {
+    "id": 103,
+    "question": "I cry a lot and don’t know why."
+  },
+  {
+    "id": 104,
+    "question": "I’m grieving but I don’t know how to handle it."
+  },
+  {
+    "id": 105,
+    "question": "Why do I feel emotionally exhausted all the time?"
+  },
+  {
+    "id": 106,
+    "question": "No one really listens when I talk."
+  },
+  {
+    "id": 107,
+    "question": "I always get left out."
+  },
+  {
+    "id": 108,
+    "question": "What is Happiness?"
+  },
+  {
+    "id": 109,
+    "question": "How do I know if I’m happy"
+  },
+  {
+    "id": 110,
+    "question": "Is it normal to feel happy and sad at the same time?"
+  },
+  {
+    "id": 111,
+    "question": "Why don’t I feel happy even when things are going well?"
+  },
+  {
+    "id": 112,
+    "question": "How can I feel happier in my daily life?"
+  },
+  {
+    "id": 113,
+    "question": "What habits can boost my happiness?"
+  },
+  {
+    "id": 114,
+    "question": "Can gratitude make me happier? How do I start?"
+  },
+  {
+    "id": 115,
+    "question": "I’m feeling really low today. What should I do?"
+  },
+  {
+    "id": 116,
+    "question": "How can I handle negative thoughts?"
+  },
+  {
+    "id": 117,
+    "question": "My boyfriend doesn’t make me happy anymore."
+  },
+  {
+    "id": 118,
+    "question": "My girlfriend doesn’t make me happy anymore."
+  },
+  {
+    "id": 119,
+    "question": "How do I find my purpose?"
+  },
+  {
+    "id": 120,
+    "question": "Can I be happy even with anxiety?"
+  },
+  {
+    "id": 121,
+    "question": "Why do they say, ‘Happiness is fleeting’?"
+  },
+  {
+    "id": 122,
+    "question": "How can I be happier"
+  },
+  {
+    "id": 123,
+    "question": "How can I have happier relationships"
+  },
+  {
+    "id": 124,
+    "question": "How can I be happy?"
+  },
+  {
+    "id": 125,
+    "question": "What’s a quick way to calm down when I’m upset?"
+  },
+  {
+    "id": 126,
+    "question": "How do I deal with constant mood swings?"
+  },
+  {
+    "id": 127,
+    "question": "I don’t know why I feel a certain way."
+  },
+  {
+    "id": 128,
+    "question": "Why do I feel what I feel?"
+  },
+  {
+    "id": 129,
+    "question": "How do I control my anger ?"
+  },
+  {
+    "id": 130,
+    "question": "How can I deal with loneliness?"
+  },
+  {
+    "id": 131,
+    "question": "What should I do when I feel like crying but can’t explain why?"
+  },
+  {
+    "id": 132,
+    "question": "What’s a healthy way to express sadness?"
+  },
+  {
+    "id": 133,
+    "question": "How can I stop snapping at people I care about?"
+  },
+  {
+    "id": 134,
+    "question": "How do I manage emotional triggers?"
+  },
+  {
+    "id": 135,
+    "question": "Can emotions affect my physical health?"
+  },
+  {
+    "id": 136,
+    "question": "How can I explain my emotions to others?"
+  },
+  {
+    "id": 137,
+    "question": "How can I stop binge eating when I’m upset?"
+  },
+  {
+    "id": 138,
+    "question": "I feel like I’m addicted to my phone. What should I do?"
+  },
+  {
+    "id": 139,
+    "question": "Why is quitting smoking or drinking so hard for me?"
+  },
+  {
+    "id": 140,
+    "question": "Why do I feel guilty after bingeing on YouTube or games?"
+  },
+  {
+    "id": 141,
+    "question": "What’s the root cause of addiction?"
+  },
+  {
+    "id": 142,
+    "question": "I always scroll when I’m anxious. Is that an addiction?"
+  },
+  {
+    "id": 143,
+    "question": "I didn’t think I’d get addicted but now I’m stuck."
+  },
+  {
+    "id": 144,
+    "question": "I want to quit vaping but I keep craving it."
+  },
+  {
+    "id": 145,
+    "question": "Why do I feel empty without my habits?"
+  },
+  {
+    "id": 146,
+    "question": "How do I break the cycle of addiction?"
+  },
+  {
+    "id": 147,
+    "question": "I feel ashamed about my addiction."
+  },
+  {
+    "id": 148,
+    "question": "Can emotional pain lead to addiction?"
+  },
+  {
+    "id": 149,
+    "question": "Is my social media use an addiction?"
+  },
+  {
+    "id": 150,
+    "question": "Why do I keep going back to habits I want to quit?"
+  },
+  {
+    "id": 151,
+    "question": "How can I break free from unhelpful habits or addiction?"
+  },
+  {
+    "id": 152,
+    "question": "What if I relapse after quitting?"
+  },
+  {
+    "id": 153,
+    "question": "I don’t want anyone to know I’m struggling."
+  },
+  {
+    "id": 154,
+    "question": "How do I stop bingeing late at night?"
+  },
+  {
+    "id": 155,
+    "question": "Why do I feel like I’ll fail no matter how much I study?"
+  },
+  {
+    "id": 156,
+    "question": "I keep comparing my grades to others. How do I stop?"
+  },
+  {
+    "id": 157,
+    "question": "I can’t concentrate while studying anymore. What’s wrong with me?"
+  },
+  {
+    "id": 158,
+    "question": "I’m scared I won’t get into the college I want."
+  },
+  {
+    "id": 159,
+    "question": "I don’t know what to do in the future. What if I choose wrong?"
+  },
+  {
+    "id": 160,
+    "question": "I don’t know what to do after leaving school"
+  },
+  {
+    "id": 161,
+    "question": "I don’t know what to do with my life"
+  },
+  {
+    "id": 162,
+    "question": "I feel burnt out but exams aren’t over yet."
+  },
+  {
+    "id": 163,
+    "question": "I’m not good at anything academic. What should I do?"
+  },
+  {
+    "id": 164,
+    "question": "My parents have really high expectations. I feel pressured."
+  },
+  {
+    "id": 165,
+    "question": "I feel like I’m wasting time when I take a break from studying."
+  },
+  {
+    "id": 166,
+    "question": "I keep forgetting what I study. How do I fix this?"
+  },
+  {
+    "id": 167,
+    "question": "I feel sick before every exam. What’s happening to me?"
+  },
+  {
+    "id": 168,
+    "question": "I feel like exams ruin everything. I don’t enjoy anything anymore."
+  },
+  {
+    "id": 169,
+    "question": "Why can’t I calm my thoughts when I sit still?"
+  },
+  {
+    "id": 170,
+    "question": "How do I start meditating if I’ve never done it before?"
+  },
+  {
+    "id": 171,
+    "question": "What’s the point of meditation?"
+  },
+  {
+    "id": 172,
+    "question": "How does meditation help with stress?"
+  },
+  {
+    "id": 173,
+    "question": "Why does my mind wander so much while meditating?"
+  },
+  {
+    "id": 174,
+    "question": "What kind of meditation is best for beginners?"
+  },
+  {
+    "id": 175,
+    "question": "I get bored while meditating. Is that normal?"
+  },
+  {
+    "id": 176,
+    "question": "What’s a simple meditation I can do when I feel anxious?"
+  },
+  {
+    "id": 177,
+    "question": "Can meditation help me sleep better?"
+  },
+  {
+    "id": 178,
+    "question": "How long do I have to meditate for it to work?"
+  },
+  {
+    "id": 179,
+    "question": "Can I meditate while walking or moving?"
+  },
+  {
+    "id": 180,
+    "question": "My brain never shuts off. Will meditation still work for me?"
+  },
+  {
+    "id": 181,
+    "question": "What if meditation brings up uncomfortable emotions?"
+  },
+  {
+    "id": 182,
+    "question": "How do I stay consistent with meditation?"
+  },
+  {
+    "id": 183,
+    "question": "Can meditation help me understand myself better?"
+  },
+  {
+    "id": 184,
+    "question": "Why do I get so defensive when someone disagrees with me?"
+  },
+  {
+    "id": 185,
+    "question": "I don’t know what I believe in anymore."
+  },
+  {
+    "id": 186,
+    "question": "Why do people fight over opinions?"
+  },
+  {
+    "id": 187,
+    "question": "Can I change the beliefs I grew up with?"
+  },
+  {
+    "id": 188,
+    "question": "Is it wrong to have strong opinions?"
+  },
+  {
+    "id": 189,
+    "question": "Why do people judge others based on skin color or religion?"
+  },
+  {
+    "id": 190,
+    "question": "I feel ashamed of my background sometimes. What should I do?"
+  },
+  {
+    "id": 191,
+    "question": "Why do people discriminate, even today?"
+  },
+  {
+    "id": 192,
+    "question": "How do I respond to racist comments without freezing?"
+  },
+  {
+    "id": 193,
+    "question": "I get angry when someone makes a racist joke. What should I do?"
+  },
+  {
+    "id": 194,
+    "question": "Why do I feel uncomfortable talking about race and identity?"
+  },
+  {
+    "id": 195,
+    "question": "How can I be more inclusive in my thinking?"
+  },
+  {
+    "id": 196,
+    "question": "People treat me differently because of how I look. How do I handle it?"
+  },
+  {
+    "id": 197,
+    "question": "What should I do if my friends make fun of someone’s culture?"
+  },
+  {
+    "id": 198,
+    "question": "I’ve seen people get bullied for their religion. Why does that happen?"
+  },
+  {
+    "id": 199,
+    "question": "I feel excluded sometimes just because I’m different."
+  },
+  {
+    "id": 200,
+    "question": "How can I talk about racism without sounding angry or afraid?"
+  },
+  {
+    "id": 201,
+    "question": "What is prejudice, really?"
+  },
+  {
+    "id": 202,
+    "question": "What can I do when friends make me question my worth?"
+  },
+  {
+    "id": 203,
+    "question": "Is it normal to compare myself to friends or colleagues?"
+  },
+  {
+    "id": 204,
+    "question": "How can I be more at peace with myself?"
+  },
+  {
+    "id": 205,
+    "question": "Is it possible to feel peaceful even during tough times?"
+  },
+  {
+    "id": 206,
+    "question": "How can I build confidence in school or social situations?"
+  },
+  {
+    "id": 207,
+    "question": "How can I accept myself as I am?"
+  },
+  {
+    "id": 208,
+    "question": "How do I know if my emotional needs are being met?"
+  },
+  {
+    "id": 209,
+    "question": "Why is self-love so hard sometimes?"
+  },
+  {
+    "id": 210,
+    "question": "Why is self-awareness important?"
+  },
+  {
+    "id": 211,
+    "question": "What should I do if I always feel less than my friends?"
+  },
+  {
+    "id": 212,
+    "question": "Can understanding comparison help me feel better?"
+  },
+  {
+    "id": 213,
+    "question": "Can understanding my self-interest make my relationships stronger?"
+  },
+  {
+    "id": 214,
+    "question": "Why do I feel confused about who I am?"
+  },
+  {
+    "id": 215,
+    "question": "Why do I keep seeking approval from others?"
+  },
+  {
+    "id": 216,
+    "question": "Is it bad to want approval from others?"
+  },
+  {
+    "id": 217,
+    "question": "How can I live in peace"
+  },
+  {
+    "id": 218,
+    "question": "How can I feel peaceful"
+  },
+  {
+    "id": 219,
+    "question": "How can I feel at peace within myself"
+  },
+  {
+    "id": 220,
+    "question": "Why is it so hard to be kind to myself?"
+  },
+  {
+    "id": 221,
+    "question": "How can I be content?"
+  },
+  {
+    "id": 222,
+    "question": "Where can I find peace"
+  },
+  {
+    "id": 223,
+    "question": "Why is there so much corruption?"
+  },
+  {
+    "id": 224,
+    "question": "I feel different to everyone around me. Is that normal?"
+  },
+  {
+    "id": 225,
+    "question": "Why is there so much conflict in the world?"
+  },
+  {
+    "id": 226,
+    "question": "How can I manage my expectations better?"
+  },
+  {
+    "id": 227,
+    "question": "What thinking patterns make anger worse?"
+  },
+  {
+    "id": 228,
+    "question": "Is it okay to cry or feel deeply when I sit with a feeling?"
+  },
+  {
+    "id": 229,
+    "question": "Why do changes make me anxious?"
+  },
+  {
+    "id": 230,
+    "question": "Can I change my learned behavior?"
+  },
+  {
+    "id": 231,
+    "question": "Everyone around me seems to have a plan. How do I define success for myself without feeling behind?"
+  },
+  {
+    "id": 232,
+    "question": "Is it possible to be successful and still experience failure?"
+  },
+  {
+    "id": 233,
+    "question": "How can I handle failure in a smart way instead of letting it bring me down?"
+  },
+  {
+    "id": 234,
+    "question": "I get good grades and do well in sports, but I still feel kind of empty inside. Why do I feel like this even when everything seems fine?"
+  },
+  {
+    "id": 235,
+    "question": "Why do I keep second-guessing myself, like with answers in class or decisions with friends? How do I stop doubting everything I do?"
+  },
+  {
+    "id": 236,
+    "question": "I always overthink stuff like what to say in class or how to handle things with friends. How can I make clearer, more confident decisions?"
+  },
+  {
+    "id": 237,
+    "question": "When I have a big test, a tough game, or something stressful at school, I freak out or freeze. How can I stay calm in those moments?"
+  },
+  {
+    "id": 238,
+    "question": "When something goes wrong at school I get stressed. What’s a simple way to solve problems better?"
+  },
+  {
+    "id": 239,
+    "question": "I get really stressed with school, homework, and trying to keep up with everything. How do I manage stress?"
+  },
+  {
+    "id": 240,
+    "question": "How can I deal with someone difficult without losing my cool?"
+  },
+  {
+    "id": 241,
+    "question": "What if I’m asked to be a leader at school, but I don’t feel ready? What if I mess it up?"
+  },
+  {
+    "id": 242,
+    "question": "I want to be honest with someone at school, but I don’t want to hurt their feelings. How do I give feedback without sounding mean?"
+  },
+  {
+    "id": 243,
+    "question": "What should I do when I get into a conflict with a friend at school and I don’t want to either explode or totally avoid it?"
+  },
+  {
+    "id": 244,
+    "question": "Why is everyone talking about self-awareness? Like, what’s the point for someone my age?"
+  },
+  {
+    "id": 245,
+    "question": "How can I build emotional intelligence through self-awareness?"
+  },
+  {
+    "id": 246,
+    "question": "How do I figure out what job or career is right for me?"
+  },
+  {
+    "id": 247,
+    "question": "Can I be successful and still do something that makes me happy?"
+  },
+  {
+    "id": 248,
+    "question": "What’s a simple happiness tip for today?"
+  },
+  {
+    "id": 249,
+    "question": "Can music calm my mind? And how?"
+  },
+  {
+    "id": 250,
+    "question": "Why do I feel calm one moment and overwhelmed the next?"
+  },
+  {
+    "id": 251,
+    "question": "How do I stop my mind from jumping to the worst-case scenario?"
+  },
+  {
+    "id": 252,
+    "question": "How can I stay calm around difficult people?"
+  },
+  {
+    "id": 253,
+    "question": "Is it okay if I can’t calm down right away?"
+  },
+  {
+    "id": 254,
+    "question": "Why am I so scared of dying?"
+  },
+  {
+    "id": 255,
+    "question": "Why does the thought of death make me anxious?"
+  },
+  {
+    "id": 256,
+    "question": "Is it normal to fear death even when I’m young?"
+  },
+  {
+    "id": 257,
+    "question": "What’s a healthy way to think about death?"
+  },
+  {
+    "id": 258,
+    "question": "How can I think about death without feeling anxious?"
+  },
+  {
+    "id": 259,
+    "question": "What can I do to overcome my fear of dying?"
+  },
+  {
+    "id": 260,
+    "question": "Is it okay to be scared of losing someone I love?"
+  },
+  {
+    "id": 261,
+    "question": "I fear losing my loved one."
+  },
+  {
+    "id": 262,
+    "question": "How can I support a friend who is scared of losing someone?"
+  },
+  {
+    "id": 263,
+    "question": "Why do I feel anxious after someone else’s death, even if I wasn’t close?"
+  },
+  {
+    "id": 264,
+    "question": "What does it mean to be mentally healthy?"
+  },
+  {
+    "id": 265,
+    "question": "How can I look after my mental health?"
+  },
+  {
+    "id": 266,
+    "question": "Why do mental health issues keep coming back?"
+  },
+  {
+    "id": 267,
+    "question": "Is trauma the main reason people struggle mentally?"
+  },
+  {
+    "id": 268,
+    "question": "Is there a quick way to feel less stressed right now?"
+  },
+  {
+    "id": 269,
+    "question": "What’s the long-term solution to managing anxiety?"
+  },
+  {
+    "id": 270,
+    "question": "How can I build resilience?"
+  },
+  {
+    "id": 271,
+    "question": "How can I stop beating myself up emotionally?"
+  },
+  {
+    "id": 272,
+    "question": "How can I better regulate my emotions?"
+  },
+  {
+    "id": 273,
+    "question": "Why do I find it hard to express emotions?"
+  },
+  {
+    "id": 274,
+    "question": "How do I cope with a long-term illness?"
+  },
+  {
+    "id": 275,
+    "question": "How can I stop feeling helpless?"
+  },
+  {
+    "id": 276,
+    "question": "What can grief teach us about how we feel and protect ourselves?"
+  },
+  {
+    "id": 277,
+    "question": "Sometimes we feel nothing at all after losing someone. Why might that be okay?"
+  },
+  {
+    "id": 278,
+    "question": "Is it normal to feel alone in grief, even when others are around?"
+  },
+  {
+    "id": 279,
+    "question": "How do I support someone else while grieving myself?"
+  },
+  {
+    "id": 280,
+    "question": "I am having suicidal thoughts. What can I do?"
+  },
+  {
+    "id": 281,
+    "question": "I don’t want to live anymore. What can I do?"
+  },
+  {
+    "id": 282,
+    "question": "Will I ever feel like myself again after my loss?"
+  },
+  {
+    "id": 283,
+    "question": "What if I’m afraid to feel better, like I’m betraying them?"
+  },
+  {
+    "id": 284,
+    "question": "How do I move on without feeling like I’m leaving them behind?"
+  },
+  {
+    "id": 285,
+    "question": "I can’t stop thinking about the past. Is that normal?"
+  },
+  {
+    "id": 286,
+    "question": "Why do certain memories hurt so much?"
+  },
+  {
+    "id": 287,
+    "question": "How can I deal with fear after my loss"
+  },
+  {
+    "id": 288,
+    "question": "Why do I feel hurt?"
+  },
+  {
+    "id": 289,
+    "question": "Why do I get hurt?"
+  },
+  {
+    "id": 290,
+    "question": "How do I forgive someone?"
+  },
+  {
+    "id": 291,
+    "question": "How can we forgive people who have hurt us?"
+  },
+  {
+    "id": 292,
+    "question": "How do I know if I am depressed?"
+  },
+  {
+    "id": 293,
+    "question": "What can I do to stop a relapse of my depression?"
+  },
+  {
+    "id": 294,
+    "question": "How can I support someone who is depressed?"
+  },
+  {
+    "id": 295,
+    "question": "What can I do if I’m being bullied?"
+  },
+  {
+    "id": 296,
+    "question": "Can I heal from years of subtle bullying?"
+  },
+  {
+    "id": 297,
+    "question": "How can I set boundaries without feeling guilty?"
+  },
+  {
+    "id": 298,
+    "question": "Why does trauma from the past still affect me today?"
+  },
+  {
+    "id": 299,
+    "question": "How can I feel safe again after trauma?"
+  },
+  {
+    "id": 300,
+    "question": "Why do I feel triggered by things others think are small?"
+  },
+  {
+    "id": 301,
+    "question": "Can trauma come from things I didn’t realize were traumatic?"
+  },
+  {
+    "id": 302,
+    "question": "Why does violence—even in the news—affect me so deeply?"
+  },
+  {
+    "id": 303,
+    "question": "Why does being on Instagram make me feel like my life isn’t good enough?"
+  },
+  {
+    "id": 304,
+    "question": "I feel anxious after scrolling through social media — is that normal?"
+  },
+  {
+    "id": 305,
+    "question": "Why do I feel so low after spending time online?"
+  },
+  {
+    "id": 306,
+    "question": "I keep checking my phone every few minutes. Is that a sign of something deeper?"
+  },
+  {
+    "id": 307,
+    "question": "Social media is messing with my sleep. How do I fix this?"
+  },
+  {
+    "id": 308,
+    "question": "Why do I reach for my phone every time I feel bored or stressed?"
+  },
+  {
+    "id": 309,
+    "question": "How do I break the habit of checking social media first thing in the morning?"
+  },
+  {
+    "id": 310,
+    "question": "What are the long-term effects of too much social media use?"
+  },
+  {
+    "id": 311,
+    "question": "I feel like social media is making me insecure — is that common?"
+  },
+  {
+    "id": 312,
+    "question": "Can using social media make my anxiety worse?"
+  },
+  {
+    "id": 313,
+    "question": "Someone left a nasty comment on my post — how should I deal with it?"
+  },
+  {
+    "id": 314,
+    "question": "How do I protect my mental health from negativity online?"
+  },
+  {
+    "id": 315,
+    "question": "Why do people say hurtful things on social media?"
+  },
+  {
+    "id": 316,
+    "question": "I feel jealous when I see other people’s posts — how do I deal with that?"
+  },
+  {
+    "id": 317,
+    "question": "I post things hoping for likes and validation. Why do I need that?"
+  },
+  {
+    "id": 318,
+    "question": "Why does social media make me feel like I’m not enough?"
+  },
+  {
+    "id": 319,
+    "question": "How do I create a healthier relationship with social media?"
+  },
+  {
+    "id": 320,
+    "question": "Can journaling really help me manage my social media habits?"
+  },
+  {
+    "id": 321,
+    "question": "What emotional needs am I trying to fulfill through social media?"
+  },
+  {
+    "id": 322,
+    "question": "Why do I always feel like I’m not good enough no matter what I do?"
+  },
+  {
+    "id": 323,
+    "question": "How can I love my body when I’ve always hated how I look?"
+  },
+  {
+    "id": 324,
+    "question": "I compare myself to everyone — how do I stop?"
+  },
+  {
+    "id": 325,
+    "question": "Why does a small criticism affect me so much?"
+  },
+  {
+    "id": 326,
+    "question": "How can I build self-esteem after years of negative self-talk?"
+  },
+  {
+    "id": 327,
+    "question": "I feel ashamed of my body — where do I even begin to heal that?"
+  },
+  {
+    "id": 328,
+    "question": "I hate the way I look in pictures — how can I be less critical of myself?"
+  },
+  {
+    "id": 329,
+    "question": "I’ve struggled with eating issues — how can I have a healthy relationship with food again?"
+  },
+  {
+    "id": 330,
+    "question": "Why do I care so much about what people think of how I look?"
+  },
+  {
+    "id": 331,
+    "question": "I constantly feel like I need to change myself to be accepted — is that normal?"
+  },
+  {
+    "id": 332,
+    "question": "What’s the difference between self-love and being selfish?"
+  },
+  {
+    "id": 333,
+    "question": "I feel insecure even when people compliment me — why is that?"
+  },
+  {
+    "id": 334,
+    "question": "I don’t feel confident wearing the clothes I like. How can I change that?"
+  },
+  {
+    "id": 335,
+    "question": "Why do I feel like I’ll only be happy if I lose weight?"
+  },
+  {
+    "id": 336,
+    "question": "How do I stop punishing myself for not being perfect?"
+  },
+  {
+    "id": 337,
+    "question": "I feel invisible like I don’t matter. What should I do?"
+  },
+  {
+    "id": 338,
+    "question": "I feel pressure to look a certain way because of social media. How do I block that out?"
+  },
+  {
+    "id": 339,
+    "question": "Why do I always feel like I need to earn love or approval?"
+  },
+  {
+    "id": 340,
+    "question": "How can I learn to accept my flaws without feeling weak?"
+  },
+  {
+    "id": 341,
+    "question": "I want to be kinder to myself but don’t know how to begin."
+  },
+  {
+    "id": 342,
+    "question": "I’ve had cosmetic procedures and still feel insecure — what’s wrong with me?"
+  },
+  {
+    "id": 343,
+    "question": "I never feel good enough in relationships because of how I see myself."
+  },
+  {
+    "id": 344,
+    "question": "I feel like my friends don’t really care about me anymore. What should I do?"
+  },
+  {
+    "id": 345,
+    "question": "How do I deal with fights between friends without choosing sides?"
+  },
+  {
+    "id": 346,
+    "question": "My parents never listen to my side of things. How do I get them to hear me?"
+  },
+  {
+    "id": 347,
+    "question": "What do I do when I feel left out by my friends?"
+  },
+  {
+    "id": 348,
+    "question": "I don’t know how to start a conversation with someone I like."
+  },
+  {
+    "id": 349,
+    "question": "My parents and I fight a lot. How can I make things better?"
+  },
+  {
+    "id": 350,
+    "question": "How do I tell a friend I need space without hurting their feelings?"
+  },
+  {
+    "id": 351,
+    "question": "I don’t know how to say no to my friends without feeling guilty."
+  },
+  {
+    "id": 352,
+    "question": "My best friend is close with someone else. What should I do?"
+  },
+  {
+    "id": 353,
+    "question": "My friends don’t include me in things anymore and I don’t know why."
+  },
+  {
+    "id": 354,
+    "question": "I get really jealous when my friend spends time with others. What’s wrong with me?"
+  },
+  {
+    "id": 355,
+    "question": "My parents treat me like a child even when I’m trying to be mature."
+  },
+  {
+    "id": 356,
+    "question": "How can I stop feeling invisible in group conversations?"
+  },
+  {
+    "id": 357,
+    "question": "I don’t know how to open up to people without feeling awkward."
+  },
+  {
+    "id": 358,
+    "question": "I can’t tell if a friendship is helping me or hurting me."
+  },
+  {
+    "id": 359,
+    "question": "I feel drained after hanging out with my friends lately. What’s going on?"
+  },
+  {
+    "id": 360,
+    "question": "My parents always compare me to my siblings and it makes me feel less than."
+  },
+  {
+    "id": 361,
+    "question": "How do I stop getting defensive during arguments?"
+  },
+  {
+    "id": 362,
+    "question": "I don’t know how to handle a friend who always makes backhanded comments."
+  },
+  {
+    "id": 363,
+    "question": "I want to talk to my parents about something serious but I’m scared they’ll judge me."
+  },
+  {
+    "id": 364,
+    "question": "My friend ghosted me and I don’t know how to move on."
+  },
+  {
+    "id": 365,
+    "question": "I always freeze up when I’m about to share how I feel."
+  },
+  {
+    "id": 366,
+    "question": "I want to be a better friend but I don’t know where to start."
+  },
+  {
+    "id": 367,
+    "question": "What are some simple things we can do to feel more connected?"
+  },
+  {
+    "id": 368,
+    "question": "How do I stop bringing baggage from my past relationship into this one?"
+  },
+  {
+    "id": 369,
+    "question": "How do I tell someone I have feelings for them without ruining the friendship?"
+  },
+  {
+    "id": 370,
+    "question": "I get overwhelmed in emotional situations. How can I stay grounded?"
+  },
+  {
+    "id": 371,
+    "question": "What should I do when I feel like I’m always the one making the effort in a friendship?"
+  },
+  {
+    "id": 372,
+    "question": "Why do I get irritated by small things my friends do?"
+  },
+  {
+    "id": 373,
+    "question": "How do I stop feeling guilty for setting boundaries with family?"
+  },
+  {
+    "id": 374,
+    "question": "Why do I get nervous talking to people I care about?"
+  },
+  {
+    "id": 375,
+    "question": "We broke up, but I still miss them. Is that normal?"
+  },
+  {
+    "id": 376,
+    "question": "How do I rebuild trust after betrayal?"
+  },
+  {
+    "id": 377,
+    "question": "How can I handle criticism better?"
+  },
+  {
+    "id": 378,
+    "question": "How can I manage my fear of failure?"
+  },
+  {
+    "id": 379,
+    "question": "How do I deal with competition anxiety?"
+  },
+  {
+    "id": 380,
+    "question": "How do I deal with performance anxiety?"
+  }
+]

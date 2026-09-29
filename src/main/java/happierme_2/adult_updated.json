@@ -1,0 +1,1426 @@
+[
+  {
+    "id": 1,
+    "question": "Develop a positive mindset. How many modules are there in the adult app"
+  },
+  {
+    "id": 2,
+    "question": "Why is it hard to say sorry?"
+  },
+  {
+    "id": 3,
+    "question": "How can I learn to say sorry?",
+  },
+  {
+    "id": 4,
+    "question": "What is the best way to say sorry?"
+  },
+  {
+    "id": 5,
+    "question": "Why is it important to say sorry?"
+  },
+  {
+    "id": 6,
+    "question": "Do we have a section in the app where I can get an answer related to parenting?"
+  },
+  {
+    "id": 7,
+    "question": "Why do I hold a grudge?"
+  },
+  {
+    "id": 8,
+    "question": "Why do people hold a grudge?"
+  },
+  {
+    "id": 9,
+    "question": "I feel like I’m faking it."
+  },
+  {
+    "id": 10,
+    "question": "I don’t deserve this job."
+  },
+  {
+    "id": 11,
+    "question": "Everyone else seems smarter than me."
+  },
+  {
+    "id": 12,
+    "question": "I’m worried I’ll get found out."
+  },
+  {
+    "id": 13,
+    "question": "I keep feeling like I’m not good enough at my job, even though everyone says I’m doing well. Is that imposter syndrome?"
+  },
+  {
+    "id": 14,
+    "question": "How can I stop feeling like a fraud at work?"
+  },
+  {
+    "id": 15,
+    "question": "I just got promoted and now I’m constantly scared people will realise I don’t deserve it. What should I do?"
+  },
+  {
+    "id": 16,
+    "question": "Why do I always compare myself to others at work and feel like I don’t belong?"
+  },
+  {
+    "id": 17,
+    "question": "Are there any ways to deal with imposter syndrome so it doesn’t affect my confidence at work?"
+  },
+  {
+    "id": 18,
+    "question": "I am struggling to connect"
+  },
+  {
+    "id": 19,
+    "question": "I am struggling to connect with a leader"
+  },
+  {
+    "id": 20,
+    "question": "I am struggling to connect with someone at work"
+  },
+  {
+    "id": 21,
+    "question": "I don’t know how to build a relationship"
+  },
+  {
+    "id": 22,
+    "question": "What’s the best way to help with my child's homework?"
+  },
+  {
+    "id": 23,
+    "question": "When is the best time to meditate — morning or night?"
+  },
+  {
+    "id": 24,
+    "question": "Is meditation connected to Buddhism or spirituality?"
+  },
+  {
+    "id": 25,
+    "question": "What stops most people from truly knowing themselves?"
+  },
+  {
+    "id": 26,
+    "question": "I feel like a fraud even after achieving my goals. What’s wrong with me?"
+  },
+  {
+    "id": 27,
+    "question": "How do I support my child who’s anxious all the time?"
+  },
+  {
+    "id": 28,
+    "question": "How can I support my child who struggles with anxiety?"
+  },
+  {
+    "id": 29,
+    "question": "I find it hard to forgive myself and say sorry. How can I change that?"
+  },
+  {
+    "id": 30,
+    "question": "How can I stay calm and resilient when life keeps throwing challenges at me?"
+  },
+  {
+    "id": 31,
+    "question": "How do I deal with my phone addiction?"
+  },
+  {
+    "id": 32,
+    "question": "How can I make my workplace feel more positive and fulfilling?"
+  },
+  {
+    "id": 33,
+    "question": "How can I help my teen manage social media addiction?"
+  },
+  {
+    "id": 34,
+    "question": "How can I help my son manage social media addiction?"
+  },
+  {
+    "id": 35,
+    "question": "How can I help my daughter manage social media addiction?"
+  },
+  {
+    "id": 36,
+    "question": "I’m scared my teen might be using drugs. How should I handle this?"
+  },
+  {
+    "id": 37,
+    "question": "I’m scared my son might be using drugs. How should I handle this?"
+  },
+  {
+    "id": 38,
+    "question": "I’m scared my daughter might be using drugs. How should I handle this?"
+  },
+  {
+    "id": 39,
+    "question": "My child has ADHD and I often feel lost trying to support them. What can I do?"
+  },
+  {
+    "id": 40,
+    "question": "I expect a lot from my kids and feel guilty when they fall short. How can I balance this?"
+  },
+  {
+    "id": 41,
+    "question": "I love my child but sometimes struggle to accept them. Is that normal?"
+  },
+  {
+    "id": 42,
+    "question": "I argue with my son"
+  },
+  {
+    "id": 43,
+    "question": "I argue with my daughter"
+  },
+  {
+    "id": 44,
+    "question": "I argue with my children"
+  },
+  {
+    "id": 45,
+    "question": "How can I support my kids emotionally during a divorce?"
+  },
+  {
+    "id": 46,
+    "question": "How can I support my child emotionally during a divorce?"
+  },
+  {
+    "id": 47,
+    "question": "How can I support my son emotionally during a divorce?"
+  },
+  {
+    "id": 48,
+    "question": "How can I support my daughter emotionally during a divorce?"
+  },
+  {
+    "id": 49,
+    "question": "How can I manage stress before it affects my health?"
+  },
+  {
+    "id": 50,
+    "question": "How can I build emotional resilience during tough times?"
+  },
+  {
+    "id": 51,
+    "question": "How can I handle my phone addiction and be more present?"
+  },
+  {
+    "id": 52,
+    "question": "Why is saying sorry so hard, and how can I do it better?"
+  },
+  {
+    "id": 53,
+    "question": "How can I regulate my child’s screen time without constant fights?"
+  },
+  {
+    "id": 54,
+    "question": "How can I find happiness and meaning in my job again?"
+  },
+  {
+    "id": 55,
+    "question": "How can I become more adaptable when life keeps changing?"
+  },
+  {
+    "id": 56,
+    "question": "How can I manage my stress better and live more peacefully?"
+  },
+  {
+    "id": 57,
+    "question": "Why does my mind overthink and create more stress?"
+  },
+  {
+    "id": 58,
+    "question": "What does it mean to understand my own mind better?"
+  },
+  {
+    "id": 59,
+    "question": "How can I find peace in my daily life?"
+  },
+  {
+    "id": 60,
+    "question": "Why do we struggle to change our reactions?"
+  },
+  {
+    "id": 61,
+    "question": "Why do physical affection and small gestures matter in relationships?"
+  },
+  {
+    "id": 62,
+    "question": "My partner abuses me. What can I do?"
+  },
+  {
+    "id": 63,
+    "question": "I am dealing with domestic violence"
+  },
+  {
+    "id": 64,
+    "question": "My husband is violent"
+  },
+  {
+    "id": 65,
+    "question": "My partner is violent"
+  },
+  {
+    "id": 66,
+    "question": "I am worried about my test results"
+  },
+  {
+    "id": 67,
+    "question": "I am worried about my job"
+  },
+  {
+    "id": 68,
+    "question": "I am worried about my driving test"
+  },
+  {
+    "id": 69,
+    "question": "I am worried about my interview"
+  },
+  {
+    "id": 70,
+    "question": "I am worried about the future"
+  },
+  {
+    "id": 71,
+    "question": "I am worried that my wife is having an affair"
+  },
+  {
+    "id": 72,
+    "question": "I am worried about my kids"
+  },
+  {
+    "id": 73,
+    "question": "How can I connect with my own silence"
+  },
+  {
+    "id": 74,
+    "question": "Does silence bring peace"
+  },
+  {
+    "id": 75,
+    "question": "What would happen if I just sat in silence"
+  },
+  {
+    "id": 76,
+    "question": "I can’t sleep because I am worrying about my health"
+  },
+  {
+    "id": 77,
+    "question": "I can’t sleep because I am worrying about my children"
+  },
+  {
+    "id": 78,
+    "question": "I can’t sleep because I am worrying about my job"
+  },
+  {
+    "id": 79,
+    "question": "I can’t sleep because I am worrying about my partner"
+  },
+  {
+    "id": 80,
+    "question": "I can’t sleep because I am worrying about my parents"
+  },
+  {
+    "id": 81,
+    "question": "What is gaslighting?"
+  },
+  {
+    "id": 82,
+    "question": "I’ve been gaslighted"
+  },
+  {
+    "id": 83,
+    "question": "What is ghosting?"
+  },
+  {
+    "id": 84,
+    "question": "I’ve been ghosted."
+  },
+  {
+    "id": 85,
+    "question": "What is breadcrumbing?"
+  },
+  {
+    "id": 86,
+    "question": "What is Narcissism?"
+  },
+  {
+    "id": 87,
+    "question": "How can I deal with a Narcissist?"
+  },
+  {
+    "id": 88,
+    "question": "What is a situationship?"
+  },
+  {
+    "id": 89,
+    "question": "How can I handle interpersonal conflict?"
+  },
+  {
+    "id": 90,
+    "question": "Conflict in relationships"
+  },
+  {
+    "id": 91,
+    "question": "How do I know if what I’m feeling is a mental health problem or just normal stress?"
+  },
+  {
+    "id": 92,
+    "question": "How can I tell if I have an anxiety disorder?"
+  },
+  {
+    "id": 93,
+    "question": "How do changes in sleep, appetite, or energy relate to mental health problems?"
+  },
+  {
+    "id": 94,
+    "question": "When should I seek professional help or therapy for my symptoms?"
+  },
+  {
+    "id": 95,
+    "question": "What are the warning signs of serious problems like psychosis or suicidal thoughts?"
+  },
+  {
+    "id": 96,
+    "question": "How does substance use affect mental illness?"
+  },
+  {
+    "id": 97,
+    "question": "How does alcohol affect mental illness?"
+  },
+  {
+    "id": 98,
+    "question": "How do drugs affect mental illness?"
+  },
+  {
+    "id": 99,
+    "question": "How can mental health problems affect relationships and work performance?"
+  },
+  {
+    "id": 100,
+    "question": "What are myths or misconceptions about mental health disorders?"
+  },
+  {
+    "id": 101,
+    "question": "Where can I get help in a crisis or emergency?"
+  },
+  {
+    "id": 102,
+    "question": "What should I do if I think someone I know may have a mental health problem?"
+  },
+  {
+    "id": 103,
+    "question": "What are the signs or symptoms of a substance or behavioral addiction?"
+  },
+  {
+    "id": 104,
+    "question": "What triggers lead to my substance use or addictive behaviors?"
+  },
+  {
+    "id": 105,
+    "question": "What is withdrawal and how can I deal with it?"
+  },
+  {
+    "id": 106,
+    "question": "Is addiction a disease or a moral failing?"
+  },
+  {
+    "id": 107,
+    "question": "How can addiction change my relationships, work, and health?"
+  },
+  {
+    "id": 108,
+    "question": "How can I talk to my children about drugs?"
+  },
+  {
+    "id": 109,
+    "question": "What treatments are available for addiction? Can it be cured?"
+  },
+  {
+    "id": 110,
+    "question": "Why do some people become addicted more easily than others?"
+  },
+  {
+    "id": 111,
+    "question": "Does family history or mental illness increase addiction risk?"
+  },
+  {
+    "id": 112,
+    "question": "Are some substances or behaviors more addictive than others?"
+  },
+  {
+    "id": 113,
+    "question": "Can mental health problems and addiction occur together?"
+  },
+  {
+    "id": 114,
+    "question": "How can I support someone with addiction?"
+  },
+  {
+    "id": 115,
+    "question": "What are the best ways to prevent relapse of my addiction?"
+  },
+  {
+    "id": 116,
+    "question": "Where can I find help, support groups, or therapy for addiction?"
+  },
+  {
+    "id": 117,
+    "question": "How can I help my child spend less time on screens without arguments?"
+  },
+  {
+    "id": 118,
+    "question": "I feel like a fraud even after achieving my goals. What’s wrong with me?"
+  },
+  {
+    "id": 119,
+    "question": "How can I talk to my teenager about sex without making it awkward?"
+  },
+  {
+    "id": 120,
+    "question": "How can I make my workplace feel more positive and fulfilling?"
+  },
+  {
+    "id": 121,
+    "question": "How can I help my teen manage social media addiction?"
+  },
+  {
+    "id": 122,
+    "question": "I constantly worry about my child’s future. How can I manage my parental anxiety?"
+  },
+  {
+    "id": 123,
+    "question": "How can I manage stress before it affects my health?"
+  },
+  {
+    "id": 124,
+    "question": "How can I deal with imposter syndrome at work or in life?"
+  },
+  {
+    "id": 125,
+    "question": "Why do we react the same way to situations, even when we want to change?"
+  },
+  {
+    "id": 126,
+    "question": "Will I ever stop missing the person I lost?"
+  },
+  {
+    "id": 127,
+    "question": "How do I handle grief anniversaries or special dates?"
+  },
+  {
+    "id": 128,
+    "question": "What can I do when I suddenly break down?"
+  },
+  {
+    "id": 129,
+    "question": "How do I find motivation when everything feels heavy?"
+  },
+  {
+    "id": 130,
+    "question": "How can I stop pretending I’m okay when I’m not?"
+  },
+  {
+    "id": 131,
+    "question": "What can I do when I feel emotionally drained?"
+  },
+  {
+    "id": 132,
+    "question": "Why do I miss people who hurt me?"
+  },
+  {
+    "id": 133,
+    "question": "I feel numb instead of sad. Is that normal?"
+  },
+  {
+    "id": 134,
+    "question": "Why do I get angry when I’m grieving?"
+  },
+  {
+    "id": 135,
+    "question": "How do I comfort a friend who’s grieving when I don’t know what to say?"
+  },
+  {
+    "id": 136,
+    "question": "Why do I feel defensive or insecure?"
+  },
+  {
+    "id": 137,
+    "question": "How can I listen to my own voice and not follow others"
+  },
+  {
+    "id": 138,
+    "question": "Why do some emotions feel easier to accept than others?"
+  },
+  {
+    "id": 139,
+    "question": "How can I understand the difference between emotional reactions and genuine feelings?"
+  },
+  {
+    "id": 140,
+    "question": "What would I discover if I stopped distracting myself and just sat in silence?"
+  },
+  {
+    "id": 141,
+    "question": "How can I tell the difference between intuition and overthinking?"
+  },
+  {
+    "id": 142,
+    "question": "What am I avoiding by staying “busy” all the time?"
+  },
+  {
+    "id": 143,
+    "question": "Why does self-awareness sometimes feel uncomfortable?"
+  },
+  {
+    "id": 144,
+    "question": "How can I embrace my flaws without using them as excuses?"
+  },
+  {
+    "id": 145,
+    "question": "How do I reconnect with parts of myself I’ve put aside for years?"
+  },
+  {
+    "id": 146,
+    "question": "How do I redefine myself when the life I imagined looks different from the one I have?"
+  },
+  {
+    "id": 147,
+    "question": "How can I find joy in my daily life?"
+  },
+  {
+    "id": 148,
+    "question": "How can I let go of the need to control everything and trust life more?"
+  },
+  {
+    "id": 149,
+    "question": "I don’t feel valued by others."
+  },
+  {
+    "id": 150,
+    "question": "I feel overwhelmed being in the hospital. How can I cope with this?"
+  },
+  {
+    "id": 151,
+    "question": "How do I manage panic attacks while waiting for an appointment?"
+  },
+  {
+    "id": 152,
+    "question": "How can I manage a panic attack?"
+  },
+  {
+    "id": 153,
+    "question": "I can’t sleep because I’m worrying about my health. Can you help me relax?"
+  },
+  {
+    "id": 154,
+    "question": "I feel angry or frustrated about my situation — what can I do about it?"
+  },
+  {
+    "id": 155,
+    "question": "How can I talk to my partner or family about my illness without worrying them?"
+  },
+  {
+    "id": 156,
+    "question": "I don’t get on with one of my carers or nurses — how can I manage that calmly?"
+  },
+  {
+    "id": 157,
+    "question": "How can I rebuild my relationships after being unwell or in recovery?"
+  },
+  {
+    "id": 158,
+    "question": "How do I get motivated to look after myself again?"
+  },
+  {
+    "id": 159,
+    "question": "Do you have any breathing or grounding exercises?"
+  },
+  {
+    "id": 160,
+    "question": "How do I deal with cravings or triggers?"
+  },
+  {
+    "id": 161,
+    "question": "How can I reward myself in positive ways instead of using alcohol or food?"
+  },
+  {
+    "id": 162,
+    "question": "Are you a real person?"
+  },
+  {
+    "id": 163,
+    "question": "Will anyone else see what I write here?"
+  },
+  {
+    "id": 164,
+    "question": "Is it safe to talk to you about how I’m feeling?"
+  },
+  {
+    "id": 165,
+    "question": "Can I come back and chat with you again later?"
+  },
+  {
+    "id": 166,
+    "question": "Is it ok to feel connected to a stranger over your family"
+  },
+  {
+    "id": 167,
+    "question": "My family makes me happy."
+  },
+  {
+    "id": 168,
+    "question": "I don't like my family"
+  },
+  {
+    "id": 169,
+    "question": "I keep pushing myself to be perfect at work, but it’s exhausting. How can I stop being so hard on myself?"
+  },
+  {
+    "id": 170,
+    "question": "How can I stop being a perfectionist?"
+  },
+  {
+    "id": 171,
+    "question": "Why do I need to be perfect?"
+  },
+  {
+    "id": 172,
+    "question": "I feel like I have to be the perfect parent — how can I let go of that pressure?"
+  },
+  {
+    "id": 173,
+    "question": "How can I be a perfect parent?"
+  },
+  {
+    "id": 174,
+    "question": "I often feel left out even when I’m around people. What’s wrong with me?"
+  },
+  {
+    "id": 175,
+    "question": "My friend and I are growing apart. How do I handle it?"
+  },
+  {
+    "id": 176,
+    "question": "Why do I always compare myself to people online?"
+  },
+  {
+    "id": 177,
+    "question": "I keep worrying about what others think of me. How can I stop?"
+  },
+  {
+    "id": 178,
+    "question": "I always feel a pressure to fit in. How do I deal with it?"
+  },
+  {
+    "id": 179,
+    "question": "How do I handle emotional pain without shutting down?"
+  },
+  {
+    "id": 180,
+    "question": "Why do I feel drained after getting emotional?"
+  },
+  {
+    "id": 181,
+    "question": "How can I speak my mind without hurting someone?"
+  },
+  {
+    "id": 182,
+    "question": "How do I clear my head when I feel mentally overloaded?"
+  },
+  {
+    "id": 183,
+    "question": "How do I know if I’m being self-aware or just self-conscious?"
+  },
+  {
+    "id": 184,
+    "question": "How can I get a promotion at work?"
+  },
+  {
+    "id": 185,
+    "question": "How can I progress at work?"
+  },
+  {
+    "id": 186,
+    "question": "How can I coach an employee?"
+  },
+  {
+    "id": 187,
+    "question": "How can I give feedback to an employee?"
+  },
+  {
+    "id": 188,
+    "question": "How can I deal with a panic attack?"
+  },
+  {
+    "id": 189,
+    "question": "Performance anxiety in sport"
+  },
+  {
+    "id": 190,
+    "question": "Comparison in sport"
+  },
+  {
+    "id": 191,
+    "question": "Why do I still feel affected by things that happened years ago?"
+  },
+  {
+    "id": 192,
+    "question": "How do I stop my mind from overthinking everything?"
+  },
+  {
+    "id": 193,
+    "question": "How can I tell if I’m stressed or just tired?"
+  },
+  {
+    "id": 194,
+    "question": "Why does it feel so hard to deal with my stress?"
+  },
+  {
+    "id": 195,
+    "question": "What are some simple ways to manage stress?"
+  },
+  {
+    "id": 196,
+    "question": "Why does my body react so strongly when I feel stressed?"
+  },
+  {
+    "id": 197,
+    "question": "How can awareness reduce stress?"
+  },
+  {
+    "id": 198,
+    "question": "How do I know if I’m just sad or actually depressed?"
+  },
+  {
+    "id": 199,
+    "question": "I’m feeling anxious. What can I do?"
+  },
+  {
+    "id": 200,
+    "question": "How should I deal with a panic attack?"
+  },
+  {
+    "id": 201,
+    "question": "What exactly counts as bullying?"
+  },
+  {
+    "id": 202,
+    "question": "How do I find my purpose in life?"
+  },
+  {
+    "id": 203,
+    "question": "How can companies create a culture of kindness?"
+  },
+  {
+    "id": 204,
+    "question": "How can kindness improve my life?"
+  },
+  {
+    "id": 205,
+    "question": "How can I feel content with what I have?"
+  },
+  {
+    "id": 206,
+    "question": "What are simple ways to feel happier daily?"
+  },
+  {
+    "id": 207,
+    "question": "Why do people avoid thinking about death?"
+  },
+  {
+    "id": 208,
+    "question": "Why am I afraid of death?"
+  },
+  {
+    "id": 209,
+    "question": "Why is it so hard to let go?"
+  },
+  {
+    "id": 210,
+    "question": "Why does losing someone or something hurt so deeply?"
+  },
+  {
+    "id": 211,
+    "question": "What is the key to good mental health?"
+  },
+  {
+    "id": 212,
+    "question": "Why do I struggle to fall asleep?"
+  },
+  {
+    "id": 213,
+    "question": "What is meditation actually doing?"
+  },
+  {
+    "id": 214,
+    "question": "Why does emotional pain feel so overwhelming?"
+  },
+  {
+    "id": 215,
+    "question": "Why do I react without thinking sometimes?"
+  },
+  {
+    "id": 216,
+    "question": "What’s the first step to overcoming addiction?"
+  },
+  {
+    "id": 217,
+    "question": "What actually causes anxiety in parents?"
+  },
+  {
+    "id": 218,
+    "question": "How can I stop comparing my child with others?"
+  },
+  {
+    "id": 219,
+    "question": "Why do I parent the same way I was raised?"
+  },
+  {
+    "id": 220,
+    "question": "How does conditioning affect my reactions?"
+  },
+  {
+    "id": 221,
+    "question": "What are common mistakes parents make?"
+  },
+  {
+    "id": 222,
+    "question": "How can I communicate better with my children?"
+  },
+  {
+    "id": 223,
+    "question": "How do I stay calm while communicating?"
+  },
+  {
+    "id": 224,
+    "question": "How can I discipline my child?"
+  },
+  {
+    "id": 225,
+    "question": "What is the right way to correct behaviour?"
+  },
+  {
+    "id": 226,
+    "question": "Why do I feel overwhelmed all the time?"
+  },
+  {
+    "id": 227,
+    "question": "How can I make my child feel loved?"
+  },
+  {
+    "id": 228,
+    "question": "How can I be a better parent?"
+  },
+  {
+    "id": 229,
+    "question": "I am a working woman and feel the guilt of spending less time with my child. How do I cope with that?"
+  },
+  {
+    "id": 230,
+    "question": "Why do I feel the need to control others?"
+  },
+  {
+    "id": 231,
+    "question": "Why do I feel hurt so easily?"
+  },
+  {
+    "id": 232,
+    "question": "How can I be more confident while dating?"
+  },
+  {
+    "id": 233,
+    "question": "How can I handle rejection in dating?"
+  },
+  {
+    "id": 234,
+    "question": "What makes a relationship successful?"
+  },
+  {
+    "id": 235,
+    "question": "How can listening improve my relationships?"
+  },
+  {
+    "id": 236,
+    "question": "Why is having a good relationship with myself important?"
+  },
+  {
+    "id": 237,
+    "question": "Why do relationships lose their spark over time?"
+  },
+  {
+    "id": 238,
+    "question": "Why do some people struggle with commitment?"
+  },
+  {
+    "id": 239,
+    "question": "How should I respond if someone ghosts me?"
+  },
+  {
+    "id": 240,
+    "question": "How can I stay calm during an argument?"
+  },
+  {
+    "id": 241,
+    "question": "Why do I feel so many different emotions after a loss?"
+  },
+  {
+    "id": 242,
+    "question": "How can I cope with loss in a healthy way?"
+  },
+  {
+    "id": 243,
+    "question": "Is it normal for friendships to fade?"
+  },
+  {
+    "id": 244,
+    "question": "Should I try to fix a friendship that is not working?"
+  },
+  {
+    "id": 245,
+    "question": "Why is it important to understand my emotional needs?"
+  },
+  {
+    "id": 246,
+    "question": "How do I identify my emotional needs?"
+  },
+  {
+    "id": 247,
+    "question": "What happens if my emotional needs are not met?"
+  },
+  {
+    "id": 248,
+    "question": "How can I communicate my emotional needs clearly?"
+  },
+  {
+    "id": 249,
+    "question": "How can I improve my relationship?"
+  },
+  {
+    "id": 250,
+    "question": "How can I find the right partner?"
+  },
+  {
+    "id": 251,
+    "question": "What role does trust play in love?"
+  },
+  {
+    "id": 252,
+    "question": "How can I talk about commitment with my partner?"
+  },
+  {
+    "id": 253,
+    "question": "How do I apologize after an argument?"
+  },
+  {
+    "id": 254,
+    "question": "Why do small mistakes affect relationships so much?"
+  },
+  {
+    "id": 255,
+    "question": "How can I avoid repeating mistakes in my relationship?"
+  },
+  {
+    "id": 256,
+    "question": "How can unrealistic expectations harm a relationship?"
+  },
+  {
+    "id": 257,
+    "question": "Is it normal to feel angry or confused during grief?"
+  },
+  {
+    "id": 258,
+    "question": "How can I support someone who is grieving?"
+  },
+  {
+    "id": 259,
+    "question": "What should I avoid saying to someone who is grieving?"
+  },
+  {
+    "id": 260,
+    "question": "Is it possible to prepare for loss?"
+  },
+  {
+    "id": 261,
+    "question": "How can I build emotional strength for difficult times?"
+  },
+  {
+    "id": 262,
+    "question": "Why does failure feel so difficult?"
+  },
+  {
+    "id": 263,
+    "question": "How can I learn from failure?"
+  },
+  {
+    "id": 264,
+    "question": "How can I overcome the fear of failure?"
+  },
+  {
+    "id": 265,
+    "question": "I lost my job. What can I do?"
+  },
+  {
+    "id": 266,
+    "question": "Why is it important to think about mortality?"
+  },
+  {
+    "id": 267,
+    "question": "How can I live more fully despite the reality of death?"
+  },
+  {
+    "id": 268,
+    "question": "How do I know if something is just a habit or turning into an addiction?"
+  },
+  {
+    "id": 269,
+    "question": "I feel like I can’t stop scrolling my phone, even when I want to. Is that bad?"
+  },
+  {
+    "id": 270,
+    "question": "What are the signs that I might be addicted to something?"
+  },
+  {
+    "id": 271,
+    "question": "Why do I reach for my phone without even thinking?"
+  },
+  {
+    "id": 272,
+    "question": "I feel irritated when I can’t check my phone. Is that normal?"
+  },
+  {
+    "id": 273,
+    "question": "Why do I keep eating even when I’m not hungry?"
+  },
+  {
+    "id": 274,
+    "question": "Why do cravings feel so urgent sometimes?"
+  },
+  {
+    "id": 275,
+    "question": "How do I know if my eating is emotional or physical?"
+  },
+  {
+    "id": 276,
+    "question": "What should I do when I feel like eating just out of boredom?"
+  },
+  {
+    "id": 277,
+    "question": "Why do I keep going back to habits that I know aren’t good for me?"
+  },
+  {
+    "id": 278,
+    "question": "Why do I feel like I need a drink after a stressful day?"
+  },
+  {
+    "id": 279,
+    "question": "I don’t even enjoy drinking that much. So why do I still do it?"
+  },
+  {
+    "id": 280,
+    "question": "Why does one drink often turn into more?"
+  },
+  {
+    "id": 281,
+    "question": "Why can't I stop replaying that one mistake during games?"
+  },
+  {
+    "id": 282,
+    "question": "How do I handle the pressure of everyone expecting me to win?"
+  },
+  {
+    "id": 283,
+    "question": "I'm exhausted but feel guilty taking a break. Is this burnout?"
+  },
+  {
+    "id": 284,
+    "question": "Why do I doubt myself right before big competitions?"
+  },
+  {
+    "id": 285,
+    "question": "What is OCD?"
+  },
+  {
+    "id": 286,
+    "question": "I think I may go to pubs more, what’s your view on that?"
+  },
+  {
+    "id": 287,
+    "question": "My marriage has gone cold. Is there any hope?"
+  },
+  {
+    "id": 288,
+    "question": "The truth behind desire and pleasure"
+  },
+  {
+    "id": 289,
+    "question": "Holding a grudge"
+  },
+  {
+    "id": 290,
+    "question": "Why does our brain focus on negativity?"
+  },
+  {
+    "id": 291,
+    "question": "How can we develop a positive view of situations?"
+  },
+  {
+    "id": 292,
+    "question": "How can I be happier at work?"
+  },
+  {
+    "id": 293,
+    "question": "Is happiness at work a choice?"
+  },
+  {
+    "id": 294,
+    "question": "How does helping others improve our happiness?"
+  },
+  {
+    "id": 295,
+    "question": "Why is taking action important in finding purpose?"
+  },
+  {
+    "id": 296,
+    "question": "Why is self-awareness important for leaders?"
+  },
+  {
+    "id": 297,
+    "question": "How does self-awareness build emotional intelligence?"
+  },
+  {
+    "id": 298,
+    "question": "How does self-awareness improve decision-making?"
+  },
+  {
+    "id": 299,
+    "question": "Why do I struggle with confidence?"
+  },
+  {
+    "id": 300,
+    "question": "Why is kindness important when building confidence?"
+  },
+  {
+    "id": 301,
+    "question": "What is the essence of effective leadership?"
+  },
+  {
+    "id": 302,
+    "question": "Why is bullying a serious issue?"
+  },
+  {
+    "id": 303,
+    "question": "What should you remember if you are being bullied?"
+  },
+  {
+    "id": 304,
+    "question": "Why do leaders fail?"
+  },
+  {
+    "id": 305,
+    "question": "What role does emotional intelligence play in leadership failure?"
+  },
+  {
+    "id": 306,
+    "question": "Why are people skills important for leaders?"
+  },
+  {
+    "id": 307,
+    "question": "What is the key takeaway for preventing leadership failure?"
+  },
+  {
+    "id": 308,
+    "question": "Why does criticism feel painful?"
+  },
+  {
+    "id": 309,
+    "question": "How can criticism help you grow?"
+  },
+  {
+    "id": 310,
+    "question": "How can values guide better decisions?"
+  },
+  {
+    "id": 311,
+    "question": "What is the key to making better decisions?"
+  },
+  {
+    "id": 312,
+    "question": "How can I resolve conflict?"
+  },
+  {
+    "id": 313,
+    "question": "How can conflict strengthen relationships?"
+  },
+  {
+    "id": 314,
+    "question": "What is a kindness culture?"
+  },
+  {
+    "id": 315,
+    "question": "Why is a culture of kindness important?"
+  },
+  {
+    "id": 316,
+    "question": "What is the difference between joy and pleasure?"
+  },
+  {
+    "id": 317,
+    "question": "What defines true joy?"
+  },
+  {
+    "id": 318,
+    "question": "How can we become more open to experiencing joy?"
+  },
+  {
+    "id": 319,
+    "question": "Why is it important to let joy pass naturally?"
+  },
+  {
+    "id": 320,
+    "question": "Why does happiness sometimes feel hard to achieve?"
+  },
+  {
+    "id": 321,
+    "question": "How does attitude influence happiness?"
+  },
+  {
+    "id": 322,
+    "question": "Why are relationships important for happiness?"
+  },
+  {
+    "id": 323,
+    "question": "What habits can help build lasting happiness?"
+  },
+  {
+    "id": 324,
+    "question": "How can I deal with the problems of social media?"
+  },
+  {
+    "id": 325,
+    "question": "Why does social media make us compare ourselves to others?"
+  },
+  {
+    "id": 326,
+    "question": "How does social media affect our self-worth?"
+  },
+  {
+    "id": 327,
+    "question": "What are some ways to use social media more mindfully?"
+  },
+  {
+    "id": 328,
+    "question": "Is real happiness the same as peace?"
+  },
+  {
+    "id": 329,
+    "question": "Why doesn’t success or achievement bring lasting happiness?"
+  },
+  {
+    "id": 330,
+    "question": "Why is self-acceptance important for peace?"
+  },
+  {
+    "id": 331,
+    "question": "What is a positive attitude?"
+  },
+  {
+    "id": 332,
+    "question": "How can reframing situations help us stay positive?"
+  },
+  {
+    "id": 333,
+    "question": "Why do we think negatively?"
+  },
+  {
+    "id": 334,
+    "question": "How can I build a positive mindset?"
+  },
+  {
+    "id": 335,
+    "question": "Why does kindness start with ourselves?"
+  },
+  {
+    "id": 336,
+    "question": "Why is kindness important in relationships?"
+  },
+  {
+    "id": 337,
+    "question": "What stops us from being kind to others?"
+  },
+  {
+    "id": 338,
+    "question": "How can we practice kindness in everyday life?"
+  },
+  {
+    "id": 339,
+    "question": "What prevents us from feeling content?"
+  },
+  {
+    "id": 340,
+    "question": "What is desire, and is it good or bad?"
+  },
+  {
+    "id": 341,
+    "question": "Why does pleasure not last?"
+  },
+  {
+    "id": 342,
+    "question": "How can pleasure turn into unhealthy habits?"
+  },
+  {
+    "id": 343,
+    "question": "How can we break the cycle of craving and find balance?"
+  },
+  {
+    "id": 344,
+    "question": "What is self-awareness, and why is it important?"
+  },
+  {
+    "id": 345,
+    "question": "How does self-awareness reduce negative emotions?"
+  },
+  {
+    "id": 346,
+    "question": "How can self-awareness help shift our mindset?"
+  },
+  {
+    "id": 347,
+    "question": "How does comparison affect our behaviour and relationships?"
+  },
+  {
+    "id": 348,
+    "question": "How can we deal with comparison in a healthy way?"
+  },
+  {
+    "id": 349,
+    "question": "Why is repairing a relationship important?"
+  },
+  {
+    "id": 350,
+    "question": "How can I repair a relationship after conflict?"
+  },
+  {
+    "id": 351,
+    "question": "What if I don’t feel ready to repair yet?"
+  },
+  {
+    "id": 352,
+    "question": "What if the other person doesn’t want to talk?"
+  },
+  {
+    "id": 353,
+    "question": "What if I feel like it’s all their fault?"
+  },
+  {
+    "id": 354,
+    "question": "Why do I feel anxious about money even when I’m okay financially?"
+  },
+  {
+    "id": 355,
+    "question": "How can I cope with financial insecurity?"
+  },
+  {
+    "id": 356,
+    "question": "How can I deal with debt stress?"
+  }
+]

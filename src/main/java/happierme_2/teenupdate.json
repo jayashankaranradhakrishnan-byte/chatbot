@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "question": "Why do I still think about something embarrassing from years ago?"
+  },
+  {
+    "id": 2,
+    "question": "Why does my mind keep overthinking everything?"
+  },
+  {
+    "id": 3,
+    "question": "How do I know if I’m stressed or just tired?"
+  },
+  {
+    "id": 4,
+    "question": "Why does school stress feel so overwhelming?"
+  },
+  {
+    "id": 5,
+    "question": "What are simple ways to deal with stress as a teen?"
+  },
+  {
+    "id": 6,
+    "question": "Why does my body react so strongly when I’m stressed?"
+  },
+  {
+    "id": 7,
+    "question": "Can being more aware actually reduce stress?"
+  },
+  {
+    "id": 8,
+    "question": "How do I know if I’m just sad or something more serious?"
+  },
+  {
+    "id": 9,
+    "question": "I feel anxious a lot. What can I do?"
+  },
+  {
+    "id": 10,
+    "question": "What should I do during a panic attack?"
+  },
+  {
+    "id": 11,
+    "question": "What counts as bullying at school or online?"
+  },
+  {
+    "id": 12,
+    "question": "How do I figure out who I am?"
+  },
+  {
+    "id": 13,
+    "question": "How can being kind actually help me?"
+  },
+  {
+    "id": 14,
+    "question": "How can I feel okay with what I have?"
+  },
+  {
+    "id": 15,
+    "question": "What are simple ways to feel happier every day?"
+  },
+  {
+    "id": 16,
+    "question": "Why is it so hard to let go of things or people?"
+  },
+  {
+    "id": 17,
+    "question": "Why does losing someone or something hurt so much?"
+  },
+  {
+    "id": 18,
+    "question": "What is meditation actually doing?"
+  },
+  {
+    "id": 19,
+    "question": "Why do I react without thinking sometimes?"
+  },
+  {
+    "id": 20,
+    "question": "What’s the first step to overcoming addiction?"
+  },
+  {
+    "id": 21,
+    "question": "Why do I feel hurt so easily?"
+  },
+  {
+    "id": 22,
+    "question": "How do I identify my emotional needs?"
+  },
+  {
+    "id": 23,
+    "question": "How can I stay calm during an argument?"
+  },
+  {
+    "id": 24,
+    "question": "Is it normal for friendships to fade?"
+  },
+  {
+    "id": 25,
+    "question": "Should I try to fix a friendship that is not working?"
+  },
+  {
+    "id": 26,
+    "question": "How can I be more confident while dating?"
+  },
+  {
+    "id": 27,
+    "question": "How can I handle rejection in dating?"
+  },
+  {
+    "id": 28,
+    "question": "How can I set healthy boundaries while dating?"
+  },
+  {
+    "id": 29,
+    "question": "Why does failure feel so difficult?"
+  },
+  {
+    "id": 30,
+    "question": "How can I learn from failure?"
+  },
+  {
+    "id": 31,
+    "question": "How can I overcome the fear of failure?"
+  },
+  {
+    "id": 32,
+    "question": "I feel like I can’t stop scrolling my phone, even when I want to. Is that bad?"
+  },
+  {
+    "id": 33,
+    "question": "What are the signs that I might be addicted to something?"
+  },
+  {
+    "id": 34,
+    "question": "Why do I reach for my phone without even thinking?"
+  },
+  {
+    "id": 35,
+    "question": "Why do I keep eating even when I’m not hungry?"
+  },
+  {
+    "id": 36,
+    "question": "Why do cravings feel so urgent sometimes?"
+  },
+  {
+    "id": 37,
+    "question": "How do I know if my eating is emotional or physical?"
+  },
+  {
+    "id": 38,
+    "question": "What should I do when I feel like eating just out of boredom?"
+  },
+  {
+    "id": 39,
+    "question": "Why do I keep going back to habits that I know aren’t good for me?"
+  },
+  {
+    "id": 40,
+    "question": "Why can't I stop replaying that one mistake during games?"
+  },
+  {
+    "id": 41,
+    "question": "How do I handle the pressure of everyone expecting me to win?"
+  },
+  {
+    "id": 42,
+    "question": "Why do I doubt myself right before big competitions?"
+  },
+  {
+    "id": 43,
+    "question": "What is OCD?"
+  },
+  {
+    "id": 44,
+    "question": "Why do I struggle with confidence?"
+  },
+  {
+    "id": 45,
+    "question": "Why is bullying a serious issue?"
+  },
+  {
+    "id": 46,
+    "question": "What should you remember if you are being bullied?"
+  },
+  {
+    "id": 47,
+    "question": "What is the key to making better decisions?"
+  },
+  {
+    "id": 48,
+    "question": "How can I resolve conflict?"
+  },
+  {
+    "id": 49,
+    "question": "What is a kindness culture?"
+  },
+  {
+    "id": 50,
+    "question": "Why is a culture of kindness important?"
+  },
+  {
+    "id": 51,
+    "question": "How can I deal with the problems of social media?"
+  },
+  {
+    "id": 52,
+    "question": "Why does social media make us compare ourselves to others?"
+  },
+  {
+    "id": 53,
+    "question": "How does social media affect our self-worth?"
+  },
+  {
+    "id": 54,
+    "question": "What are some ways to use social media more mindfully?"
+  },
+  {
+    "id": 55,
+    "question": "What is a positive attitude?"
+  },
+  {
+    "id": 56,
+    "question": "How can I build a positive mindset?"
+  },
+  {
+    "id": 57,
+    "question": "What stops us from being kind to others?"
+  },
+  {
+    "id": 58,
+    "question": "How can we practice kindness in everyday life?"
+  },
+  {
+    "id": 59,
+    "question": "What is self-awareness, and why is it important?"
+  },
+  {
+    "id": 60,
+    "question": "How does self-awareness reduce negative emotions?"
+  },
+  {
+    "id": 61,
+    "question": "How can self-awareness help shift our mindset?"
+  },
+  {
+    "id": 62,
+    "question": "Why is repairing a friendship important?"
+  },
+  {
+    "id": 63,
+    "question": "How can I repair a friendship after conflict?"
+  },
+  {
+    "id": 64,
+    "question": "What if I don’t feel ready to repair yet?"
+  },
+  {
+    "id": 65,
+    "question": "What if my friend doesn’t want to talk?"
+  },
+  {
+    "id": 66,
+    "question": "What if I feel like it’s all their fault?"
+  },
+  {
+    "id": 67,
+    "question": "Why is having a good relationship with myself important?"
+  },
+  {
+    "id": 68,
+    "question": "How can I start building a better relationship with myself?"
+  },
+  {
+    "id": 69,
+    "question": "Why does our brain focus on negativity?"
+  },
+  {
+    "id": 70,
+    "question": "Holding a grudge"
+  },
+  {
+    "id": 71,
+    "question": "Why am I afraid of death?"
+  },
+  {
+    "id": 72,
+    "question": "Why do people avoid thinking about death?"
+  },
+  {
+    "id": 73,
+    "question": "Why do some people struggle with commitment?"
+  },
+  {
+    "id": 74,
+    "question": "How should I respond if someone ghosts me?"
+  },
+  {
+    "id": 75,
+    "question": "How do I apologize after an argument?"
+  },
+  {
+    "id": 76,
+    "question": "How does helping others improve our happiness?"
+  },
+  {
+    "id": 77,
+    "question": "Why is kindness important when building confidence?"
+  }
+]

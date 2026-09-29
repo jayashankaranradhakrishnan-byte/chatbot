@@ -242,12 +242,16 @@ import org.json.JSONObject;
 
 public class BotTest {
 
+    private static final long REQUEST_DELAY_MS = 5000; // 2 seconds
+
     public static void main(String[] args) throws Exception {
+
+
 
         String baseUrl = "http://13.134.43.106:5010/chat";
 
         String jsonPath =
-                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\adult1.json";
+                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\happierme_2\\adult_1.json";
 
         String logFilePath =
                 "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\happierme_2\\BotResponse.txt";
@@ -402,6 +406,20 @@ public class BotTest {
                     System.out.println("Question: " + question);
                     System.out.println("Response: Error - " + e.getMessage());
                     System.out.println("----------------------------------------");
+                }
+
+                // Wait between requests, except after the last one
+                if (questionNumber < testData.size()) {
+                    System.out.println("Waiting " + (REQUEST_DELAY_MS / 1000)
+                            + " seconds before the next request...");
+
+                    try {
+                        Thread.sleep(REQUEST_DELAY_MS);
+                    } catch (InterruptedException e) {
+                        Thread.currentThread().interrupt();
+                        System.out.println("Execution interrupted. Stopping test.");
+                        break;
+                    }
                 }
             }
 
