@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "question": "How can I feel calmer?"
+  },
+  {
+    "id": 2,
+    "question": "How can I feel more calm?"
+  },
+  {
+    "id": 3,
+    "question": "How do I know if I might be depressed?"
+  },
+  {
+    "id": 4,
+    "question": "Why do I feel sad for no reason?"
+  },
+  {
+    "id": 5,
+    "question": "I feel empty, what can I do?"
+  },
+  {
+    "id": 6,
+    "question": "Why do I feel so reactive?"
+  },
+  {
+    "id": 7,
+    "question": "Why do I feel lonely even with other people?"
+  },
+  {
+    "id": 8,
+    "question": "Why do my emotions feel so overwhelming?"
+  },
+  {
+    "id": 9,
+    "question": "How can I deal with a breakup?"
+  },
+  {
+    "id": 10,
+    "question": "I feel lost. What can I do?"
+  },
+  {
+    "id": 11,
+    "question": "Have you got any audio meditation I can listen to?"
+  },
+  {
+    "id": 12,
+    "question": "I'm scared to meditate."
+  },
+  {
+    "id": 13,
+    "question": "How can I quieten my mind?"
+  },
+  {
+    "id": 14,
+    "question": "How can I be happier today?"
+  },
+  {
+    "id": 15,
+    "question": "Is happiness something I can control?"
+  },
+  {
+    "id": 16,
+    "question": "Is happiness pleasure or contentment?"
+  },
+  {
+    "id": 17,
+    "question": "How is joy different from happiness?"
+  },
+  {
+    "id": 18,
+    "question": "How can I deal with a low mood?"
+  },
+  {
+    "id": 19,
+    "question": "I feel bored, what can I do?"
+  },
+  {
+    "id": 20,
+    "question": "What can I do to feel less afraid?"
+  },
+  {
+    "id": 21,
+    "question": "What is bullying?"
+  },
+  {
+    "id": 22,
+    "question": "Why is bullying a serious issue?"
+  },
+  {
+    "id": 23,
+    "question": "What should you remember if you are being bullied?"
+  }
+]

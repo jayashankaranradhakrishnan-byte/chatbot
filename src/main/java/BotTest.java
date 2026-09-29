@@ -43,7 +43,7 @@
 //    }
 //}
 
- //=========================================================================================================
+//=========================================================================================================
 //import io.restassured.RestAssured;
 //import io.restassured.response.Response;
 //import org.testng.Assert;
@@ -162,11 +162,83 @@
 
 //============================================================================================================================
 
+//
+//import io.restassured.RestAssured;
+//import io.restassured.response.Response;
+//import org.testng.asserts.SoftAssert;
+//import java.util.List;
+//
+//public class BotTest {
+//
+//    public static void main(String[] args) throws Exception {
+//
+//        String baseUrl = "http://13.134.43.106:5010/chat";
+//
+//        List<BotData> testData = JsonUtils.readBotData(
+//                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\teennewall.json"
+//        );
+//
+//        SoftAssert softAssert = new SoftAssert(); // ✅ SoftAssert
+//
+//        for (BotData data : testData) {
+//
+//            String question = data.getQuestion();
+//            String expectedAnswer = data.getExpected_answer();
+//
+//            Response response = RestAssured
+//                    .given()
+//                    .contentType("application/x-www-form-urlencoded")
+//                    .formParam("message", question)
+//                    .when()
+//                    .post(baseUrl)
+//                    .then()
+//                    .statusCode(200)
+//                    .extract()
+//                    .response();
+//
+//            String htmlResponse = response.jsonPath().getString("response");
+//            String actualAnswer = htmlResponse.replaceAll("<[^>]*>", "").trim();
+//
+//            System.out.println("Question: " + question);
+//            System.out.println("Actual  : " + actualAnswer);
+//            System.out.println("Expected: " + expectedAnswer);
+//
+//            // ✅ Soft assertion (won't stop loop)
+//            softAssert.assertEquals(
+//                    normalize(actualAnswer),
+//                    normalize(expectedAnswer),
+//                    "❌ Mismatch for question: " + question
+//            );
+//
+//            System.out.println("➡️ Test Completed (moving to next)\n");
+//        }
+//
+//        // 🔴 Reports all failures at the END
+//        softAssert.assertAll();
+//    }
+//
+//    private static String normalize(String text) {
+//        if (text == null) return null;
+//
+//        return text
+//                .replaceAll("[‘’]", "'")
+//                .replaceAll("[“”]", "\"")
+//                .replaceAll("\\s+", " ")
+//                .replaceAll("\\s+([.,!?])", "$1")
+//                .trim();
+//    }
+//}
+
+//===============================================================================================================
+
+
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import org.testng.asserts.SoftAssert;
+
+import java.io.*;
 import java.util.List;
+import org.json.JSONObject;
 
 public class BotTest {
 
@@ -174,60 +246,167 @@ public class BotTest {
 
         String baseUrl = "http://13.134.43.106:5010/chat";
 
-        List<BotData> testData = JsonUtils.readBotData(
-                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\teennewall.json"
-        );
+        String jsonPath =
+                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\adult1.json";
 
-        SoftAssert softAssert = new SoftAssert(); // ✅ SoftAssert
+        String logFilePath =
+                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\happierme_2\\BotResponse.txt";
 
-        for (BotData data : testData) {
+        File file = new File(logFilePath);
+        file.getParentFile().mkdirs();
 
-            String question = data.getQuestion();
-            String expectedAnswer = data.getExpected_answer();
+        PrintStream console = System.out;
 
-            Response response = RestAssured
-                    .given()
-                    .contentType("application/x-www-form-urlencoded")
-                    .formParam("message", question)
-                    .when()
-                    .post(baseUrl)
-                    .then()
-                    .statusCode(200)
-                    .extract()
-                    .response();
+        try (PrintStream fileOut = new PrintStream(
+                new FileOutputStream(file, false), true, "UTF-8")) {
 
-            String htmlResponse = response.jsonPath().getString("response");
-            String actualAnswer = htmlResponse.replaceAll("<[^>]*>", "").trim();
+            System.setOut(new PrintStream(new OutputStream() {
+                @Override
+                public void write(int b) throws IOException {
+                    console.write(b);
+                    fileOut.write(b);
+                }
 
-            System.out.println("Question: " + question);
-            System.out.println("Actual  : " + actualAnswer);
-            System.out.println("Expected: " + expectedAnswer);
+                @Override
+                public void flush() throws IOException {
+                    console.flush();
+                    fileOut.flush();
+                }
+            }, true, "UTF-8"));
 
-            // ✅ Soft assertion (won't stop loop)
-            softAssert.assertEquals(
-                    normalize(actualAnswer),
-                    normalize(expectedAnswer),
-                    "❌ Mismatch for question: " + question
-            );
+            List<BotData> testData = JsonUtils.readBotData(jsonPath);
 
-            System.out.println("➡️ Test Completed (moving to next)\n");
+//            for (BotData data : testData) {
+//
+//                String question = data.getQuestion();
+//
+//                try {
+//                    Response response = RestAssured
+//                            .given()
+//                            .contentType("application/x-www-form-urlencoded")
+//                            .formParam("message", question)
+//                            .when()
+//                            .post(baseUrl)
+//                            .then()
+//                            .extract()
+//                            .response();
+//
+//                    String rawResponse = response.getBody().asString();
+//
+//                    // Convert SSE streaming data into normal text
+//                    StringBuilder answer = new StringBuilder();
+//
+//                    for (String line : rawResponse.split("\\R")) {
+//
+//                        line = line.trim();
+//
+//                        if (!line.startsWith("data:")) {
+//                            continue;
+//                        }
+//
+//                        String jsonData = line.substring(5).trim();
+//
+//                        if (jsonData.isEmpty()) {
+//                            continue;
+//                        }
+//
+//                        try {
+//                            JSONObject json = new JSONObject(jsonData);
+//
+//                            // Extract only chatbot response tokens
+//                            if (json.has("token")) {
+//                                answer.append(json.getString("token"));
+//                            }
+//
+//                        } catch (Exception ignored) {
+//                            // Ignore invalid or non-JSON streaming lines
+//                        }
+//                    }
+//
+//                    String actualAnswer = answer.toString()
+//                            .replaceAll("<[^>]*>", "")
+//                            .replaceAll("[ \\t]+", " ")
+//                            .replaceAll("\\n{3,}", "\n\n")
+//                            .trim();
+//
+//                    System.out.println("Question: " + question);
+//                    System.out.println("Response: " + actualAnswer);
+//                    System.out.println("----------------------------------------");
+//
+//                } catch (Exception e) {
+//                    System.out.println("Question: " + question);
+//                    System.out.println("Response: Error - " + e.getMessage());
+//                    System.out.println("----------------------------------------");
+//                }
+//            }
+
+            int questionNumber = 0;
+
+            for (BotData data : testData) {
+
+                questionNumber++;
+                String question = data.getQuestion();
+
+                try {
+                    Response response = RestAssured
+                            .given()
+                            .contentType("application/x-www-form-urlencoded")
+                            .formParam("message", question)
+                            .when()
+                            .post(baseUrl)
+                            .then()
+                            .extract()
+                            .response();
+
+                    String rawResponse = response.getBody().asString();
+                    StringBuilder answer = new StringBuilder();
+
+                    for (String line : rawResponse.split("\\R")) {
+
+                        line = line.trim();
+
+                        if (!line.startsWith("data:")) {
+                            continue;
+                        }
+
+                        String jsonData = line.substring(5).trim();
+
+                        if (jsonData.isEmpty()) {
+                            continue;
+                        }
+
+                        try {
+                            JSONObject json = new JSONObject(jsonData);
+
+                            if (json.has("token")) {
+                                answer.append(json.getString("token"));
+                            }
+
+                        } catch (Exception ignored) {
+                        }
+                    }
+
+                    String actualAnswer = answer.toString()
+                            .replaceAll("<[^>]*>", "")
+                            .replaceAll("[ \\t]+", " ")
+                            .replaceAll("\\n{3,}", "\n\n")
+                            .trim();
+
+                    System.out.println("Question Number: " + questionNumber);
+                    System.out.println("Question: " + question);
+                    System.out.println("Response: " + actualAnswer);
+                    System.out.println("----------------------------------------");
+
+                } catch (Exception e) {
+                    System.out.println("Question Number: " + questionNumber);
+                    System.out.println("Question: " + question);
+                    System.out.println("Response: Error - " + e.getMessage());
+                    System.out.println("----------------------------------------");
+                }
+            }
+
+        } finally {
+            System.setOut(console);
         }
-
-        // 🔴 Reports all failures at the END
-        softAssert.assertAll();
-    }
-
-    private static String normalize(String text) {
-        if (text == null) return null;
-
-        return text
-                .replaceAll("[‘’]", "'")
-                .replaceAll("[“”]", "\"")
-                .replaceAll("\\s+", " ")
-                .replaceAll("\\s+([.,!?])", "$1")
-                .trim();
     }
 }
-
-
-

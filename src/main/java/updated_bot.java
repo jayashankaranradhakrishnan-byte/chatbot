@@ -9,10 +9,12 @@ public class updated_bot {
 
     public static void main(String[] args) throws Exception {
 
-        String baseUrl = "http://13.134.43.106:5015/chat";
+//      String baseUrl = "http://13.134.43.106:5015/chat";
+
+        String baseUrl = "https://demo.sustverse.sustally.com/api/chat";
 
         List<latestBotdata> testData = utils_update.readBotdata(
-                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\teenoldall.json"
+                "C:\\Users\\Ram prathees\\IdeaProjects\\chatbot\\src\\main\\java\\sustaly.json"
         );
 
         System.out.println("Total Questions : " + testData.size());
